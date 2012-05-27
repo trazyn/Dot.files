@@ -2,8 +2,8 @@
 #
 # ~/.xinitrc
 
-# Read font
-# xset +fp /usr/share/fonts/artwiz &
+# Load xft font
+xset +fp /usr/share/fonts/artwiz &
 xset fp rehash &
 
 # Set color

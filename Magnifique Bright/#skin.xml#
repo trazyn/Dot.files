@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<skin    name="MagnifiqueBright"       width="300"    height="90">
+  <albumcover               x="20"   y="3"  width="73"  height="73"/>
+  <image src="case.png"    x="0"   y="0"  width="109"  height="79"/>
+  <titlename                x="109"  y="11"  width="280" align="left" maxchars="26" font="Sans Bold 7" color="#FFFFFFFF" shadowcolor="#ff000000" shadow_x="1" shadow_y="1" />   
+  <artistname 	x="109" y="26" width="230" maxchars="44" font="Sans 7"	color="#ffffffFF" shadowcolor="#000000ff" shadow_x="1" shadow_y="1" />
+  <albumname 	x="109" y="41" width="230" maxchars="44" font="Sans 7" 	color="#ffffffFF"  shadowcolor="#000000ff" shadow_x="1" shadow_y="1" />
+  <playercontrols spacing="0" x="100" y="1000">
+        <prev 			x="30"  y="51"  src="prev.png"/> 
+        <play		 	x="49"  y="51"  src="pause.png"/> 
+	<next 			x="64"  y="51"	src="next.png"/> 
+  </playercontrols>
+
+<rating		x="109" y="56" width="10" height="10" spacing = "1" star="star.png" nostar="nostar.png" /> 
+</skin>
+
+

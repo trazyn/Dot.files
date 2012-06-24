@@ -1,0 +1,51 @@
+######################
+11/12/2011 04:12:59 PM
+######################
+
+
+-- Web browser
+luakit, swiftfox
+
+--- Music
+mpd, ncmpacpp-fftw
+
+-- Video
+mplayer
+
+-- Term
+rxvt-unicode-256color
+
+--- Gtk2 engine
+equinox, murrine
+
+--- Gtk2 theme
+darks, naos
+
+--- Gtk2 theme selector
+gtk2_prefs
+
+--- Cursor
+cursor_neutral
+
+--- Openbox
+openbox, obconf, obmenu
+
+--- Panel
+tint2
+
+--- Font patch
+freetype2-infinality
+
+--- Fonts
+Pragmata, Envy Code R VS
+
+
+--- System
+ntfs-3g, dbus, alsa-utils, alsa-plugins, alsa-lib, pulseaudio, flashplugin, xcompmgr
+acpi, cpufreq
+
+--- #
+weechat, gvim, feh, git, zsh, cscope, ctags, scrot, epdfview, mid3iconv
+
+--- Grub2 vga mode
+as root, hwinfo --framebuffer

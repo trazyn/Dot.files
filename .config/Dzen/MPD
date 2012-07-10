@@ -1,0 +1,16 @@
+   # When MPD isn't running, I use a text file to place 1 line small reminders. Just make a small .reminder txt file
+   # it's on the last line, It can be removed and replaced with something else. 
+   # Edit /home/YOURNAME/DZEN/ICONS/ to your desired directory, 
+
+update_interval 2.0
+total_run_times 0
+#double_buffer yes
+
+
+TEXT
+${if_mpd_playing} ^fg(\#BE0E50)^i(/home/tnrazy/.config/Dzen/ICONS/headphones.xbm) \
+^fg(\#D6D6D6)${mpd_artist} ^fg(\#BE0E50)^i(/home/tnrazy/.config/Dzen/ICONS/arrowsinvert.xbm) \
+^fg(\#D6D6D6)${mpd_title} ^fg(\#BE0E50)^i(/home/tnrazy/.config/Dzen/ICONS/arrowsinvert.xbm) \
+^fg(\#D6D6D6)${mpd_album} ${else}  \
+^fg(\#AA0E50)^i(/home/tnrazy/.config/Dzen/ICONS/important.xbm) ^fg(\#D6D6D6)${exec cat ~/.reminder} \
+${endif} 

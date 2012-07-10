@@ -1,0 +1,1007 @@
+ls ~/.config/script
+ls
+mk fonts
+ls
+cd $DISK_E/linux
+ls
+cd theme_cursor_fonts
+ls
+ls gtk-engine-nurrine-git.tar.gz
+ls -al gtk-engine-nurrine-git.tar.gz
+rm gtk-engine-nurrine-git.tar.gz
+ls
+ls -al equinox.tar.gz
+rm equinox.tar.gz
+ls
+ls
+ls fonts
+ls
+ls
+ls
+rm darks_bak
+ls
+rm darks
+rm instheme.sh
+ls
+df
+tar -czvf fonts fonts.tar.gz
+tar -czvf fonts.tar.gz fonts
+ls
+ls
+rm fonts
+ls
+tar -czvf naos.tar.gz naos
+ls
+rm naos
+ls
+tar -czvf Neutral.tar.gz Neutral
+ls
+cls
+ls
+rm Neutral
+ls
+cd ..
+ls
+vim README
+hwinfo --help
+hwinfo --framebuffer
+sudo hwinfo --framebuffer
+vim README
+ls -al
+ls
+ls -al
+rm .README.swp
+ls
+cp README ~/dotfile/LIST
+ls
+tar -czvf theme_cursor_fonts.tar.gz theme_cursor_fonts
+ls
+ls -al theme_cursor_fonts.tar.gz
+cp mv theme_cursor_fonts.tar.gz ~/dotfile
+mv theme_cursor_fonts.tar.gz ~/dotfile
+ls
+cd ~
+ls
+cd dotfile
+ls
+cp /usr/share/mpdcoverart/Magnifique\ Bright .
+ls
+git add *
+git commit
+git push https://github.com/tnrazy/dotfile.git
+ls
+cd fileserver
+ls
+mk test client
+ls
+mv client.c client
+ls
+make clean
+ls
+git init
+git add *
+git commit
+git pull https://github.com/tnrazy/myfileserver.git
+git push https://github.com/tnrazy/myfileserver.git 
+ls
+ls test
+mv client/client.c test
+ls
+rm client
+ls
+ls
+ls test
+ls
+ls
+cd /tmp
+ls
+rm 06_24
+ls
+rm fileserver.log
+echo > myfs.log
+ls
+cd ~
+ls
+ls
+cd fileserver
+ls
+make main
+make clean
+ls
+make main
+make clean
+make main
+make main
+make clean
+make 
+make main
+ls
+./myfs
+./myfs --
+./myfs --star
+./myfs --start conf
+ls
+cat conf
+./myfs --start=conf
+rm /tmp/myfs.log
+echo > /tmp/fileserver.log
+ls
+./myfs -s conf
+ls
+cd ~
+ls
+cd fileserver
+ls
+cd test
+ls
+vim client.c
+ls
+cp client ~
+ls
+cd ~
+s
+ls
+./client
+./client
+./client
+./client
+./client
+./client
+ls
+rm covers
+ls
+rm client
+cd fileserver
+ls
+./myfs --kill
+ls
+make clean
+ls
+cd test
+ls
+rm client
+mv client.c test.c
+ls
+ls
+cd ~
+ls
+cd fileserver
+ls
+make main
+git add *
+git commit
+ls
+make clean
+ls
+git add *
+git commit
+ls
+git push https://github.com/tnrazy/myfileserver.git
+git pull https://github.com/tnrazy/myfileserver.git
+git rm client/
+git rm myfs
+git rm client/
+sudo git rm client/
+ls
+git clean
+git clean -f
+ls
+ls
+git add *
+git commit
+git push #
+#
+#
+#
+#
+#
+#
+#
+#
+#
+git push https://github.com/tnrazy/myfileserver.git
+cd ~
+ls
+cd fileserver
+ls
+git push https://github.com/tnrazy/myfileserver.git
+ls
+ls
+git rm client/
+git rm -rf client/
+ls
+ls
+git add *
+git commit
+git push #
+#
+#
+#
+#
+#
+#
+#
+#
+ls
+cd fileserver
+ls
+git push https://github.com/tnrazy/myfileserver.git
+ls
+ls
+ls -al
+vim .gitconfig
+ls
+cp .gitconfig dotfile
+ls
+ls
+ls
+ls
+ls
+ls
+vim .xinitrc
+ls
+cd dotfile
+ls
+ls
+mk wallpaper
+cd wallpaper
+ls
+cp $Wallpaper/Beauty\ Wallpaper/1440x900\ -\ 15\ inch.jpg
+cp $Wallpaper/Beauty\ Wallpaper/1440x900\ -\ 15\ inch.jpg .
+feh *
+ls
+cd $Wallpaper
+ls
+feh *
+cp $Wallpaper/12-21-1/211545q0k3mkk9k31kfk03.jpg .
+ls
+feh 211545q0k3mkk9k31kfk03.jpg
+cp $Wallpaper/12-21-1/233351z1h12lyyhaauggk5.jpg .
+ls
+cp $Wallpaper/12-21-1/2333567h2igp4rnpx2xtg7.jpg .
+cp $Wallpaper/12-21-2/29.png .
+cp $Wallpaper/_28_by_bo0xvn-d395e14/_____28_1440_900.jpg .
+cp $Wallpaper/cherry_blossom_by_Zim2687/1440.jpg .
+cp $Wallpaper/pink_emotion_by_du3ky-d49mg8d/Pink\ Flowers.png .
+ls
+cd ..
+ls
+git add *
+git commit
+ls
+mv .gitconfig _gitconfig
+git add *
+git commit
+git push https://github.com/tnrazy/dotfile.git
+pacman -Ss spark
+man 3 strftime
+man 3 ctime
+man 3 strftime
+ls
+cd ~
+ls
+cd fileserver
+ls
+make main
+make main
+make main
+./myfs
+./myfs --
+./myfs -s conf
+ls
+cd fileserver/test
+ls
+vim test.c
+ls
+cp test ~
+ls
+cd ~
+ls
+./test
+mk covers
+cp .covers/Joe\ Hisaishi\ -\ Constriction.jpg test.jpg
+ls
+mv test.jpg covers
+ls
+./test
+./myfs -s
+./myfs --start
+./myfs -s
+make main
+./myfs
+cvls
+cls
+./myfs
+make main
+s reboot
+startx
+ls
+cd ~
+ls
+cd fileserver
+ls
+make clean
+make main
+./myfs -s conf
+ls
+echo > /tmp/fileserver.log
+./myfs -s conf
+cp fileserver/test/test.c
+cp fileserver/test/test.c .
+ls
+vim test.c
+ls
+ls -al covers
+vim test.c
+make main
+./myfs -s conf
+make main
+./myfs -s conf
+ls
+cp test.c fileserver/test
+cd fileserver
+ls
+git add *
+git commit
+make clean
+git add *
+git commit
+ls
+git push https://github.com/tnrazy/myfileserver.git
+git push https://github.com/tnrazy/myfileserver.git
+ls
+make clean
+ls
+git rm myfs
+ls
+ls
+git add *
+git commit
+git push https://github.com/tnrazy/myfileserver.git
+git clean
+git clean -f
+git add *
+git push https://github.com/tnrazy/myfileserver.git
+git add *
+git commit
+git commit
+git pull https://github.com/tnrazy/myfileserver.git
+git add *
+git commit
+git commit -a
+git push #
+#
+#
+#
+#
+#
+#
+#
+#
+cd fileserver
+ls
+git push https://github.com/tnrazy/myfileserver.git
+s reboot
+startx
+ncmpcpp
+mpdcoverart
+cd $Wallpaper
+ls
+feh *
+vim .xinitrc
+openbox --help
+openbox --restart
+startx
+mpdcoverart
+cd $Wallpaper
+l;s
+feh *
+vim .xinitrc
+openbox --restart
+startx
+mpdcoverart
+cd $iwork/mpdcoverart
+ls
+cd ..
+ls
+rm eeeasy
+unzip tnrazy-myfileserver-af162bb.rar
+ls
+ls
+unrar x tnrazy-myfileserver-af162bb.rar
+ls
+mv tnrazy-myfileserver-af162bb fstest
+ls
+rm tnrazy-myfileserver-af162bb.rar
+ls
+cd fstest
+ls
+git pull https://github.com/tnrazy/fstest.git
+git init
+git pull https://github.com/tnrazy/fstest.git
+ls
+sudo /etc/rc.d/cpufreq start
+ncmpcpp
+ncmpcpp
+ncmpcpp
+ncmpcpp
+ncmpcpp
+cd $iwork/fstest
+ls
+make
+make
+strftim
+man 3 strftime
+man  3 gmtime
+make
+make
+mka
+make
+ls
+make main
+ls
+./myfs -
+./myfs -s conf
+echo > /tmp/fileserver.log
+./myfs
+./myfs -s conf
+cd $iwork/fstest
+ls
+cd test
+ls
+cp test.c ~
+ls
+cd ~
+ls
+./test
+vim test.c
+make main
+./myfs -s conf
+make amin
+make main
+./myfs -s conf
+make main
+./myfs -s conf
+make main
+./myfs -s conf
+make main
+./myfs -s conf
+make main
+./myfs s conf
+./myfs -s conf
+make main
+./myfs -s conf
+cd /tmp
+ls
+cd 07_01
+ls
+feh *
+ls
+make clean
+ls
+ls
+git push https://github.com/tnrazy/fstest.git
+git add *
+git commit
+git push #
+#
+#
+#
+#
+#
+#
+#
+#
+cd $iwork/fstest
+ls
+git push #
+#
+#
+#
+#
+#
+#
+#
+git push https://github.com/tnrazy/fstest.git
+make main
+./myfs -s conf
+ls
+./test
+make main
+./myfs -s conf
+ls
+./test
+cd $iwork/fstest
+ls
+./myfs -kill
+ls
+git push https://github.com/tnrazy/fstest.git
+git add *
+git commit
+git push #
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+cd $iwork/fstest
+ls
+git push #
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+cls
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+https://github.com/tnrazy/fstest.git
+cd $iwork/fstest
+ls
+git push https://github.com/tnrazy/fstest.git
+make clean
+git add *
+git commit -a
+git push https://github.com/tnrazy/fstest.git
+cd $Video
+ls
+cd OLAV
+ls
+mplayer *
+mplayer 
+mplayer *
+ls
+cd APH-003
+;s
+ls
+mplayer *
+ls
+cd ..
+ls
+cd EVO-
+cd EVO-112
+ls
+mplayer *
+ncmpcpp
+ping www.baidu.com
+ld
+fd
+hd
+alias
+df
+df --help
+ls
+ls
+rm test.o
+ls
+fdisk -a
+cd /boot/grub
+;ls
+ls
+setup
+df
+fdisk -l
+fdisk -l /dev/sda
+fdisk -l /dev/sda
+sudo fdisk -l /dev/sda
+blkid -o list -c /dev/null
+ls -al /dev/disk/by-label
+fdisk -l
+sudo fdisk -l
+ncmpcpp
+s rebot
+s reboot
+s reboot
+starxt
+starxt
+cls
+starx
+cls
+startx
+cnm
+ncmpcpp
+mpdcoverart
+sudo pacman -Syu
+ls++
+ls -al
+vim .Xresources
+xrdb .Xresources
+ls -a
+ls -al
+cls
+ls
+wget http://robey.lag.net/downloads/mensch.ttf
+ls -al
+sudo cp mensch.ttf /usr/share/fonts
+sudo fc-cache
+sudo fc-cache -fv
+xrdb .Xresources
+ls 0al
+ls -al
+ls -al
+ls -al
+ls -al
+ls++
+cd ~
+xrdb .Xresources
+ls -al
+ls -al
+ls -a
+ls -a
+ls -q
+ls -al
+ls ++
+ls++
+xrdb .Xresources
+ls -al
+ls -al
+xrdb .Xresources
+ls -al
+xrdb .Xresources
+ls -al
+startx
+ls -al
+ls -al
+ps axu | grep fox
+kill 1757
+xrdb .Xresources
+ls -al
+ncmpcpp
+ls -al
+ls -al
+xrdb .Xresources
+ls -al;
+xrdb .Xresources
+ls -al
+ncmpcpp
+xrdb .Xresources
+ls -al
+ncmpcpp
+ls 
+ls -al
+ls -al
+ls -al
+sudo /etc/rc.d/cpufreq start
+ls -al
+fd
+df
+ls -al
+ls -al
+duch
+sudo duch
+du
+du -al
+du 
+du -a
+du
+du -H
+du -h
+duch
+duch -a
+ls
+ls -al
+ls
+ls
+ls
+ls
+ll
+ll
+ls -al
+ll
+ls
+rm mensch.ttf
+ls
+vim test.c
+wget http://jmknoble.net/fonts/jmk-x11-fonts-3.0.tar.gz
+sudo pacman -Syu
+wget http://jmknoble.net/fonts/jmk-x11-fonts-3.0.tar.gz
+ls
+rm jmk-x11-fonts-3.0.tar.gz
+ls
+rm test
+ls -al
+ls
+rm dotfile
+rm -rf dotfile
+ls
+ls Desktop
+rm Desktop
+ls
+rm test.c
+ls
+rm covers
+ls
+rm fileserver
+rm -rf fileserver
+ls
+pacman -Qi emacs-backward-word
+pacman -Q emacs-backward-word
+sudo pacman -Rnsv emacs-backward-word
+git clone https://github.com/trapd00r/configs.git
+sudo pacman -Rnsv emacs-backward-word
+emacs-backward-word
+whereis emacs-backward-word
+emacs-forward-word
+whereis emacs-backward-word
+whereis emacs-backward-word
+emacs-backward-word --help
+whereis zle
+echo $PATH
+emacs-backward-word
+ls -al
+sudo rm /var/local
+sudo rm /var/lock
+sudo rm /var/run
+sudo pacman -Syu
+ncmpcpp
+git clone https://github.com/CyanogenMod/android_development.git
+ls 
+cd con
+cd configs
+ls
+vim xmodshit
+ls
+xrdb Xresources
+ls
+cd ..
+xrdb .Xresources
+ls
+rm -rf configs
+ls
+cd $iwork/mpa
+cd $iwork/mpdcoverart
+ls
+cd src
+ls
+rm msg.c msg.h
+ls
+ls 
+cd $iwork/mpdcoverart
+l
+l
+l
+cd src
+l
+rm log,h
+s reboot
+ls -a
+sudo /etc/rc.d/cpufreq
+sudo /etc/rc.d/laptop-mode restart
+sudo /etc/rc.d/cpufreq start
+sudo /etc/rc.d/cpufreq start 0
+sudo /etc/rc.d/cpufreq start 0
+sudo /etc/rc.d/cpufreq start 0
+sudo /etc/rc.d/cpufreq start 0
+sudo /etc/rc.d/cpufreq start 0
+pl
+startx
+sudo wpa_supplicant --help
+sudo wpa_supplicant -Biwlan0 -c /etc/wpa_supplicant.conf
+pl
+pl
+sudo dhcpcd wlan0
+wpa_supplicant
+ncmpcpp
+mpdcoverart
+uname -a
+ls 
+cd .vim
+ls
+cd bundle
+lks
+ls
+sudo -rm git-vim
+sudo rm -rf git-vim
+ls -al
+ll
+ls
+rm -rf showmarks/
+cd ..
+ls
+vim vimrc
+ls -al
+ls -al
+cd bundle
+ls
+cd  command-t
+ls
+make
+vim README.txt
+ls
+cd ruby
+ls
+cd command-t
+ls
+make
+cd ..
+ls
+cd .vim/bundle/command-t
+ls
+make
+cd ..
+ls
+rm -rf command-t
+git clone https://github.com/wincent/Command-T.git
+cd comm
+cd Command-T
+ls
+ls -al
+vim README.txt
+ls 
+cd ruby
+s
+l
+cd command-t
+ls
+ruby extconf.rb
+make
+cd $iwork/mpdcoverart
+ls
+make clean
+make 
+ls
+cd src
+ls
+rm fileserver.c
+cd ..
+ls
+mak 
+make
+make
+make
+ls
+ls -al
+cd src
+ls
+rm test
+vim test.c
+ls
+rm test.c
+rm test.o
+rm test
+cd ..
+make 
+./mpdcoverart
+ncmpcpp
+man 3 strstr
+ncmpcpp
+cd $iwork/mpdcoverart
+ls
+make
+make clean
+make -Bi
+make -Bi
+make -Bi
+make -Bi
+make -Bi
+make -Bi
+./mpdcoverart
+vim .config/mpdcoverart/conf
+sensors
+vim /tmp/mpdcover.log
+make
+make 
+make -Bi
+./mpdcoverart
+make
+make
+./mpdcoverart
+make
+./mpdcoverart
+make
+./mpdcoverart
+make
+./mpdcoverart
+make 
+./mpdcoverart
+make
+./mpdcoverart
+ls .covers
+make 
+./mpdcoverart
+make
+./mpdcoverart
+mpdcoverart
+make
+./mpdcoverart
+make 
+make 
+./mpdcoverart
+make
+./mpdcoverart
+make 
+./mpdoc
+./mpdcoverart
+make 
+./mpdcoverart
+make 
+./mpdcoverart
+make 
+make 
+make 
+make
+./mpdcoverart
+./mpdcoverart
+mpdoc
+mpdcoverart
+sudo reboot
+startx
+ls -al
+sudo /etc/rc.d/cpufreq start 0
+vim /etc/rc.conf
+ls
+pacman -Ss ghostscript
+ls 
+ls -al
+ls -la
+ll
+ll
+startx
+ncmpcpp
+ls
+ls android_development
+git clone https://github.com/tnrazy/dotfile.git
+git clone https://github.com/tnrazy/mpdcoverart.git
+ls
+cd mpdcoverart
+ls
+ls
+rm log.c
+cd mpdcoverart/
+ls
+cd src
+ls
+rm msg.*
+cd .
+cd ..
+make clean
+make 
+./mpdcoverart
+ncmpcpp
+pacman -Ss udev
+sudo pacman -Sc
+pacman -S mkinitcpio
+sudo pacman -Ss mkinitcpio
+sudo /etc/rc.d/cpufreq restart 0
+ls
+cd dotfile
+ls
+cp ~/.Xresources .
+ls
+ll
+cp -r ~/.config .

@@ -1,0 +1,13 @@
+#!/bin/sh
+#ObliviousGmn
+
+HB=20        #Bar Height
+WB=960       #Width Bar, Half Your Resolution Width. Example: 1366 divide by 2 is 683
+FN='cure.se'    #Dzen2 from AUR with xft support used.
+CONF='/home/tnrazy/.config/Dzen/'
+
+INFO=${CONF}'INFO'
+MPD=${CONF}'MPD'
+
+conky -c ${INFO} | dzen2 -x ${WB} -w ${WB} -h ${HB} -fn ${FN} -ta r -p -dock &
+conky -c ${MPD} | dzen2 -w ${WB} -h ${HB} -fn ${FN} -ta l -p -dock 

@@ -1,0 +1,10 @@
+   ## For weather, Replace X's with your Zipcode
+   # Edit /home/YOURNAME/DZEN/ICONS/ to your desired directory, 
+
+update_interval 3.0
+total_run_times 0
+
+TEXT
+^fg(\#D6D6D6)${time %a %b %d %I:%M} ^fg(\#BE0E50)^i(/home/tnrazy/.config/Dzen/ICONS/arrows.xbm) \
+^fg(\#D6D6D6)${execi 300 /home/tnrazy/.config/Dzen/Weather XXXXXX} \
+^fg(\#BE0E50)^i(/home/tnrazy/.config/Dzen/ICONS/arrows.xbm) ^fg(\#D6D6D6)${nodename}  

@@ -1,0 +1,95 @@
+!
+! ~/.Xresources
+!
+!==============================================================
+!
+!   X R E S O U R C E S
+!
+! Global
+
+! fg and bg might be overwritten by an imported colorscheme
+! *background:              #151515
+! *foreground:              rgb:80/77/77
+! *foreground:              #807777
+*saveLines:               1024
+
+Xcursor.theme:            Neutral
+
+!==============================================================
+!
+! X f t
+!
+Xft.lcdfilter:            lcddefault
+Xft.hintstyle:            hintfull
+Xft.autohint:             0
+Xft.rh_prefer_bitmaps:    1
+Xft.hinting:              1
+Xft.antialias:            1
+Xft.dpi:                  96
+Xft.rgba:                 rgb
+
+!==============================================================
+!
+! U R x v t
+!
+! URxvt*font:               xft:Pragmata:pixelsize=9
+! URxvt*boldFont:           xft:Pragmata:pixelsize=9
+! URxvt*font:               xft:Neep:pixelsize=9
+! URxvt*boldFont:           xft:Neep:pixelsize=9
+! URxvt*letterSpace:        1
+
+!URxvt*font:               xft:Envy Code R VS:pixelsize=10
+URxvt*font: 		  xft:cure:pixelsize=9
+URxvt*buffered:           true
+URxvt*padding:		  1
+
+URxvt*cursorBlink:        false
+URxvt*cursorUnderline:    false
+
+URxvt*geometry:           80x15
+URxvt*internalBorder:     3
+
+! URxvt*reverseVideo:        true
+
+URxvt*depth:              24
+
+! URxvt*iconFile:            /home/crshd/.icons/kare/32x32/apps/terminal.png
+
+URxvt*scrollBar:          false
+URxvt*scrollBar_right:    true
+URxvt*scrollstyle:        plain
+URxvt*scrollColor:        #2873a2
+URxvt*scrollWithBuffer:   false
+URxvt*scrollTtyOutput:    true
+
+URxvt*urgentOnBell:       true
+!URxvt*visualBell:          true
+
+URxvt*pointerBlank:       true
+
+URxvt*termName:           rxvt-256color
+
+! Tabs
+! URxvt.tabbed.tabbar-fg:   8
+! URxvt.tabbed.tabbar-bg:   0
+! URxvt.tabbed.tab-fg:      0
+! URxvt.tabbed.tab-bg:      4
+
+! Perls stuff
+URxvt.perl-lib:           /usr/lib/urxvt/perl/
+! URxvt.perl-ext-common:    default,matcher,tabbed
+URxvt.perl-ext-common:    default,matcher
+URxvt.perl-ext:           default
+URxvt.keysym.M-u:         perl:url-select:select_next
+URxvt.urlLauncher:        /usr/bin/swiftfox
+URxvt.matcher.button:     1
+
+!==============================================================
+!
+! C O L O R S
+!
+! # include ".config/xresources/railscast_colors"
+# include ".config/xresources/colors"
+
+! Fix urxvt 256 colors
+# include ".config/xresources/urxvt_fix"

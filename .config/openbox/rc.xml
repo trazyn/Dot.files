@@ -42,7 +42,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>darks</name>
+    <name>tri 2</name>
     <titleLayout>LIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -85,9 +85,9 @@
     </font>
     <font place="MenuItem">
       <name>Pragmata</name>
-      <size>10</size>
+      <size>9</size>
       <!-- font size in points -->
-      <weight>Bold</weight>
+      <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
       <slant>Italic</slant>
       <!-- 'italic' or 'normal' -->

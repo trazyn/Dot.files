@@ -1,0 +1,481 @@
+style "thunar-view" = "theme-thin"
+{
+	GtkScrolledWindow	::scrollbar-spacing		= 0
+	GtkScrolledWindow	::shadow-type			= GTK_SHADOW_NONE
+	GtkScrolledWindow	::scrollbars-within-bevel	= 0
+
+	GtkWidget		::shadow-type			= GTK_SHADOW_NONE
+	GtkWidget		::draw-border			= {0,0,0,0}
+	
+	bg[NORMAL]	= shade (1.08, @bg_color)
+	base[NORMAL]	= shade (1.08, @bg_color)
+}
+
+style "thunar-window-base" = "theme-thin"
+{
+	GtkScrolledWindow	::scrollbar-spacing		= 0
+	GtkScrolledWindow	::shadow-type			= GTK_SHADOW_NONE
+	GtkScrolledWindow	::scrollbars-within-bevel	= 0
+
+	GtkWidget		::shadow-type			= GTK_SHADOW_NONE
+	GtkWidget		::draw-border			= {0,0,0,0}
+
+	bg[NORMAL]	= shade (1.08, @bg_color)
+
+	base[NORMAL]	= shade (1.08, @bg_color)
+	base[SELECTED]	= @selected_bg_color
+}
+
+style "thunar-statusbar" = "theme-default"
+{
+	xthickness	= 2
+
+	bg[NORMAL]	= shade (1.08, @bg_color)
+}
+
+style "thunar-entry" = "theme-wider"
+{
+}
+
+style "thunar-path-entry"
+{
+	xthickness	= 3
+	ythickness	= 0
+
+	ThunarPathEntry	::icon-size			= 16 # Size of icon in path entry.
+	ThunarPathEntry	::honors-transparent-bg-hint	= 1
+
+	engine "murrine"
+	{
+	}
+}
+
+style "thunar-button" = "theme-wider"
+{
+	engine "murrine"
+	{
+	}
+}
+
+style "thunar-treeview-button"
+{
+	xthickness	= 2
+	ythickness	= 0
+
+	# bg[NORMAL]	= @fm_color
+}
+
+style "thunar-toolbar" = "theme-toolbar"
+{
+	# GtkToolbar	::shadow-type	= GTK_SHADOW_NONE
+
+	xthickness	= 1
+	ythickness	= 1
+}
+
+style "thunar-scrollbar" = "theme-thin"
+{
+	GtkScrollbar	::trough-border		= 0
+	GtkScrollbar	::has-backward-stepper	= 0
+	GtkScrollbar	::has-secondary-backward-stepper	= 0
+	GtkScrollbar	::has-forward-stepper	= 0
+	GtkScrollbar	::has-secondary-forward-stepper		= 0
+
+	engine "pixmap"
+	{
+
+################## TROUGH ##################
+
+		image 
+		{
+			function		= BOX
+			recolorable		= TRUE
+			detail			= "trough"
+			file			= "Scrollbars/empty-fm.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= BOX
+			recolorable		= TRUE
+			detail			= "trough"
+			file			= "Scrollbars/empty-fm.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+################## SLIDERS - HORIZONTAL ##################
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/slider-horiz-fm.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/slider-horiz-prelight-fm.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/slider-horiz-prelight-fm.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/slider-horiz-fm.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+################## SLIDERS - VERTICAL ##################
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/slider-vert-fm.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/slider-vert-prelight-fm.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/slider-vert-prelight-fm.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/slider-vert-fm.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+###################### STEPPERS - UP ######################
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/stepper-up.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= UP
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/stepper-up-prelight.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= UP
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/stepper-up-prelight.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= UP
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/empty-fm.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			arrow_direction		= UP
+		}
+
+###################### STEPPERS - DOWN ######################
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/stepper-down.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= DOWN
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/stepper-down-prelight.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= DOWN
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/stepper-down-prelight.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= DOWN
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/empty-fm.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			arrow_direction		= DOWN
+		}
+
+###################### STEPPERS - RIGHT ######################
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/stepper-right.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= RIGHT
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/stepper-right-prelight.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= RIGHT
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/stepper-right-prelight.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= RIGHT
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/empty-fm.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			arrow_direction		= RIGHT
+		}
+
+###################### STEPPERS - LEFT ######################
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/stepper-left.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= LEFT
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/stepper-left-prelight.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= LEFT
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/stepper-left-prelight.png"
+			border			= { 2, 2, 2, 2 }
+			stretch			= TRUE
+			arrow_direction		= LEFT
+		}
+
+		image 
+		{
+			function		= STEPPER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/empty-fm.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			arrow_direction		= LEFT
+		}
+	}
+}
+
+style "thunar-menubar" = "theme-menubar"
+{
+	# GtkMenuBar	::shadow-type	= GTK_SHADOW_NONE
+
+	xthickness	= 1
+	ythickness	= 0
+}
+
+style "thunar-icon-view"
+{
+	ThunarIconView	::column-spacing	= 6 # The additional space inserted between columns in the icon and compact view. Default - 6.
+	ThunarIconView	::row-spacing		= 6 # The additional space inserted between rows in the icon and compact view. Default - 6.
+}
+
+style "thunar-compact-view"
+{
+	ThunarCompactView	::column-spacing	= 6 # The additional space inserted between columns in the icon and compact view. Default - 6.
+	ThunarCompactView	::row-spacing		= 0 # The additional space inserted between rows in the icon and compact view. Default - 0.
+}
+
+style "thunar-location-buttons"
+{
+	ThunarLocationButtons	::spacing	= 1 # Space between location buttons. Default - 3.
+	xthickness	= 3
+	ythickness	= 2
+
+	GtkButton	::child-displacement-y		= 0
+	GtkButton	::child-displacement-X		= 0
+}
+
+style "thunar-handle"
+{
+	xthickness	= 0
+	ythickness	= 0
+
+	GtkPaned	::handle-size	= 3
+
+	engine "pixmap"
+	{
+		image
+		{
+			function		= HANDLE
+		}
+	}
+}
+
+style "thunar-sidebar"
+{
+	xthickness	= 0
+	ythickness	= 0
+
+	bg[NORMAL]	= @bg_color
+	bg[PRELIGHT]	= @bg_color
+
+	base[SELECTED] 	= shade (1.08, @bg_color)
+	base[ACTIVE]	= shade (1.08, @bg_color)
+
+	text[NORMAL]	= shade (0.8, @bg_color)
+	text[SELECTED]	= @fg_color
+	text[ACTIVE]	= @fg_color
+
+	font_name	= "Semibold 7"
+	
+	GtkWidget	::wide-separator	= 1
+	GtkWidget	::separator-width	= 0
+	GtkWidget	::separator-height	= 0
+	GtkWidget	::focus-line-width	= 0
+
+	engine ""
+	{
+	}
+}
+
+class "ThunarIconView"		style "thunar-icon-view"
+class "ThunarCompactView"	style "thunar-compact-view"
+
+widget_class "*Thunar*Window*"			style "thunar-window-base"
+widget_class "*Thunar*Toolbar*"			style "thunar-toolbar"
+widget_class "*Thunar*Toolbar*Button"		style:highest "theme-button"
+widget_class "*Thunar*Menu*"			style "theme-menu"
+widget_class "*Thunar*MenuBar*"			style "thunar-menubar"
+widget_class "*Thunar*Statusbar*"		style "thunar-statusbar"
+widget_class "*Thunar*View*"			style "thunar-view"
+widget_class "*Thunar*Shortcut*"		style "thunar-sidebar"
+widget_class "*Thunar*Notebook"			style "theme-notebook"
+widget_class "*Thunar*Paned*"			style "thunar-handle"
+widget_class "*Thunar*Scrollbar"		style "thunar-scrollbar"
+widget_class "*Thunar*Entry*"			style "thunar-entry"
+class "ThunarPathEntry"				style "thunar-path-entry"
+widget_class "*Thunar*Button*"			style "thunar-button"
+widget_class "*Thunar*Tree*Button*"		style "thunar-treeview-button"
+widget_class "*Thunar*Location*Button*" 	style "thunar-location-buttons"
+

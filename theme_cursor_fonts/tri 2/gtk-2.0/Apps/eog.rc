@@ -1,0 +1,17 @@
+style "eog-window"
+{
+	GtkScrolledWindow::scrollbar-spacing		= 0
+	GtkWidget::shadow_type				= GTK_SHADOW_NONE
+	GtkWidget::draw_border				= {0,0,0,0}
+	GtkScrolledWindow::shadow_type			= GTK_SHADOW_NONE
+	GtkScrolledWindow::scrollbars-within-bevel	= 0
+	
+	xthickness              = 0
+	ythickness              = 0
+}
+
+widget_class "*Eog*Window*"			style "eog-window"
+widget_class "*Eog*Toolbar*"              	style "theme-toolbar"
+widget_class "*Eog*MenuBar*"               	style "theme-menubar"
+widget_class "*Eog*Statusbar*"                  style "theme-statusbar"
+widget_class "*Eog*Scrollbar*"			style "theme-scrollbar"

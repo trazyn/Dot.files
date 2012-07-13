@@ -1,0 +1,599 @@
+style "nautilus-sidebar" = "theme-thin"
+{
+	xthickness	= 8
+	ythickness	= 0
+
+	bg[NORMAL]	= @bg_color
+	bg[PRELIGHT]	= @bg_color
+
+	base[SELECTED] 	= shade (0.92, @bg_color)
+	base[ACTIVE]	= shade (0.92, @bg_color)
+
+	text[NORMAL]	= shade (0.7, @bg_color)
+	text[SELECTED]	= @fg_color
+	text[ACTIVE]	= @fg_color
+
+	font_name	= "Semibold 7"
+
+	GtkTreeView	::odd-row_color		= @bg_color
+	GtkTreeView	::even-row_color	= @bg_color
+	
+	GtkPaned	::handle-size		= 0
+	GtkWidget	::wide-separator	= 1
+	GtkWidget	::separator-width	= 0
+	GtkWidget	::separator-height	= 0
+	GtkWidget	::focus-line-width	= 1
+	GtkWidget	::draw-border		= { 0, 0, 0, 0 }
+
+	GtkTreeView	::vertical-separator	= 0
+	GtkTreeView	::horizontal-separator	= 16
+	GtkTreeView	::indent-expanders	= 1
+	GtkTreeView	::expander-size		= 8
+	GtkExpander	::expander-spacing	= 16
+	GtkButton	::image-spacing		= 4
+
+	engine ""
+	{
+	}
+}
+
+style "nautilus-view" = "theme-thin"
+{
+	GtkWidget	::draw-border	= { 0, 0, 0, 0 }
+
+	base[NORMAL]	= shade (1.08, @bg_color)
+}
+
+
+style "nautilus-sidebar-title"
+{
+	xthickness	= 3
+	ythickness	= 0
+
+	fg[NORMAL]	        = @fg_color
+	fg[PRELIGHT]	        = @fg_color
+	fg[ACTIVE]		= @fg_color
+
+	#bg[NORMAL]		= @fm_color
+	#bg[PRELIGHT]       	= @fm_color
+	#bg[ACTIVE]		= @fm_color
+
+	#stock["gtk-close"] = {{ "Others/null.png", *, *, * }} # Get rid of the close icon
+
+	font_name 	                  = "Bold 8"
+
+	GtkExpander	::expander-spacing	= 0
+	GtkExpander	::expander-size		= 0
+	#GtkArrow	::arrow-scaling		= 0.8 # allowed: 0.1 ~ 1.0 (0.6 is an approximation to get 9 by 9 pixels arrow)
+	GtkButton	::image-spacing		= 0
+	GtkButton	::inner-border		= {0, 0, 0, 0}
+	GtkButton	::child-displacement-x	= 0
+	GtkButton	::child-displacement-y	= 0
+	GtkButton	::default-border	= { 0, 0, 0, 0 }
+	
+	/* engine "pixmap"
+	{
+		image
+		{
+			function	= SHADOW
+		}
+
+		image
+		{
+			function	= BUTTON
+		}
+
+		image
+		{
+			function		= ARROW
+			arrow_direction		= DOWN
+		}
+	} */
+}
+
+style "nautilus-handle"
+{
+	GtkPaned	::handle-size	= 2
+
+	engine "pixmap"
+	{
+		image
+		{
+			function	= HANDLE
+			file		= "Handles/handle-nautilus.png"
+			border		= { 0, 0, 0, 0 }
+			stretch		= TRUE
+			orientation	= VERTICAL
+		}
+	}
+}
+
+style "nautilus-statusbar" = "theme-default"
+{
+	xthickness	= 2
+
+	engine "murrine"
+	{
+	}
+}
+
+style "nautilus-scrollbar" = "theme-thin"
+{
+	GtkScrollbar	::slider-width		= 11
+	GtkScrollbar	::trough-border		= 5
+	GtkScrollbar	::has-backward-stepper	= 0
+	GtkScrollbar	::has-secondary-backward-stepper	= 0
+	GtkScrollbar	::has-forward-stepper	= 0
+	GtkScrollbar	::has-secondary-forward-stepper		= 0
+
+	engine "pixmap"
+	{
+
+################## TROUGH ##################
+
+		image 
+		{
+			function		= BOX
+			recolorable		= TRUE
+			detail			= "trough"
+			file			= "Scrollbars/empty-fm.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= BOX
+			recolorable		= TRUE
+			detail			= "trough"
+			file			= "Scrollbars/empty-fm.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+################## SLIDERS - HORIZONTAL ##################
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/slider-horiz-fm.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/slider-horiz-prelight-fm.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/slider-horiz-prelight-fm.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/slider-horiz-fm.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+################## SLIDERS - VERTICAL ##################
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/slider-vert-fm.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/slider-vert-prelight-fm.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/slider-vert-prelight-fm.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/slider-vert-fm.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+	}
+}
+
+style "nautilus-emblem-scrollbar" = "theme-scrollbar"
+{
+	GtkScrollbar	::slider-width		= 11
+	GtkScrollbar	::trough-border		= 5
+	GtkScrollbar	::has-backward-stepper	= 0
+	GtkScrollbar	::has-secondary-backward-stepper	= 0
+	GtkScrollbar	::has-forward-stepper	= 0
+	GtkScrollbar	::has-secondary-forward-stepper		= 0
+
+	engine "pixmap"
+	{
+
+################## TROUGH ##################
+
+		image 
+		{
+			function		= BOX
+			recolorable		= TRUE
+			detail			= "trough"
+			file			= "Scrollbars/empty.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= BOX
+			recolorable		= TRUE
+			detail			= "trough"
+			file			= "Scrollbars/empty.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+################## SLIDERS - HORIZONTAL ##################
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/slider-horiz.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/slider-horiz-prelight.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/slider-horiz-prelight.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/slider-horiz.png" 
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= HORIZONTAL
+		}
+
+################## SLIDERS - VERTICAL ##################
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= NORMAL
+			file			= "Scrollbars/slider-vert.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= ACTIVE
+			file			= "Scrollbars/slider-vert-prelight.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= PRELIGHT
+			file			= "Scrollbars/slider-vert-prelight.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+
+		image 
+		{
+			function		= SLIDER
+			recolorable		= TRUE
+			state			= INSENSITIVE
+			file			= "Scrollbars/slider-vert.png" 
+			border			= { 3, 3, 3, 3 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+	}
+}
+
+style "nautilus-mode-button"
+{
+	xthickness	= 0
+	ythickness	= 0
+
+	bg[NORMAL]	= shade (1.02, @bg_color)
+	bg[PRELIGHT]	= mix (0.9, @bg_color, @selected_bg_color)
+	bg[SELECTED]	= shade (0.85, @bg_color)
+}
+
+style "nautilus-toolbar" = "theme-toolbar"
+{
+	xthickness	= 1
+	ythickness	= 1
+}
+
+style "nautilus-menubar" = "theme-menubar"
+{
+	xthickness	= 1
+	ythickness	= 1
+}
+
+style "nautilus-emblem" = "theme-thin"
+{
+	bg[NORMAL]	= @bg_color
+}
+
+style "nautilus-tree-sidebar" = "theme-thin"
+{
+	GtkWidget	::focus-line-width	= 1
+
+	font_name	= "Regular"
+
+	base[NORMAL]	= @bg_color
+	base[ACTIVE]	= shade (0.8, @bg_color)
+	base[SELECTED]	= @selected_bg_color
+
+	text[ACTIVE]	= @fg_color
+	text[SELECTED]	= @selected_fg_color
+
+	engine "mist"
+	{
+	}
+}
+
+style "nautilus-panes"
+{
+	GtkPaned	::handle-size	= 3
+
+	bg[NORMAL]	= @bg_color
+
+	engine "pixmap"
+	{
+		image
+		{
+			function		= HANDLE
+			file			= "Handles/handle-nautilus-twinview.png"
+			border			= { 0, 0, 0, 0 }
+			stretch			= TRUE
+			orientation		= VERTICAL
+		}
+	}
+}
+
+style "nautilus-navigation-buttons"
+{	
+	GtkButton	::child-displacement-y		= 0
+	GtkButton	::child-displacement-X		= 0
+	GtkButton	::inner-border			= { 3, 3, 0, 0}
+
+	engine "pixmap"
+	{	
+		image
+		{
+			function        	= BOX
+			shadow				= OUT
+			recolorable     	= TRUE
+			state				= PRELIGHT
+			file				= "Breadcrumbs/breadcrumb-normal.png"
+			border				= { 0, 0, 2, 2 }
+			stretch         	= TRUE
+		}		
+
+		image
+		{
+			function        	= BOX
+			recolorable     	= TRUE
+			shadow				= IN
+			state				= PRELIGHT
+			file				= "Breadcrumbs/breadcrumb-active.png"
+			border				= { 2, 1, 2, 1 }
+			stretch         	= TRUE
+		}
+	  
+		image
+		{
+			function        	= BOX
+			recolorable     	= TRUE
+			state				= NORMAL
+			file				= "Breadcrumbs/breadcrumb-normal.png"
+			border				= { 0, 0, 2, 2 }
+			stretch         	= TRUE
+		}
+		
+		image
+		{
+			function        	= BOX
+			recolorable     	= TRUE
+			state				= PRELIGHT
+			file				= "Breadcrumbs/breadcrumb-active.png"
+			border				= { 2, 1, 2, 1 }
+			stretch         	= TRUE
+		}
+	
+
+		image
+		{
+			function        	= BOX
+			recolorable     	= TRUE
+			state				= ACTIVE
+			file				= "Breadcrumbs/breadcrumb-active.png"
+			border				= { 2, 1, 2, 1 }
+			stretch         	= TRUE
+		}  
+
+		image
+		{
+			function        	= BOX
+			recolorable     	= TRUE
+			state				= INSENSITIVE
+			file				= "Breadcrumbs/breadcrumb-normal.png"
+			border				= { 0, 0, 2, 2 }
+			stretch         	= TRUE
+		} 
+
+		image
+		{
+			function        	= BOX
+			recolorable     	= TRUE
+			state				= SELECTED
+			file				= "Breadcrumbs/breadcrumb-active.png"
+			border				= { 2, 1, 2, 1 }
+			stretch         	= TRUE
+		}
+	}
+}
+
+style "nautilus-left-slider"
+{
+	xthickness = 0
+	ythickness = 0
+	
+	engine "pixmap"
+	{
+		image
+		{
+			function 		= BOX
+			file			= "Breadcrumbs/left-slider-normal.png"
+			border			= { 2, 0, 2, 2 }
+			stretch			= TRUE
+		}
+	}
+
+}
+
+style "nautilus-right-slider"
+{	
+	xthickness = 0
+	ythickness = 0
+	
+	engine "pixmap"
+	{
+		image
+		{
+			function 		= BOX
+			file			= "Breadcrumbs/right-slider-normal.png"
+			border			= { 0, 2, 2, 2 }
+			stretch			= TRUE
+		}
+	}
+}
+
+# Order of assignment is important
+
+widget_class "*Nautilus*Window*"		style "theme-thin"
+widget_class "*Nautilus*Toolbar*"		style "nautilus-toolbar"
+widget_class "*Nautilus*MenuBar*"		style "nautilus-menubar"
+widget_class "*Nautilus*Paned*"			style "nautilus-panes"
+widget_class "*Nautilus*Statusbar*"		style "nautilus-statusbar"
+widget_class "*Nautilus*Scale*"			style "theme-scale"
+widget "*Nautilus*Splitter"			style "nautilus-handle"
+widget_class "*Nautilus*View*"			style "nautilus-view"
+
+widget_class "*NautilusSidePane.*"		style "nautilus-sidebar-title"
+widget_class "*Nautilus*Places*Sidebar*"	style:highest "nautilus-sidebar"
+widget_class "*Nautilus*Side*.GtkWidget"	style "nautilus-sidebar"
+widget_class "*Nautilus*EmblemSidebar*"		style "nautilus-emblem"
+widget_class "*Nautilus*Side*Tree*"		style "nautilus-tree-sidebar"
+widget_class "*Nautilus*Notes*"			style "nautilus-tree-sidebar"
+widget_class "*Nautilus*History*"		style "theme-thin"
+widget_class "*Nautilus*Information*"		style "nautilus-emblem"
+widget_class "*Nautilus*Side*Title*"		style "nautilus-sidebar-title"
+
+widget_class "*Nautilus*Notebook"		style "theme-notebook"
+widget_class "*Nautilus*Scrollbar"		style "nautilus-scrollbar"
+widget_class "*Nautilus*Side*Scroll*"		style:highest "nautilus-emblem-scrollbar"
+widget_class "*Nautilus*Notes*Scroll*"		style "nautilus-emblem-scrollbar"
+widget_class "*Nautilus*History*Scroll*"	style "nautilus-emblem-scrollbar"
+widget_class "*Nautilus*Information*Scroll*"	style "nautilus-emblem-scrollbar"
+widget_class "*Nautilus*Entry*"			style "theme-wider"
+widget_class "*Nautilus*List*Button*"		style:highest "theme-treeview-header"
+widget_class "*Nautilus*Button*"		style "theme-button"
+widget "*GtkModeButton*"			style:highest "nautilus-mode-button"
+
+# Breadcrumbs below. Comment to disable.
+widget_class "*NautilusPathBar.*ToggleButton"	style:highest "nautilus-navigation-buttons"
+widget "Nautilus*left_slider*"			style:highest "nautilus-left-slider"
+widget "Nautilus*right_slider*"			style:highest "nautilus-right-slider"
+
+

@@ -1,0 +1,17 @@
+<skin name="default" width="300" height="90">
+  <albumcover x="19" y="2" width="75" height="75" nocover="nocover.png"/>
+  <image src="case.png"    x="0"   y="0"/>
+
+  <!-- align, 1:right, 0:left, 0.5:middle -->
+  <titlename x="109"  y="11" enable="1" align="0" maxchars="30" font="Sans Bold 7" color="white" />   
+  <artistname x="109" y="28" enable="1" align="0" maxchars="49" font="Sans 7" color="white" />
+  <albumname x="109" y="41" enable="1" align="0" maxchars="49" font="Sans 7"	color="white" />
+  <playercontrols>
+        <prev	x="30"  y="51"  src="prev.png"/> 
+        <play 	x="49"  y="51"  src="play.png"/> 
+        <pause 	x="49"  y="51"  src="pause.png"/> 
+	<next 	x="64"  y="51"	src="next.png"/> 
+  </playercontrols>
+</skin>
+
+

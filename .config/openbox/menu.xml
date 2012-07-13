@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+	<menu id="razy_apps" label="App ~">
+		<item label="FEH">
+			<action name="Execute">
+				<execute>feh</execute>
+			</action>
+		</item>
+		<item label="PDF View">
+			<action name="Execute">
+				<execute>
+					epdfview
+				</execute>
+			</action>
+		</item>
+		<item label="GVIM">
+			<action name="Execute">
+				<execute>
+					gvim
+				</execute>
+			</action>
+		</item>
+		<item label="MPD">
+			<action name="Execute">
+				<execute>
+					mpd --verbose
+				</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="system-menu" label="System #">
+		<item label="Openbox Configuration Manager">
+			<action name="Execute">
+				<command>
+					obconf
+				</command>
+				<startupnotify>
+					<enabled>
+						yes
+					</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Openbox Menu Editor">
+			<action name="Execute">
+				<execute>
+					sudo obmenu /etc/xdg/openbox/menu.xml
+				</execute>
+			</action>
+		</item>
+		<separator/>
+		<item label="Reconfigure Openbox">
+			<action name="Reconfigure"/>
+		</item>
+	</menu>
+	<menu id="root-menu" label="Openbox 3">
+		<!-- <separator label="Applications"/> -->
+		<item label="URXVT">
+			<action name="Execute">
+				<execute>
+					urxvt
+				</execute>
+			</action>
+		</item>
+		<item label="Browser - swiftfox   *">
+			<action name="Execute">
+				<execute>swiftfox google.com/ncr</execute>
+			</action>
+		</item>
+		<separator/>
+		<menu id="razy_apps"/>
+		<!-- <separator label="System"/> -->
+		<menu id="system-menu"/>
+		<separator/>
+		<item label="Themes">
+			<action name="Execute">
+				<execute>gtk2_prefs</execute>
+			</action>
+		</item>
+		<item label="Wallpaper">
+			<action name="Execute">
+				<execute>nitrogen</execute>
+			</action>
+		</item>
+		<item label="Bye!!">
+			<action name="Exit">
+				<prompt>
+					yes
+				</prompt>
+			</action>
+		</item>
+	</menu>
+</openbox_menu>

@@ -48,6 +48,11 @@
 				</execute>
 			</action>
 		</item>
+		<item label="Refresh Openbox">
+			<action name="Execute">
+				<execute>openbox --restart</execute>
+			</action>
+		</item>
 		<separator/>
 		<item label="Reconfigure Openbox">
 			<action name="Reconfigure"/>
@@ -60,6 +65,11 @@
 				<execute>
 					urxvt
 				</execute>
+			</action>
+		</item>
+		<item label="Browser - luakit">
+			<action name="Execute">
+				<execute>luakit www.google.com/ncr</execute>
 			</action>
 		</item>
 		<item label="Browser - firefox   *">

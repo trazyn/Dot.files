@@ -24,8 +24,8 @@ border_color = #52504C 100
 # ID 4
 rounded = 0
 border_width = 1
-background_color = #E4DFDB 100
-border_color = #52504C 100
+background_color = #2C2B29 100
+border_color = #2C2B29 100
 
 # Panel
 panel_monitor = all
@@ -86,20 +86,20 @@ systray_icon_size = 16
 systray_icon_asb = 100 0 0
 
 # Clock
-time1_format = %d.%m // %H:%M
-time1_font = DejaVu Sans Bold Semi-Condensed 7
-clock_font_color = #FFFFFF 100
-clock_padding = 1 0
+time1_format = %B,%d // %H:%M
+time1_font = Pragmata Bold 7
+clock_font_color = #00FF60 100
+clock_padding = 0 0
 clock_background_id = 0
 
 # Tooltips
-tooltip = 1
-tooltip_padding = 2 2
+tooltip = 0
+tooltip_padding = 6 10
 tooltip_show_timeout = 0.7
 tooltip_hide_timeout = 0.3
 tooltip_background_id = 4
-tooltip_font = DejaVu Sans Semi-Condensed 8
-tooltip_font_color = #282828 100
+tooltip_font = Envy Code R VS Bold 7
+tooltip_font_color = #FF00FF 100
 
 # Mouse
 mouse_middle = none

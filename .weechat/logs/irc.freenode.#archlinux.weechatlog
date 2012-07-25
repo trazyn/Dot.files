@@ -1,0 +1,847 @@
+2012-07-25 16:23:43	>	tnrazy1 (~tnrazy@120.65.93.251) has joined #archlinux
+2012-07-25 16:23:43	⇄	Topic for #archlinux is ""Welcome to Arch Linux World Domination, Inc. <+> http://www.archlinux.org/news/install-media-20120715-released/ <+> http://www.archlinux.org/news/grub-legacy-no-longer-supported/ <+> Breakage ahead: http://www.archlinux.org/news/the-lib-directory-becomes-a-symlink/ <+> Please read before updating: https://bbs.archlinux.org/viewtopic.php?id=57205"
+2012-07-25 16:23:43	⇄	Topic set by gtmanfred (~gtmanfred@archlinux/trusteduser/gtmanfred) on Mon, 23 Jul 2012 02:11:02
+2012-07-25 16:23:43	⇄	Nicks #archlinux: [[muttox] [vEX] ^Tom^ _ikke_ _schulte_ `kk `lorim a0x AaaA aaket504 aarossig abique|work abyxcos acfrazier Aciid acperkins ader10 Adjunct adlan Adran Adys aep aGaTHoS aic airggie ak5 akawaka AkiraYB akosch alexandernst alexandros_c AlexP alfplayer aliasd alienvenom ambossarm ambrosia amigo ampeg amunak anachron andy82 anekos anhpht anish anonymouse89 antihero Arbamisto archdori archeyDevil ArchGT archtaku Archtivity Ariii arkx arrdem arthurdent AsAck_away asch asdil12 asfethan ashnur Asphyxiated|Dk astirya AthlonRob attar augustl aupo avawn_ avocado axion aznblur azriel Bacalli backb0ne BadAtom bandroidx Bane^ banex Barthalion bassliner batrick bax baypilot bc547 beardyjay bedouin beezow Behold Belgarion0 benbergman benoliver999 benpro bentglasstube berz_ betamine bfrog biberao bioterror bjh13 bjonnh Bl_nK Blaasvis BladedThesis blast_hardcheese BlastHardcheese blazt blind bloony blotek BluABK bluaki bluephoenix47 Bluewind blut Bobby boblehest BombStrike bond` Boohbah Borromini bougyman Bowler_ boxofrox brachyonic brad[] brandonw brian Brian_H brisbin Brookie bryogenic btreecat bug2000 Bugson buq2 C-S-B cafaro caintbe Caleb CalimeroTeknik calzifer camerin candybar carbolymer catalinb caveat- cedeel celthunder cfricke ChaozZBubi cHarNe2 chat chee Chelsea Chewtoy chjj chmuri chris2 ChrisOelmueller chron Chu-lip cian1500ww cinelli ciscon cjdavies clamps classix clinch clippy cmal CME cmr_ CodeBlock CodeVision codeworkx Codynyx colona companion connyosis_ corecode coredump|br Cork cpwithers cr-ver Cr8 crashmag crawlman crazedpsyc Crazy4108 crdueck crooksey cruxeternus cryorat CryptoCrack CryptoNaut curson cvr_ cwaydt Cyber_Akuma CyberSix cyberspace- cyen cyp__ cyrusae d-old d4red3vil d_garbage daba_ dabreaka` Daenyth dafu DalinSprocket damentz Dan39 Danio danmackay danners DarkClown DarkSector dasbjo Dashkal daurnimator dawey DaZ DE1 Death_Syn Deathspawn Debolaz DebolazW debu_ decklin Deewiant defane defektz deizhu delcoyote deltharac demarchi Demios` demolithion demonicm1niac demonicmaniac3 derrida desg Desoxy dethredic Dettorer Devastatorius developej devon` devotchka DexterLB dflurker_ dhbiker Dhraakellian Diablo1174 die_seanzen Dieterbe Digital_Lemon DigitalKiwi dimeshake DinCahill dino- disasm dizz3r djweezy dk0r dmarkey_ doc_who DOMAKESAYTHINK donch dorftrottel_ dots dougpiston drag0nl0rd drdr3w drdrewdown Dream_Team DRiKE drl Droggl dropdrive DRW_ dsoto dspider dspt Dtgr duckinator dunz0r DURgod duxklr du|dx dv_ dvance Dwarr dylix e0x e36freak eagletmt ealexp Earnestly ebarch ecraven edt_ EdwardIII efaistos efjboss EIHoppe eir el_seano elaoin-ng elbjorn elliottcable elmargol else- EmoSpice end3r- enderst endre Enjolras epegzz epitron eqyiel ered ericab_away Ertyle erufu eses007 etank ethanol etix eto Evanlec evie_hammond evpuneq_ evr_ evr__ Ex exhortatory exocaesar Expoti exul ezzieyguywuf f0i f0rg0tt3n F10 f3ndot F666F fadein faen faffi falchie falconindy falu Fandekasp fartbox fatbotgw felipe` fen[drachenfest] Ferus fflam fignew fir3__ FireFly firenx firesock fisted fiver22|afk Flaw flax^__ flexd flo` float flocke floft floyd2 fnord0 fogobogo folly forks fotomonster foutrelis fraxinas fred_99 Free_Bullets fresch frustrum fsk141 fuchs24 fuhry fulltang gabriel9 gabx gagan662 gajop gamer1990 gardar GargantuaSauce garrik gcmalloc Gcool gebjgd GEEK1 geekisdead geewid gejr Genolo gentz gffa GGLucas` GH0S1_R33P0R giricz81 glaiz Gonzih gory gospodin grawity grimeton groundnuty grulfen gtmanfred Guest85638 GullyFoyle gwash gzee h00k habmala hacosta hagabaka hando Hapsbana1 Harbinger hardfalcon HarryS harski Hasselsaurus haylo HeavyMetal Heikai heinrich5991 hejki HellSt0rm HeN Hencke HenryTrollins Hertz hi117 hiato_ histo Hlao-ru hobarrera hokapoka holoway houmles HP-Envy hrnz hrubi hunger Hunterm hurricane hut_ ianj ighea Iiiak ikonia ilj imbezol inad922 indascrnfx infinity- infinull infojunky ingenious insanum Internet13 intgr ioni ironcamel IronTiger irouy_ Isola_ iv597 ivan\ ivan`` ivenkys Ivyl ixeft iz izibi izy j0br j0hns0n jaake jabirali JackWinter jagguli jakhead jakobw jamesbond-4711 jams Janarto jankyhellface janus jareth_ jarshvor1 jasonwryan JavaAtom javier1 Jawmare JayCie jaydubs jayne jben JCDenton jdahm jdjdjdj_ jeekl jeff_sebring jense jeremydei jerryluc jfu jham jhark JHeaton jillsmitt__ jimreynold2nd jlewis jmissao jn_ jnbek john_f johnislarry johntramp johnwittle johnzorn johskar Jonimus jpfau jpwhiting jsec jswagner jukkhop julesw JunkBee jvolkman jw8 jwbirdsong jwh jwpeddle_ jwr jxie JyoGa k6b Kabaka kahtahs KaiSforza Kakwa kallisti5 kanyl kaolbrec karabaja4 kart0ffelsack kategeek Kauhsa kaulian kbar kbrosnan kd35a Keba keenerd keks_ kekte kelvan kennyvb kevku kevlarman kichawa kij_ kikulli Kilroo King_Ozzy King_Rat kisom KitB KittyKatt kjellkt kkris_ klange klawd_prime kleph klh_ klipeto kloeri klonkn_ kmshanah kniu Koigreen Konj kotnik kouba159 Kov|meiya kraM kraytul kshm kubit Kuri kutio Kwpolska kyau kyentei kylcarte Kyle kylef L0D l0rd_hex l2esonance l4m6da lae lahwran lake_away languitar lanxu Lartza Lasse- Lastebil LauJensen laumars legnaleurc Lektron lembas leochencipher leprechau les levarnu lianj Likvidy Limoto_ linduxed Lky LmAt locci logicgeezer_ lonewulf` loofygun LookTJ loose Lord^Anubis lordfreak lordheavy Lorem-Ipsum lotf lou_ loxley LSD` lteo Luceo Lucifer7 luct luizribeiro lundh lydgate lyknode LysergicDreams M4T1A5_ m4tt maack maahes Maccer macrobat Mad_Dud MadAGu madasi madhatter madm1ke MafProd MagBo magicalChicken magicrhesus malcolmva manizzle manuw mar77i marienz markatto markelos MarkusH marquicus marshal0505 martin- mason-l mathieui mattgyver matthiaskrgr mattikus max-k Maxa Maxdamantus maxexcloo mcover meatcar MegaLoler meisth0th mekius Melkon meskarune Messenger_bird Metal-E3000 mfill mgodzilla MichaelNW Micki miffe migueldvb MikeN_ mikeshul1z mikeshultz mikroflops milian milk milki milosn Minos minus MissionCritical mjessome mjevans MogDog molqr moparx Moritz26 moted mouche mr_clark mrc0ffee mrdragons MrElendig mrmoku mroconnor MrOpposite mtorromeo mtree murosai murr4y musca MVXA Mxchael Myk267 mylvari mythmon mzanetti n17ikh n1md4 n1x4 Namarrgon namfonos nanert nankura naquad nasedo nauski nbf necreo necronian Necrophobic neferty negher nekolyanich nem`brs nemunaire neoesque neofish nephyrin neurodamage Neverther NgoHuy nikki93 niklasb niko niloc132 nimred ninedotnine ninjabox Nisstyre NiteSnow nitheesh njbair nme noclaf noctux nodame noflex noplamodo nopper notbl1nk Novae|Zzz NoXzema nperry nuba NucWin nullpupp1 nXqd_ nyanpai1 nym occamshatchet Occi ofan ogoffart ogsus okay oldkid oldwzd omegaga oOze opatut Operaattori Opiumozor oskude oso96_2000 Ottre owain_ P-l p3nguin pacquiao Paimun pakesson pantski passbe patsbin patson_ patson` pbos pdq Pebby peeaivo peper Peps pere__ petelewis peterix phaverkamp phenom phignuton Philippe62 PhilK Philly phnom Phr33d0m phrik phsi pi3ch pierres pingveno pinpin2 pkmx planet plitter plitter1 plustwo Poapfel Popof_ poseidon praedo PreZGN_ prg318 promulo pseudo pskept psycho_oreos psyk3_ pumphaus Puppet_Master Pyro pyro_ qko qu1ckkkk_ r4 rabbitear Raboo rails Raku^ ramses ras0ir Rasi Ratty ravomavain RawProduce rbnrbnrbn rcn rcxdude RealEyes realitygaps reashlin red4delta redeemed refurbished rekahsoft Renfield Repentinus resixian restless_being Reventlov rewtraw rfaa_ rfc2409 rhom richardcreme rikai rines rio rizumu roadt robgraves robotmachine RoKuBe Romeo- root_786 roxxo rrn rspkt ruan rudle RudyValencia russo79 rymate1234 ryon_sherman rype89 rype89_ ryukafalz S0lign0c s0ma s0x s1gma s581en33 sa1 Sacro sailerboy sainthuck sakaru SAL9000 saltsa_ sam113101 sammyf Samos123 samrat_ samuelharden sanderd Sanky SanskritFritz saturation saulhoward schoko Schorfi Schwinn Scifi^ ScottG scottschecter sdoerner Seadog semeion sentabi sergiuniculescu serrghi setkeh sfhawk sh1ken shad0VV shadyabhi Shahrzad Shapeshifter shardz sharktamer Shauni sheep ShideR shining shlee shox shrp sig_wall sigkill_ sigma_g simsaladin Siphax SirFunk sjihs skld skope skrblr skug skydrome sl33v3 slaveriq sledgehammer Sleepy_Coder Sling slipper slubman sluggr smakked smartcat99s Smasher816|znc Sn4keBite snap_ snorre_ Snowman socker solarised solsTiCe Someguy123 SonicvanaJr sorressean soviet- space_panda spacekevin spacekitteh spaceone Spelunke spicewiesel spY|da_ sqtux Srf st6 staalmannen StarBrilliant starlays statusfailed stfn stillinbeta stinky stlifey StMichel stomp Strog stufe_ subliminal suborbital sud0 sudokode sulx sumpygump supasnashbuhl surfhai svenstaro sw4- Swathe swedala sweet_kid swerve SwordManX sxe syntx sysadamin t0m5k1 t0mm13b Ta^3 talavis talsemgeest Tam^ tankpilot tapio_ Taranis tasidus Tasqa Tasser tattoli TBCOOL tchebb tdreyer1 Tea TecnoVM64 Tectu tehKitten tehvdood teklord telmich teneightypea_ tenthirteen Teshadael tevin Texhex Tha-Fox thadood The-Compiler The_Pacifist theclaw theDrumm TheFuzzball thehoff TheLemonMan TheMaverick` theoros TheShadowFog thestinger thomas_sch thomasba Thorne thothstriangle thr threadlock thrice` tigrmesh timahvo1 TimorLee timtux TingPing titten titzer tj_ tjmcgrew tkln tlonim tnrazy tnrazy1 tntcoda tobscore tolbrino tomaw tomcheng86 tommis1 toofishes toorima toppform torgrim tparker tranqil Trashlord treehugger trsitan trust tsbtmn Tucos tuedel tumppu Turski twau_ Twey tybalt89 tylerstrayhan uKev uncon undecim unexist Unhelpful unknown Unlix uns0b useless_s_grant uta valberg valcom Varakh\\ Vardyr Vargstierna vechnyj vegai viis vinc_ vincent_wang vincentli virtuallynathan Visage Viski Vithon Vlavv vmesons vodik vostok4_ Votan vskaddanki VSpike VunKruz Vuokko w0ng W0rmDr1nk w0rst WaGE WaiXan wassup wataken44 wavded wave wd40s WebDawg Weird0ne WeissLehrer welker well_laid_lawn welterde weltzooo wespee_ wexp WhoBe whowantstolivefo whuffor willemw WillyKaze wims WindPower winocm wir3frame witquicked Wntrvnm Wojo wolfbyte wujek xales Xappe xat`` xaver xdarklight xenor xexaxo XFaCE xleonardox xnt14 XReaper xtal xwalk xy xymox xyproto yaps8 yardenac yibe_ yorick Yorokobi yoshi314 youdub Yukikaze yuriks ZaB|SHC| zacharydenton zarac zbenjamin Zbyshek ZeDestructor zeiris zeist Zekah zeltak zendeavor Zenther Zer0day_ zerbp Zeroedout ZeXx86_ Ziemas Zir0h zizzfizzix zkrm zml2008 zmode znowi Zom ZombieChicken Zor Zucca Zuchto Zulu968 zw01 zxiiro zyklon zz_Companion zz_Vaelkchen {Nathan} |rat| |Vargas|]
+2012-07-25 16:23:43	⇄	Channel #archlinux: 1269 nicks (0 ops, 0 halfops, 0 voices, 1269 normals)
+2012-07-25 16:23:44	⇄	Mode #archlinux [+Ccnst]
+2012-07-25 16:23:45	⇄	Channel created on Sun, 15 Feb 2004 13:08:31
+2012-07-25 16:23:46	>	HRabbit (~scott@agw.humanping.net) has joined #archlinux
+2012-07-25 16:23:46	supasnashbuhl	okay, my udev rule now looks like this: DEVPATH=="/devices/pci0000:00/0000:00:11.0/ata3/host2/*", ENV{UDISKS_SYSTEM_INTERNAL}="0", ENV{ID_DRIVE_DETACHABLE}="1", ENV{UDISKS_AUTOMOUNT_HINT="always" and it doesn't work. I still have to have root acces to mount it.. Is there something wrong with it. Maybe the quotes?
+2012-07-25 16:24:07	starlays	oskude: remved the 20-virtualbox.conf, and putted the default config in the file 10-evdev.conf, the same config that you have, rebooted, now, for the moment it is working well
+2012-07-25 16:24:24	oskude	yay
+2012-07-25 16:24:25	supasnashbuhl	*facedesks*
+2012-07-25 16:24:39	supasnashbuhl	the bracket..
+2012-07-25 16:24:44	Earnestly	Is it utterly impossible to have multiworded aliases? Or whitespace basically.
+2012-07-25 16:24:53	starlays	oskude: thanks
+2012-07-25 16:24:55	>	ethail (~ethail@unaffiliated/ethail) has joined #archlinux
+2012-07-25 16:25:21	Earnestly	supasnashbuhl: Yup, NT}="alw
+2012-07-25 16:25:52	>	angelsl (~angelsl@pdpc/supporter/student/angelsl) has joined #archlinux
+2012-07-25 16:25:54	supasnashbuhl	nope.. still no luck
+2012-07-25 16:25:56	NoXzema	Anyone know if I should try E17 or E16 first?
+2012-07-25 16:26:13	supasnashbuhl	damn, this would be so sweet
+2012-07-25 16:26:24	grawity	Earnestly: What do you need multiworded aliases for?
+2012-07-25 16:27:05	grawity	supasnashbuhl: also, *how* do you mount the disk? via `udisks` or using `mount` directly?
+2012-07-25 16:27:08	<	xaver (~xaver@p4FCF48EE.dip.t-dialin.net) has quit (Quit: Konversation terminated!)
+2012-07-25 16:27:17	starlays	okay: spoken to earlier, the problem persists
+2012-07-25 16:27:27	dspider	Earnestly: did you try escaping the space with a "\" character?
+2012-07-25 16:27:32	Earnestly	grawity: msys, so I can still use "pacman -Syu" :P, I can simply make a function
+2012-07-25 16:27:49	supasnashbuhl	i'll post this on bbs.. maybe someone there knows a solution. :/
+2012-07-25 16:27:51	grawity	dspider: won't work unless you also escape it when running the actual command
+2012-07-25 16:27:55	Earnestly	dspider: That doesn't work
+2012-07-25 16:27:57	starlays	oskude: : spoken to earlier, the problem persists
+2012-07-25 16:28:03	Earnestly	grawity: Neither does that
+2012-07-25 16:28:06	dspider	alias a='sudo pacman -Syu'
+2012-07-25 16:28:07	<	clinch (~clinch@37140.vs.webtropia.com) has quit (Ping timeout: 246 seconds)
+2012-07-25 16:28:08	starlays	the bug is still present
+2012-07-25 16:28:18	grawity	dspider: I think Earnestly wants the opposite
+2012-07-25 16:28:39	<	danners (~simon@p548042B6.dip0.t-ipconnect.de) has quit (Ping timeout: 246 seconds)
+2012-07-25 16:28:53	Earnestly	Yup, just a thought. So I can still type pacman on msys
+2012-07-25 16:29:04	grawity	Also. Why does `pkill dbus` return "no criteria specified"? WHAT IS THIS CONSPIRACY
+2012-07-25 16:29:14	grawity	Earnestly: hmm, I heard pacapt does something similar?
+2012-07-25 16:29:19	Earnestly	That being said, I should really make pacman aliases. Shrug, typing it out isn't time consuming
+2012-07-25 16:29:44	grawity	I dunno, I type `pacman -Syu` often enough that it's already easier than an alias
+2012-07-25 16:29:57	Earnestly	Exactly
+2012-07-25 16:30:10	w0ng	Is it possible to universally remap Shift+Insert to Super_L+p for pasting primary buffer?
+2012-07-25 16:30:42	grawity	no
+2012-07-25 16:30:53	grawity	It is possible to universally remap Shift+Insert to Super_L+p
+2012-07-25 16:31:10	grawity	but Shift+Insert doesn't always paste primary buffer, and there's not much you can do to fix that
+2012-07-25 16:32:36	>	clinch (~clinch@37140.vs.webtropia.com) has joined #archlinux
+2012-07-25 16:33:00	Earnestly	It doesn't?
+2012-07-25 16:33:10	grawity	In some programs it doesn't.
+2012-07-25 16:33:29	grawity	XUL stuff (Firefox, Thunderbird) comes to mind...
+2012-07-25 16:33:33	<	l2esonance (~l2esonanc@c-50-136-184-122.hsd1.ca.comcast.net) has quit (Ping timeout: 246 seconds)
+2012-07-25 16:33:44	grawity	some Xaw programs paste from CUT_BUFFER0
+2012-07-25 16:33:50	grawity	Firefox from CLIPBOARD
+2012-07-25 16:34:04	Earnestly	Really? I use shiftins on both Linux and Windows firefox (although in Window's case, yeah, ctrl-v)
+2012-07-25 16:34:20	Earnestly	Could it be pentadactyl?
+2012-07-25 16:34:22	<	red4delta (~drw@ten-calix1-216-128-109-102.tenino.com) has quit (Read error: Connection reset by peer)
+2012-07-25 16:34:31	grawity	Shift+Ins works on Windows too, by the way
+2012-07-25 16:34:39	grawity	much more consistently than in X
+2012-07-25 16:34:41	Earnestly	I know
+2012-07-25 16:35:05	w0ng	i shift+ins in firefox for me too, well except some apps (e.g. wordpress) where it seems only pasting from clipboard works
+2012-07-25 16:35:10	Earnestly	Ah, well I've yet to come across something that ignores shift insert fortunately.
+2012-07-25 16:35:20	grawity	$ gsel <<< "Primary"; gclip <<< "Clipboard"
+2012-07-25 16:35:29	grawity	Firefox pastes "Clipboard" on Shift+Ins
+2012-07-25 16:35:46	Earnestly	That said, in Firefox, shift+insert to another X program sometimes cuts off the beginning of the text by a few letters mysterously
+2012-07-25 16:35:47	w0ng	i use pentadactyl and that pastes primary
+2012-07-25 16:35:49	<	willemw (~willem@507089e1.static.ziggozakelijk.nl) has quit (Quit: Leaving.)
+2012-07-25 16:35:56	>	HuMu (~Huub@41.203.192.97) has joined #archlinux
+2012-07-25 16:36:01	>	jelly1 (~jelly12ge@archlinux/trusteduser/jelly1) has joined #archlinux
+2012-07-25 16:36:04	Earnestly	Well, pentadactyl. Yeah ^
+2012-07-25 16:36:08	grawity	and the developers of the "Speed Dial" extension have decided to once again piss me off by opening the "Speed Dial has been updated" page
+2012-07-25 16:36:13	>	l2esonance (~l2esonanc@c-50-136-184-122.hsd1.ca.comcast.net) has joined #archlinux
+2012-07-25 16:36:14	HenryTrollins	grawity: that's oh so intuitive
+2012-07-25 16:36:24	HenryTrollins	no wonder linux is doing great on mainstream desktops
+2012-07-25 16:36:27	>	calvinx (~calvinx@203.116.56.4) has joined #archlinux
+2012-07-25 16:36:30	grawity	"Changes since last version: Compatibility with Firefox 15" like I needed to know that
+2012-07-25 16:36:48	Earnestly	It's all because of X CLIPBOARD, we'll never have the Year of Desktop Linux with that!
+2012-07-25 16:37:20	a0x	any way to make pacman trust packages installed with -U? like ones from makepkg
+2012-07-25 16:37:26	<	asch (~asch@unaffiliated/asch) has quit (Ping timeout: 250 seconds)
+2012-07-25 16:37:32	grawity	a0x: SigLevel=Never in global section
+2012-07-25 16:37:38	grawity	or, I guess, =Optional
+2012-07-25 16:37:50	grawity	only add Required in repository sections
+2012-07-25 16:37:54	Earnestly	^ And enable Required for repos
+2012-07-25 16:38:17	a0x	oh, so it'll only be required for official repos?
+2012-07-25 16:38:39	Earnestly	Well, you can get aur packages with .sig files, but you'll need to manually trust their keys
+2012-07-25 16:38:56	<	DaZ (~derp@77-255-53-198.adsl.inetia.pl) has quit (Read error: Connection reset by peer)
+2012-07-25 16:38:59	grawity	Earnestly: AUR packages with .sig files would be signed by a0x's own key, no?
+2012-07-25 16:39:01	Earnestly	The --populate archlinux only signs the official TU keys
+2012-07-25 16:39:13	Earnestly	I thought you had to trust the developers key?
+2012-07-25 16:39:23	a0x	makepkg signs it with your key
+2012-07-25 16:39:31	Earnestly	Ah
+2012-07-25 16:39:33	a0x	which is what I'm tired of having to do
+2012-07-25 16:39:50	grawity	Earnestly: a .sig can only be made when you actually have a package, and since you build the package yourself, it's signed with your key
+2012-07-25 16:39:54	w0ng	so how would i go about remapping shift+ins? looking at a few mans, xmodmap seems to remap single keys, xbindkeys seems to map key combos to commands
+2012-07-25 16:39:57	>	confoocious (~pavan_@59.92.170.243) has joined #archlinux
+2012-07-25 16:39:57	<	confoocious (~pavan_@59.92.170.243) has quit (Changing host)
+2012-07-25 16:39:57	>	confoocious (~pavan_@drupal.org/user/107086/view) has joined #archlinux
+2012-07-25 16:40:16	grawity	Earnestly: though you might be confusing it with the part where makepkg itself verifies .sig's of source tarballs
+2012-07-25 16:40:26	>	Sherry (~sherry@2.183.18.134) has joined #archlinux
+2012-07-25 16:40:28	<	Shahrzad (~sherry@2.183.14.85) has quit (Ping timeout: 250 seconds)
+2012-07-25 16:40:37	<	manizzle (~manizzle@adsl-99-125-137-58.dsl.pltn13.sbcglobal.net) has quit (Read error: No route to host)
+2012-07-25 16:40:50	<	Trashlord (~sid@wikipedia/Sentient-Planet) has quit (Ping timeout: 245 seconds)
+2012-07-25 16:40:54	<	marshal0505 (~marshal05@D97B93F5.cm-3-4c.dynamic.ziggo.nl) has quit (Ping timeout: 250 seconds)
+2012-07-25 16:40:57	Earnestly	Nah, I was just getting it confused utterly. Thinking of it like signing the Master Keys for offical packages
+2012-07-25 16:41:18	<	neoesque (~neoesque@210.59.147.232) has quit (Quit: Bye!)
+2012-07-25 16:41:20	>	marshal0605 (~marshal05@D97B93F5.cm-3-4c.dynamic.ziggo.nl) has joined #archlinux
+2012-07-25 16:41:26	>	odi (~odi@089144206117.atnat0015.highway.a1.net) has joined #archlinux
+2012-07-25 16:41:39	<	odi (~odi@089144206117.atnat0015.highway.a1.net) has left #archlinux
+2012-07-25 16:41:46	<	rhom (~rho@116.90.239.3) has quit (Ping timeout: 250 seconds)
+2012-07-25 16:41:47	<	NoXzema (~computerq@unaffiliated/noxzema) has quit (Remote host closed the connection)
+2012-07-25 16:43:42	>	NoXzema (~computerq@unaffiliated/noxzema) has joined #archlinux
+2012-07-25 16:44:41	<	inad922 (~inad925@94.116.83.76) has quit (Read error: Operation timed out)
+2012-07-25 16:44:56	<	dspider (~dspider@86.126.24.220) has quit (Quit: Leaving)
+2012-07-25 16:44:57	<	cfricke (~cfricke@dslb-188-106-243-081.pools.arcor-ip.net) has quit (Quit: leaving)
+2012-07-25 16:45:15	<	mikroflops (~yogurt@h-34-21.a238.priv.bahnhof.se) has quit (Read error: Operation timed out)
+2012-07-25 16:45:23	w0ng	xdotool seems to be what i want
+2012-07-25 16:45:28	>	C5OK5Y (~C5OK5Y@ip-86-49-14-10.net.upcbroadband.cz) has joined #archlinux
+2012-07-25 16:46:05	>	Keizer (~Keizer@50-192-21-222-static.hfc.comcastbusiness.net) has joined #archlinux
+2012-07-25 16:46:16	>	inad922 (~inad925@94.116.83.76) has joined #archlinux
+2012-07-25 16:46:32	<	marshal0605 (~marshal05@D97B93F5.cm-3-4c.dynamic.ziggo.nl) has quit (Quit: leaving)
+2012-07-25 16:47:14	>	Keiz (~Keizer@c-174-63-153-233.hsd1.fl.comcast.net) has joined #archlinux
+2012-07-25 16:47:33	>	DaZ (~derp@77-253-118-80.adsl.inetia.pl) has joined #archlinux
+2012-07-25 16:47:46	>	shiquan (~shiquan@59.63.160.84) has joined #archlinux
+2012-07-25 16:47:57	<	solsTiCe (~solsTiCe@gateway/tor-sasl/solstice) has quit (Quit: Ex-Chat)
+2012-07-25 16:49:12	>	s1gk1ll (~sigkill@bl6-214-116.dsl.telepac.pt) has joined #archlinux
+2012-07-25 16:49:15	<	chat (~ghazi@unaffiliated/chat) has quit (Ping timeout: 252 seconds)
+2012-07-25 16:49:32	>	nbg (~NBG@ip-95-222-196-23.unitymediagroup.de) has joined #archlinux
+2012-07-25 16:50:19	<	berz_ (~berz_@d54C52BBC.access.telenet.be) has quit (Quit: WeeChat 0.3.8)
+2012-07-25 16:50:31	<	Keizer (~Keizer@50-192-21-222-static.hfc.comcastbusiness.net) has quit (Ping timeout: 246 seconds)
+2012-07-25 16:50:47	>	rhom (~rho@116.90.239.3) has joined #archlinux
+2012-07-25 16:50:53	>	berz_ (~berz_@d54C52BBC.access.telenet.be) has joined #archlinux
+2012-07-25 16:51:09	F666F	moin mon
+2012-07-25 16:51:14	>	Keizer (~Keizer@c-174-63-153-233.hsd1.fl.comcast.net) has joined #archlinux
+2012-07-25 16:51:43	>	solsTiCe (~solsTiCe@gateway/tor-sasl/solstice) has joined #archlinux
+2012-07-25 16:52:12	>	mikroflops (~yogurt@h-34-21.a238.priv.bahnhof.se) has joined #archlinux
+2012-07-25 16:52:38	>	pyToolmaker_ (~pyToolmak@agsb-4d048091.pool.mediaways.net) has joined #archlinux
+2012-07-25 16:52:48	<	sigkill_ (~sigkill@2.83.247.89) has quit (Ping timeout: 260 seconds)
+2012-07-25 16:53:30	<	Keiz (~Keizer@c-174-63-153-233.hsd1.fl.comcast.net) has quit (Ping timeout: 246 seconds)
+2012-07-25 16:53:30	<	Minos (~Minos@2a01:e34:ef0d:8ae0:201:c0ff:fe06:8ba9) has quit (Ping timeout: 246 seconds)
+2012-07-25 16:53:47	<	berz_ (~berz_@d54C52BBC.access.telenet.be) has quit (Client Quit)
+2012-07-25 16:54:07	<	okay (~daniel@i.am.da-truest.n.agga.xxx) has quit (Ping timeout: 255 seconds)
+2012-07-25 16:54:35	<	maahes (~maahes@cpe-98-148-196-131.socal.res.rr.com) has quit (Ping timeout: 244 seconds)
+2012-07-25 16:54:44	<	HuMu (~Huub@41.203.192.97) has quit (Ping timeout: 252 seconds)
+2012-07-25 16:55:08	>	okay (~daniel@i.am.da-truest.n.agga.xxx) has joined #archlinux
+2012-07-25 16:55:09	>	ppawel (~ppawel@82.160.148.167) has joined #archlinux
+2012-07-25 16:55:33	<	Janarto (~me@AAubervilliers-153-1-24-248.w83-112.abo.wanadoo.fr) has quit (Quit: Quitte)
+2012-07-25 16:56:00	>	maahes (~maahes@cpe-98-148-196-131.socal.res.rr.com) has joined #archlinux
+2012-07-25 16:56:07	>	Minos (~Minos@2a01:e34:ef0d:8ae0:201:c0ff:fe06:8ba9) has joined #archlinux
+2012-07-25 16:56:18	<	Keizer (~Keizer@c-174-63-153-233.hsd1.fl.comcast.net) has quit (Ping timeout: 246 seconds)
+2012-07-25 16:56:46	>	dspider (~dspider@188.25.228.247) has joined #archlinux
+2012-07-25 16:57:00	<	sl33v3 (~sl33v3@114-25-196-184.dynamic.hinet.net) has quit (Remote host closed the connection)
+2012-07-25 16:57:10	>	sw0rdfish (~Johnson@ti0011a380-dhcp1976.bb.online.no) has joined #archlinux
+2012-07-25 16:57:10	<	sw0rdfish (~Johnson@ti0011a380-dhcp1976.bb.online.no) has quit (Changing host)
+2012-07-25 16:57:10	>	sw0rdfish (~Johnson@unaffiliated/robinux) has joined #archlinux
+2012-07-25 16:57:22	>	sl33v3 (~sl33v3@114-25-196-184.dynamic.hinet.net) has joined #archlinux
+2012-07-25 16:57:53	>	PSYKORGASM (~ray@host-89-243-232-110.as13285.net) has joined #archlinux
+2012-07-25 16:58:06	>	heftig (jan@archlinux/developer/heftig) has joined #archlinux
+2012-07-25 16:58:20	>	newcomer (~newcomer@196.205.192.127) has joined #archlinux
+2012-07-25 16:58:28	>	timewa1ker (~timewalke@80.67.192.171) has joined #archlinux
+2012-07-25 16:58:58	<	inad922 (~inad925@94.116.83.76) has quit (Ping timeout: 276 seconds)
+2012-07-25 16:58:58	<	sjihs (~chandan@122.248.161.59) has quit (Ping timeout: 276 seconds)
+2012-07-25 17:00:17	>	camilasan (~camilasan@188.111.54.39) has joined #archlinux
+2012-07-25 17:01:19	>	sjihs (~chandan@122.248.161.59) has joined #archlinux
+2012-07-25 17:01:51	>	toppform_ (~petter@c213-89-138-4.bredband.comhem.se) has joined #archlinux
+2012-07-25 17:02:01	>	Jeanne-Kamikaze (~Jeanne-Ka@235.177.223.87.dynamic.jazztel.es) has joined #archlinux
+2012-07-25 17:04:26	>	MuffinMan` (~derp.sono@dh207-78-141.xnet.hr) has joined #archlinux
+2012-07-25 17:04:55	>	allanbrokeit (~allan@archlinux/developer/allan) has joined #archlinux
+2012-07-25 17:05:17	>	unknwn (~Unknown@unaffiliated/unknwn) has joined #archlinux
+2012-07-25 17:05:17	<	klh_ (~klh___@AClermont-Ferrand-753-1-12-12.w90-27.abo.wanadoo.fr) has quit (Remote host closed the connection)
+2012-07-25 17:05:23	>	Keizer (~Keizer@50-192-21-222-static.hfc.comcastbusiness.net) has joined #archlinux
+2012-07-25 17:06:01	>	Leftmost (~leftmostc@wiktionary/Leftmostcat) has joined #archlinux
+2012-07-25 17:06:50	>	inad922 (~inad925@94.116.83.76) has joined #archlinux
+2012-07-25 17:07:33	>	willemw (~willem@507089E1.static.ziggozakelijk.nl) has joined #archlinux
+2012-07-25 17:07:37	shiquan	hi, if I wanna install texlive by iso,but when I use 'pacman -S texmacs', it will install texlive-bin again.
+2012-07-25 17:07:55	shiquan	can anyone answer my question?
+2012-07-25 17:07:57	<	space_panda (~spacepand@c-50-131-199-205.hsd1.ca.comcast.net) has quit (Ping timeout: 252 seconds)
+2012-07-25 17:08:35	<	titten (~680i@ti0021a380-dhcp4509.bb.online.no) has quit (Ping timeout: 248 seconds)
+2012-07-25 17:09:46	<	thestinger (~strcat@75-144-30-89-NewEngland.hfc.comcastbusiness.net) has quit (Quit: WeeChat 0.3.8)
+2012-07-25 17:10:02	allanbrokeit	was there a question there?
+2012-07-25 17:10:54	shiquan	I don
+2012-07-25 17:11:07	<	confoocious (~pavan_@drupal.org/user/107086/view) has quit (Ping timeout: 244 seconds)
+2012-07-25 17:11:08	gwash	allanbrokeit, "can anyone answer my question?"
+2012-07-25 17:11:15	shiquan	I don't wanna use pacman to install texlive
+2012-07-25 17:11:24	>	newbie|3 (~kvirc@112.254.13.145) has joined #archlinux
+2012-07-25 17:11:24	gwash	it's a trick question
+2012-07-25 17:11:34	allanbrokeit	-Sdd
+2012-07-25 17:11:37	<	l2esonance (~l2esonanc@c-50-136-184-122.hsd1.ca.comcast.net) has quit (Ping timeout: 252 seconds)
+2012-07-25 17:11:44	shiquan	but it always install it auto.
+2012-07-25 17:11:54	shiquan	when I use 'pacman -S texmacs'
+2012-07-25 17:12:08	>	ex00 (~exu@83.238.246.75) has joined #archlinux
+2012-07-25 17:12:13	<	jxie (~jxie@183.128.226.119) has quit (Quit: leaving)
+2012-07-25 17:12:17	allanbrokeit	create a dummy package or -Sdd
+2012-07-25 17:12:28	<	StarBrilliant (~brilliant@coresite.sanjose.us.felixc.at) has quit (Quit: StarBrilliant)
+2012-07-25 17:12:31	shiquan	but I have already install texlive in /usr/local/
+2012-07-25 17:12:55	>	l2esonance (~l2esonanc@c-50-136-184-122.hsd1.ca.comcast.net) has joined #archlinux
+2012-07-25 17:13:06	shiquan	if I use -Sdd, how the texmacs relative with my texlive?
+2012-07-25 17:13:22	Earnestly	Why did you install texlive manually?
+2012-07-25 17:14:03	Tucos	and why do you expect it to automagically work with the texmacs package from the repo?
+2012-07-25 17:14:11	>	drenek (~smuxi@49.79.broadband9.iol.cz) has joined #archlinux
+2012-07-25 17:14:44	<	Keizer (~Keizer@50-192-21-222-static.hfc.comcastbusiness.net) has quit (Ping timeout: 244 seconds)
+2012-07-25 17:14:45	shiquan	I used to install texlive, I can install package easily
+2012-07-25 17:14:51	<	Schorfi (~schorfi@unaffiliated/schorfi) has quit (Quit: gna)
+2012-07-25 17:15:29	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 17:15:46	shiquan	but the pacman cannot identify it.
+2012-07-25 17:15:50	Earnestly	Yeah, install the proper package, if you need specific compile time options, use the ABS. It'd save you a bunch of headaches
+2012-07-25 17:16:07	gwash	shiquan, remove texlive from your system, and reinstall it with pacman
+2012-07-25 17:16:21	gwash	here we use pacman for installing software
+2012-07-25 17:16:21	shiquan	no...
+2012-07-25 17:16:27	gwash	no exceptions
+2012-07-25 17:16:41	gwash	shiquan, then we can't help you
+2012-07-25 17:16:54	<	NoXzema (~computerq@unaffiliated/noxzema) has quit (Quit: Leaving)
+2012-07-25 17:17:09	shiquan	ok, then if i wanna install packages. can anyone give me some hands?
+2012-07-25 17:17:15		irc: disconnected from server
+2012-07-25 17:44:29	>	tnrazy1 (~tnrazy@120.65.93.251) has joined #archlinux
+2012-07-25 17:44:29	⇄	Topic for #archlinux is ""Welcome to Arch Linux World Domination, Inc. <+> http://www.archlinux.org/news/install-media-20120715-released/ <+> http://www.archlinux.org/news/grub-legacy-no-longer-supported/ <+> Breakage ahead: http://www.archlinux.org/news/the-lib-directory-becomes-a-symlink/ <+> Please read before updating: https://bbs.archlinux.org/viewtopic.php?id=57205"
+2012-07-25 17:44:29	⇄	Topic set by gtmanfred (~gtmanfred@archlinux/trusteduser/gtmanfred) on Mon, 23 Jul 2012 02:11:03
+2012-07-25 17:44:30	⇄	Nicks #archlinux: [[muttox] [vEX] ^Tom^ _ikke_ _schulte_ `kk `lorim a0x AaaA aaket504 aarossig abckb__ abique|work abyxcos acfrazier Aciid acperkins ader10 Adjunct Adran Adys aep aGaTHoS aic airggie ak5 akawaka AkiraYB akosch alexandernst alexandros_c AlexP alfplayer aliasd alienvenom allanbrokeit ambossarm ambrosia amigo ampeg amunak anachron andy82 anekos anhpht anish anonymouse89 antihero Arbamisto archdori archeyDevil ArchGT archtaku Archtivity Ariii arkx arrdem arthurdent AsAck_away asdil12 asfethan ashnur Asphyxiated|Dk astirya AthlonRob attar augustl aupo avawn_ avocado axion aznblur azriel Bacalli backb0ne BadAtom bananas bandroidx Bane^ banex Barthalion bassliner batrick bax baypilot bc547 beardyjay bedouin beezow Behold Belgarion0 benbergman benoliver999 benpro bentglasstube betamine bfrog biberao bier bioterror bjh13 bjonnh Bl_nK Blaasvis BladedThesis blast_hardcheese BlastHardcheese blazt blind bloony blotek BluABK bluaki bluephoenix47 Bluewind blut Bobby boblehest BombStrike bond` Boohbah Borromini bougyman Bowler_ boxofrox brachyonic brad[] brandonw brian Brian_H brisbin Brookie bryogenic btreecat bug2000 Bugson buq2 C-S-B C5OK5Y cafaro caintbe Caleb CalimeroTeknik calzifer camerin camilasan candybar carbolymer catalinb caveat- cedeel celthunder ChaozZBubi cHarNe2 chee Chelsea Chewtoy chjj chmuri chris2 ChrisOelmueller chron Chu-lip cian1500ww cinelli ciscon cjdavies clamps classix clinch clippy cmal CME cmr_ CodeBlock CodeVision codeworkx Codynyx colona companion connyosis_ corecode coredump|br Cork cpwithers cr-ver Cr8 crashmag crawlman crazedpsyc Crazy4108 crdueck crooksey cruxeternus cryorat CryptoCrack CryptoNaut curson cvr_ cwaydt Cyber_Akuma CyberSix cyberspace- cyen cyp__ cyrusae d-old d4red3vil d_garbage daba_ dabreaka` Daenyth dafu DalinSprocket damentz Dan39 Danio danmackay DarkClown DarkSector dasbjo Dashkal daurnimator dawey DaZ DE1 Death_Syn Deathspawn Debolaz DebolazW debu_ decklin Deewiant defane defektz deizhu delcoyote demarchi Demios` demolithion demonicm1niac demonicmaniac3 derrida desg Desoxy dethredic Dettorer Devastatorius developej devon` devotchka DexterLB dflurker_ dhbiker Dhraakellian Diablo1174 die_seanzen Dieterbe Digital_Lemon DigitalKiwi dimeshake DinCahill dino- dinsdale2 disasm dizz3r djweezy dk0r dmarkey_ doc_who DOMAKESAYTHINK donch dorftrottel_ dots dougpiston drag0nl0rd drdr3w drdrewdown Dream_Team drenek DRiKE drizztbsd drl Droggl dropdrive DRW_ dsoto dspider dspt Dtgr duckinator dunz0r DURgod duxklr du|dx dv_ dvance Dwarr dylix e0x e36freak eagletmt ealexp Earnestly ebarch ecraven edt_ EdwardIII efaistos efjboss EIHoppe eir el_seano elaoin-ng elbjorn elliottcable elmargol else- EmoSpice end3r- enderst endre Enjolras epegzz epitron eqyiel ered ericab_away Ertyle erufu eses007 etank ethail ethanol etix eto Evanlec evie_hammond evpuneq_ evr_ evr__ Ex ex00 exhortatory exocaesar Expoti exul ezzieyguywuf f0i f0rg0tt3n F10 f3ndot F666F fadein faen faffi falchie falconindy Fandekasp fartbox fatbotgw felipe` fen[drachenfest] Ferus fflam fignew fir3__ FireFly firenx firesock fisted fiver22|afk Flaw flax^__ flexd flo` float flocke floft floyd2 fnord0 folly forks fotomonster foutrelis fraxinas fred_99 Free_Bullets fresch frustrum fsk141 fuchs24 fuhry fulltang gabriel9 gabx gagan662 gajop gamer1990 gardar GargantuaSauce garrik gcmalloc Gcool gebjgd GEEK1 geekisdead geewid gejr Genolo gentz gffa GGLucas` GH0S1_R33P0R giricz81 glaiz Gonzih gory gospodin grawity grimeton groundnuty grulfen gtmanfred guelfi Guest85638 GullyFoyle gwash gzee h00k habmala hacosta hagabaka hando Hapsbana1 Harbinger hardfalcon HarryS harski Hasselsaurus haylo HeavyMetal heftig Heikai heinrich5991 hejki HellSt0rm HeN Hencke henriknj HenryTrollins Hertz hi117 hiato_ histo Hlao-ru hobarrera hokapoka holoway houmles HP-Envy HRabbit hrnz hrubi HuMu hunger Hunterm hurricane hut_ ianj Icedman ighea Iiiak ikonia ilj imbezol indascrnfx infinity- infinull infojunky ingenious insanum Internet13 intgr ioni ironcamel IronTiger irouy_ Isola_ iv597 ivan\ ivan`` ivenkys Ivyl ixeft iz izibi izy j0br j0hns0n jaake jabirali JackWinter jagguli jakhead jakobw jamesbond-4711 jams jankyhellface janus jareth_ jarshvor1 jasonwryan JavaAtom javier1 Jawmare JayCie jaydubs jayne jben JCDenton jdahm jdjdjdj_ Jeanne-Kamikaze jeekl jeff_sebring jelly1 jense jeremydei jerryluc jfu jham jhark JHeaton jillsmitt__ jimreynold2nd jlewis jmissao jn_ jnbek john_f johnislarry johntramp johnwittle johnzorn johskar Jonimus jpfau jpwhiting jsec jswagner jukkhop julesw JunkBee jvolkman jw8 jwbirdsong jwh jwpeddle_ jwr JyoGa k6b Kabaka kahtahs KaiSforza Kakwa kallisti5 kanyl kaolbrec karabaja4 kart0ffelsack kategeek Kauhsa kaulian kbar kbrosnan kd35a Keba keenerd keks_ kekte kelvan kennyvb kevku kevlarman kichawa kij_ kikulli Kilroo King_Ozzy King_Rat kisom KitB KittyKatt kjellkt kkris_ klange klawd_prime kleph klipeto kloeri klonkn_ kmshanah kniu Koigreen Konj kotnik kouba159 Kov|meiya kraM kraytul kshm kubit Kuri kutio Kwpolska kyau kyentei kylcarte Kyle kylef L0D l0rd_hex l2esonance l4m6da lae lahwran lake_away languitar lanxu Lartza Lasse- Lastebil LauJensen laumars Leftmost legnaleurc leksaz Lektron lembas leochencipher leprechau les levarnu lianj libertas Likvidy Limoto_ linduxed Lky LmAt locci logicgeezer_ lonewulf` loofygun LookTJ loose Lord^Anubis lordfreak lordheavy Lorem-Ipsum lotf lou_ loxley LSD` lteo Luceo Lucifer7 luct luizribeiro lundh lydgate lyknode LysergicDreams M4T1A5_ m4tt maack maahes Maccer macrobat Mad_Dud MadAGu madasi madhatter madm1ke MafProd MagBo magicalChicken magicrhesus malcolmva manuw mar77i marienz markatto markelos MarkusH marquicus martin- mason-l mathieui mattgyver matthiaskrgr mattikus max-k Maxa Maxdamantus maxexcloo mcover meatcar MegaLoler meisth0th mekius Melkon meskarune Messenger_bird Metal-E3000 mfill mgodzilla mi3 MichaelNW Micki miffe migueldvb MikeN_ mikeshul1z mikeshultz mikroflops milian milk milki milosn Minos minus MissionCritical mjessome mjevans mloskot MogDog molqr moparx Moritz26 moted mouche mr_clark mrc0ffee mrdragons MrElendig mrmoku mroconnor MrOpposite mrshu mtorromeo mtree MuffinMan` murosai murr4y musca MVXA Mxchael Myk267 mylvari mythmon mzanetti n17ikh n1md4 n1x4 Namarrgon namfonos nanert nankura naquad nasedo nauski nbf nbg necreo necronian Necrophobic neferty nekolyanich nem`brs nemunaire neofish nephyrin netmod neurodamage Neverther newbie|3 newcomer nikki93 niklasb niko niloc132 nimred ninjabox Nisstyre NiteSnow nitheesh njbair nme noclaf noctux nodame noflex noplamodo nopper notbl1nk Novae|Zzz NoXzema nperry nsf nuba NucWin nullpupp1 nXqd nyanpai1 nym nyuszika7h occamshatchet Occi ofan ogoffart ogsus okay oldkid oldwzd omegaga oOze opatut Operaattori Opiumozor oskude oso96_2000 Ottre owain_ P-l p3nguin pacquiao Paimun pakesson pantski passbe patsbin patson_ patson` pbos pdq Pebby peeaivo peper Peps pere__ petelewis peterix phaverkamp phenom phignuton PhilK Philly phnom Phr33d0m phrik phsi pi3ch pierres pingveno pinpin2 pkmx planet plitter plitter1 plustwo Poapfel Popof_ poseidon PotHix ppawel praedo PreZGN_ prg318 promulo pseudo pskept psycho_oreos psyk3_ PSYKORGASM pumphaus Puppet_Master Pyro pyro_ pyToolmaker_ qko qu1ckkkk_ r4 rabbitear Raboo rails Raku^ ramses ras0ir Rasi Ratty ravomavain RawProduce rbnrbnrbn rcn rcxdude RealEyes realitygaps reashlin redeemed refurbished rekahsoft Renfield Repentinus resixian restless_being Reventlov rewtraw rfaa_ rfc2409 rhom richardcreme rikai rines rio rizumu roadt robgraves robotmachine RoKuBe Romeo- root_786 roxxo rrn rspkt ruan rudle RudyValencia russo79 rymate1234 ryon_sherman rype89 rype89_ ryukafalz S0lign0c s0ma s0x s1gk1ll s1gma s581en33 sa1 Sacro sailerboy sainthuck sakaru SAL9000 saltsa_ sam113101 sammyf Samos123 samrat_ samuelharden sanderd Sanky SanskritFritz saturation saulhoward schoewill schoko Schwinn Scifi^ ScottG scottschecter sdoerner Seadog semeion sentabi sergiuniculescu serrghi setkeh sfhawk sh1ken shad0VV shadyabhi Shapeshifter shardz sharktamer Shauni sheep Sherry ShideR shining shiquan shlee shox shrp sig_wall sigma_g simsaladin Siphax SirFunk sjihs skld skope skrblr skug skydrome sl33v3 slaveriq sledgehammer Sleepy_Coder Sling slipper slubman sluggr smakked smartcat99s Smasher816|znc Sn4keBite snap_ snorre_ Snowman socker solarised solsTiCe Someguy123 SonicvanaJr sorressean soviet- spacekevin spacekitteh spaceone spanglesontoast Spelunke spicewiesel spY|da_ Srf st6 staalmannen starlays statusfailed stfn stillinbeta stinky stlifey StMichel stomp Strog stufe_ subliminal suborbital sud0 sudokode sulx sumpygump surfhai svenstaro sw0rdfish sw4- Swathe swedala sweet_kid swerve SwordManX sxe syntx sysadamin t0m5k1 t0mm13b Ta^3 talavis talsemgeest Tam^ tankpilot tapio_ Taranis tasidus Tasqa Tasser tattoli TBCOOL tchebb tdreyer1 Tea TecnoVM64 Tectu tehKitten tehvdood teklord telmich teneightypea_ tenthirteen Teshadael tevin Texhex Tha-Fox thadood The-Compiler The_Pacifist theclaw TheFuzzball thehoff TheLemonMan TheMaverick` theoros TheShadowFog thomas_sch thomasba Thorne thothstriangle thr threadlock thrice` tigrmesh timewa1ker TimorLee timtux TingPing titzer tj_ tjmcgrew tkln tlonim tnrazy tnrazy1 tntcoda tobscore tolbrino tomaw tomcheng86 tommis1 toofishes toorima toppform torgrim tparker tranqil treehugger trsitan trust trya tsbtmn Tucos tuedel tumppu Turski twau_ Twey tybalt89 tylerstrayhan uKev uncon undecim unexist Unhelpful unknown unknwn Unlix uns0b useless_s_grant uta valberg valcom Varakh\\ Vardyr Vargstierna vechnyj vegai viis vinc_ vincent_wang vincentli virtuallynathan Visage Viski Vithon Vlavv vmesons vodik vostok4_ Votan vskaddanki VSpike VunKruz Vuokko W0rmDr1nk w0rst WaGE WaiXan wassup wataken44 wavded wave wd40s WebDawg Weird0ne WeissLehrer welker well_laid_lawn welterde weltzooo wespee_ wexp WhoBe whowantstolivefo whuffor willemw WillyKaze wims WindPower winocm wir3frame witquicked Wntrvnm Wojo wolfbyte wujek xales Xappe xat`` xdarklight xenor xexaxo XFaCE xleonardox xnt14 XReaper xtal xwalk xy xymox xyproto yaps8 yardenac yibe_ yorick Yorokobi yoshi314 youdub Yukikaze yuriks ZaB|SHC| zacharydenton zarac zbenjamin Zbyshek ZeDestructor zeiris zeist Zekah zeltak zendeavor Zenther Zer0day_ zerbp Zeroedout ZeXx86_ Ziemas Zir0h zizzfizzix zkrm zml2008 zmode znowi Zom ZombieChicken Zor Zucca Zuchto Zulu968 zw01 zxiiro zyklon zz_Companion zz_Vaelkchen {Nathan} |rat| |Vargas|]
+2012-07-25 17:44:30	⇄	Channel #archlinux: 1279 nicks (0 ops, 0 halfops, 0 voices, 1279 normals)
+2012-07-25 17:44:31	⇄	Mode #archlinux [+Ccnst]
+2012-07-25 17:44:31	⇄	Channel created on Sun, 15 Feb 2004 13:08:31
+2012-07-25 17:44:53	>	w0ng (~w0ng@unaffiliated/w0ng) has joined #archlinux
+2012-07-25 17:45:33	>	toppform_ (~petter@c213-89-138-4.bredband.comhem.se) has joined #archlinux
+2012-07-25 17:46:00	>	Moviuro (~quassel@gav28-1-88-177-116-29.fbx.proxad.net) has joined #archlinux
+2012-07-25 17:46:02	>	samwho (~samwho@5e05c84e.bb.sky.com) has joined #archlinux
+2012-07-25 17:46:25	>	paideia (~paideia@149.155.195.114) has joined #archlinux
+2012-07-25 17:46:30	>	inad922 (~inad925@94.116.83.76) has joined #archlinux
+2012-07-25 17:47:49	|	grawity used to think hybrid-suspend wasn't in kernel because it would need a /lot/ of code... turns out, wrong: http://git.kernel.org/linus/62c552ccc
+2012-07-25 17:48:38	<	HuMu (~Huub@41.203.192.97) has quit (Ping timeout: 252 seconds)
+2012-07-25 17:49:43	>	OldShatterhand (~OldShatte@p5B152040.dip0.t-ipconnect.de) has joined #archlinux
+2012-07-25 17:49:45	>	spangles (~spangles@host-78-147-171-219.as13285.net) has joined #archlinux
+2012-07-25 17:49:52	<	IronTiger (~OldShatte@p5B151784.dip0.t-ipconnect.de) has quit (Ping timeout: 244 seconds)
+2012-07-25 17:50:24	<	spangles (~spangles@host-78-147-171-219.as13285.net) has quit (Client Quit)
+2012-07-25 17:50:41	Earnestly	Heh
+2012-07-25 17:51:05	Earnestly	This hybrid suspend thing is basically an aggresive suspend?
+2012-07-25 17:51:14	>	laasonen (~oilgame@dyn59-238.yok.fi) has joined #archlinux
+2012-07-25 17:51:15	teklord	Any lua/awesome nerds around?  Did the syntax for executing shell commands change? This is not working ==>  mytextbox.text = " " .. execute_command("cat /home/user/file") .. " "
+2012-07-25 17:51:25	>	Cantidosama (~cantide@93.57.15.4) has joined #archlinux
+2012-07-25 17:51:37	<	nym (~nym@dsl-trebrasgw1-ff45c100-178.dhcp.inet.fi) has quit (Ping timeout: 276 seconds)
+2012-07-25 17:51:54	Tucos	Earnestly: just suspend with disk as fallback
+2012-07-25 17:51:59	>	falu_ (~falu@p5B339CE8.dip.t-dialin.net) has joined #archlinux
+2012-07-25 17:52:02	Tucos	if you want to call that agressive, yes
+2012-07-25 17:52:13	>	lyrae (~lyrae@pool-173-79-231-97.washdc.fios.verizon.net) has joined #archlinux
+2012-07-25 17:52:16	<	spanglesontoast (~spangles@unaffiliated/spanglesontoast) has quit (Ping timeout: 276 seconds)
+2012-07-25 17:53:02	>	aa47f8 (~sdaone@c80-217-33-230.bredband.comhem.se) has joined #archlinux
+2012-07-25 17:53:34	<	hi117 (~quassel@4.sub-166-248-82.myvzw.com) has quit (Ping timeout: 276 seconds)
+2012-07-25 17:53:40	gwash	teklord, the standard function for executing shell commands is os.execute
+2012-07-25 17:53:48	>	q1x (~qix@cyberia.the-wired.net) has joined #archlinux
+2012-07-25 17:53:58	Earnestly	Ah no, I was confusing it with (I think) Android's code which put it into suspend as often as possible
+2012-07-25 17:54:04	lyrae	Can you guys see this: ↵
+2012-07-25 17:54:08	Earnestly	Yup
+2012-07-25 17:54:16	>	MrBougo (~MrBougo@xonotic/contributor/MrBougo) has joined #archlinux
+2012-07-25 17:54:16	>	Janhouse (~janhouse@89.201.123.26) has joined #archlinux
+2012-07-25 17:54:19	lyrae	what client
+2012-07-25 17:54:29	Earnestly	Client? Using urxvt
+2012-07-25 17:54:33	lyrae	k
+2012-07-25 17:54:50	<	q1x (~qix@cyberia.the-wired.net) has left #archlinux
+2012-07-25 17:54:55	Earnestly	Any vte terminal with pango should be able to display it
+2012-07-25 17:55:18	<	matthiaskrgr (matthiaskr@72.29.68.157) has quit (Quit: GeekBouncer - http://geekbouncer.co.uk)
+2012-07-25 17:55:22	Earnestly	URxvt seems to vary depending on the font due to libxft lookups
+2012-07-25 17:55:27	<	falu_ (~falu@p5B339CE8.dip.t-dialin.net) has quit (Read error: Operation timed out)
+2012-07-25 17:55:27	<	nyuszika7h (nyuszika7h@TouchLay/Member/nyuszika7h) has quit (Ping timeout: 246 seconds)
+2012-07-25 17:55:34	>	dknight (~amitav@115.119.195.82) has joined #archlinux
+2012-07-25 17:55:58	dknight	please help me with https://bugs.archlinux.org/task/30824
+2012-07-25 17:55:58	Earnestly	E.g. For me, Envy Code R doesn't display returns
+2012-07-25 17:55:59	phrik	Title: FS#30824 : 10-synaptics.conf is partially applied (at bugs.archlinux.org)
+2012-07-25 17:56:16	lyrae	␣
+2012-07-25 17:56:22	dknight	I tried asking in #xorg, not much help there.
+2012-07-25 17:56:47	well_laid_lawn	dknight: any response on the bug tracker ?
+2012-07-25 17:57:02	>	q1x (~qix@cyberia.the-wired.net) has joined #archlinux
+2012-07-25 17:57:04	<	inad922 (~inad925@94.116.83.76) has quit (Remote host closed the connection)
+2012-07-25 17:57:10	q1x	hi guys
+2012-07-25 17:57:32	dknight	well_laid_lawn: nope
+2012-07-25 17:57:55	teklord	gwash: thank you very much.
+2012-07-25 17:58:16	well_laid_lawn	dknight: my guess it will depend on upstream then
+2012-07-25 17:58:30	q1x	does anyone know what script sets the permissions on the files and directories in /run? it's tempfs so they get recreated every boot
+2012-07-25 17:58:49	gwash	teklord, yw
+2012-07-25 17:59:00	john_f	q1x: man tmpfiles.d
+2012-07-25 17:59:28	<	bananas (~fabian@p5797A095.dip.t-dialin.net) has quit (Ping timeout: 246 seconds)
+2012-07-25 17:59:38	>	nyuszika7h (nyuszika7h@TouchLay/Member/nyuszika7h) has joined #archlinux
+2012-07-25 17:59:40	john_f	q1x: unless they are created by rc scripts or the app itself.
+2012-07-25 17:59:52	q1x	john_f, thnks! exactly what I was looking for (I think)
+2012-07-25 17:59:53	dknight	well_laid_lawn: just have a look and let me know if I am doing something wrong. once I am sure that I have tried everything, I will have only one option: wait for upstream.
+2012-07-25 18:00:05	>	daedaluz (~dariken@unaffiliated/daedaluz) has joined #archlinux
+2012-07-25 18:00:23	>	[paladin] (~Vasu@122.177.3.237) has joined #archlinux
+2012-07-25 18:00:47	<	Devastatorius (devastator@fsckyou.info) has quit (Ping timeout: 272 seconds)
+2012-07-25 18:01:02	mi3	hey guys whats the parameter to show the time in UTC followed by the time zone ? like umm +0200 PDT or like that ?
+2012-07-25 18:01:13	<	trya (~mika@41.82.155.87) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:01:21	well_laid_lawn	dknight: if the options in 10-synaptics.conf aren't used you can try synclient directly, dunno if it'll help tho since I don't have that issue
+2012-07-25 18:01:34	>	Devastatorius (devastator@fsckyou.info) has joined #archlinux
+2012-07-25 18:01:41	q1x	john_f: yup, found the culprit :) thanks again
+2012-07-25 18:01:45	<	Minos (~Minos@2a01:e34:ef0d:8ae0:201:c0ff:fe06:8ba9) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:02:36	<	Guest85638 (~james@ppp121-44-0-86.lns20.syd6.internode.on.net) has quit (Quit: WeeChat 0.3.8)
+2012-07-25 18:02:41	q1x	now I can remove my hack from the init script :D
+2012-07-25 18:03:25	>	applegekko (~Xiamen@cpc9-bagu10-2-0-cust708.1-3.cable.virginmedia.com) has joined #archlinux
+2012-07-25 18:03:34	>	hi117 (~quassel@4.sub-166-248-82.myvzw.com) has joined #archlinux
+2012-07-25 18:03:59	⇄	kbar is now known as _fly
+2012-07-25 18:04:19	⇄	_fly is now known as _fly_
+2012-07-25 18:04:20	<	Siphax (~Siphax@41.103.174.171) has quit (Ping timeout: 244 seconds)
+2012-07-25 18:04:24	>	Minos (~Minos@2a01:e34:ef0d:8ae0:201:c0ff:fe06:8ba9) has joined #archlinux
+2012-07-25 18:04:31	>	deschutron (~alex@ppp121-45-66-251.lns20.adl6.internode.on.net) has joined #archlinux
+2012-07-25 18:04:41	⇄	_fly_ is now known as fly-
+2012-07-25 18:05:26	>	theDrumm (~theDrumm@host86-140-7-200.range86-140.btcentralplus.com) has joined #archlinux
+2012-07-25 18:05:39	>	AaaA_ (~AaaA@unaffiliated/aaaa) has joined #archlinux
+2012-07-25 18:05:44	>	falu_ (~falu@p5B339CE8.dip.t-dialin.net) has joined #archlinux
+2012-07-25 18:05:59	<	AaaA (~AaaA@unaffiliated/aaaa) has quit (Read error: Connection reset by peer)
+2012-07-25 18:06:55	<	stufe_ (~stufe@dsl-pribrasgw1-ff17c300-238.dhcp.inet.fi) has quit (Ping timeout: 265 seconds)
+2012-07-25 18:07:00	<	abckb__ (~abckb__@unaffiliated/abckb/x-5872178) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:07:22	>	arbitrary (~indispose@ip-210-185-11-156.internet.co.nz) has joined #archlinux
+2012-07-25 18:07:37	>	Fififox (~joan@37-8-177-81.coucou-networks.fr) has joined #archlinux
+2012-07-25 18:07:47	kikulli	hy
+2012-07-25 18:09:06	<	fulltang (~ark@c-71-193-105-200.hsd1.in.comcast.net) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:09:32	kikulli	I get duplicate login message on tty. Does anyone know a salution?
+2012-07-25 18:10:18	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Quit: Everyone quits someday.)
+2012-07-25 18:10:19	>	evr___ (~none@ip98-184-162-247.tu.ok.cox.net) has joined #archlinux
+2012-07-25 18:10:19	well_laid_lawn	I get that too, I'm sure it'll be sorted soon < optimism
+2012-07-25 18:10:23	john_f	kikulli: check for pacnews?
+2012-07-25 18:11:03	>	greyEAX (~grey@cpe-76-171-193-132.socal.res.rr.com) has joined #archlinux
+2012-07-25 18:11:06	john_f	in /etc/pam.d/
+2012-07-25 18:11:10	>	Trashlord (~sid@wikipedia/Sentient-Planet) has joined #archlinux
+2012-07-25 18:11:10	kikulli	john_f: I dont have any pacnews files.
+2012-07-25 18:11:12	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 18:11:18	>	datagutt (~datagutt@unaffiliated/datagutt) has joined #archlinux
+2012-07-25 18:11:33	<	jelly1 (~jelly12ge@archlinux/trusteduser/jelly1) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:11:35	>	r0ly (~roly@tru75-1-81-57-70-118.fbx.proxad.net) has joined #archlinux
+2012-07-25 18:11:38	>	_2M1R_ (~deathpony@abvh178.neoplus.adsl.tpnet.pl) has joined #archlinux
+2012-07-25 18:11:55	well_laid_lawn	 find /etc/ -name "*.pac*" 2> /dev/null
+2012-07-25 18:12:13	eqyiel	kikulli: probably locale.gen
+2012-07-25 18:12:22	Fififox	hi! I've been struggling with network proplems since yesterday and I must admit I don't really know what I'm doing. I've got a modem/router (192.168.1.254) and two Arch boxes connected. Sadly, the modem's connection doesn't work since yesterday but I can connect to internet though my phone (/dev/usb0 on box 192.168.1.5). How can I share that connection with with the other computer on the LAN (192.168.1.2)
+2012-07-25 18:12:24	Fififox	? I tried IP forwardin, IPIP tunnelling, iptables stuff and all the guides you could imagine and yet it doesn't work (either host unreachable or timeouts). Help? :)
+2012-07-25 18:12:40	<	toppform_ (~petter@c213-89-138-4.bredband.comhem.se) has quit (Quit: Lost terminal)
+2012-07-25 18:12:41	>	hilbert (~hilbert@adsl-89-217-81-188.adslplus.ch) has joined #archlinux
+2012-07-25 18:13:00	>	luuuciano (~luuuciano@unaffiliated/luuuciano) has joined #archlinux
+2012-07-25 18:13:06	<	JCDenton (~JC@unaffiliated/iymovies) has quit (Remote host closed the connection)
+2012-07-25 18:13:16	<	rhom (~rho@116.90.239.3) has quit (Remote host closed the connection)
+2012-07-25 18:13:19	>	jelly1 (~jelly12ge@archlinux/trusteduser/jelly1) has joined #archlinux
+2012-07-25 18:13:35	kikulli	well_laid_lawn: no out from running the command.
+2012-07-25 18:13:51	>	dark8 (~dark@ip-8-38-179-93.dialup.ice.net) has joined #archlinux
+2012-07-25 18:13:58	>	HuMu (~Huub@41.73.98.208) has joined #archlinux
+2012-07-25 18:14:33	kikulli	eqyiel: Can you give me more info.
+2012-07-25 18:14:37	>	bananas (~fabian@p5797A095.dip.t-dialin.net) has joined #archlinux
+2012-07-25 18:14:59	>	HuMu_ (~Huub@41.203.192.97) has joined #archlinux
+2012-07-25 18:15:00	well_laid_lawn	kikulli: I have a pam.d/login.pacnew that I'm going to check out as john_f suggested
+2012-07-25 18:15:38	well_laid_lawn	doesn't seem to be relevant tho...
+2012-07-25 18:15:45	<	sw0rdfish (~Johnson@unaffiliated/robinux) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:15:50	>	stufe (~stufe@dsl-pribrasgw1-ff17c300-238.dhcp.inet.fi) has joined #archlinux
+2012-07-25 18:15:52	<	sh1ken (~sh1ken@unaffiliated/sh1ken) has quit (Quit: leaving)
+2012-07-25 18:15:57	eqyiel	kikulli: if the duplicate message is the date then you probably have a locale.gen.pacnew, but if it's not there, nevermind what i said
+2012-07-25 18:16:14	<	blut (~blut@dslc-082-082-067-193.pools.arcor-ip.net) has quit (Quit: leaving)
+2012-07-25 18:16:39	kikulli	well_laid_lawn: I dont have any pacnew files in /etc/pam.d
+2012-07-25 18:16:41	<	Leftmost (~leftmostc@wiktionary/Leftmostcat) has quit (Read error: Operation timed out)
+2012-07-25 18:16:45	well_laid_lawn	I have one message for yesterdays login and one for the current time
+2012-07-25 18:16:57	>	Blub\w (~wry@93.83.4.189) has joined #archlinux
+2012-07-25 18:17:03	well_laid_lawn	kikulli: then that isn't the issue I guess
+2012-07-25 18:17:04	>	Siphax (~Siphax@41.103.170.230) has joined #archlinux
+2012-07-25 18:17:12	<	bananas (~fabian@p5797A095.dip.t-dialin.net) has quit (Client Quit)
+2012-07-25 18:17:21	>	bananas (~fabian@87.151.160.149) has joined #archlinux
+2012-07-25 18:17:29	well_laid_lawn	s/the/then
+2012-07-25 18:17:34	well_laid_lawn	 /
+2012-07-25 18:17:58	well_laid_lawn	bahh I'm going back to watchin a vid
+2012-07-25 18:18:19	<	rype89_ (cab0ca88@gateway/web/freenode/ip.202.176.202.136) has quit (Ping timeout: 245 seconds)
+2012-07-25 18:18:53	>	ReStrictOr (~jo@dslb-094-220-153-058.pools.arcor-ip.net) has joined #archlinux
+2012-07-25 18:19:15	<	HuMu_ (~Huub@41.203.192.97) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:19:18	<	allanbrokeit (~allan@archlinux/developer/allan) has left #archlinux ("broken")
+2012-07-25 18:19:20	kikulli	I once found some info on reddit.com/r/archlinux regarding this issue, but now I cant found it anymore.
+2012-07-25 18:20:15	>	IronTiger (~OldShatte@p5B151D25.dip0.t-ipconnect.de) has joined #archlinux
+2012-07-25 18:20:21	<	kshm (~kshm@116.208.230.71) has quit (Quit: See you...)
+2012-07-25 18:21:03	<	logicgeezer_ (~user@129.215.36.46) has quit (Remote host closed the connection)
+2012-07-25 18:21:04	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Quit: Everyone quits someday.)
+2012-07-25 18:21:19	<	oldwzd (~oldwzd@unaffiliated/toldwzd) has quit (Quit: brb)
+2012-07-25 18:21:49	>	Foxandxss (~Foxandxss@180.Red-80-32-60.staticIP.rima-tde.net) has joined #archlinux
+2012-07-25 18:22:51	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 18:22:56	<	OldShatterhand (~OldShatte@p5B152040.dip0.t-ipconnect.de) has quit (Read error: Operation timed out)
+2012-07-25 18:22:59	>	Aoy_c (~user@61.176.195.69) has joined #archlinux
+2012-07-25 18:24:11	antihero	I'm having a weird error when using sudo
+2012-07-25 18:24:18	antihero	basically I type sudo somethin
+2012-07-25 18:24:21	antihero	put in my password
+2012-07-25 18:24:25	>	cyrusae_ (~dustball@ppp-93-104-131-251.dynamic.mnet-online.de) has joined #archlinux
+2012-07-25 18:24:26	antihero	then get "System is booting up."
+2012-07-25 18:24:32	antihero	and it says incorrect password
+2012-07-25 18:24:36	eqyiel	lolwat
+2012-07-25 18:24:48	antihero	yeah
+2012-07-25 18:25:08	shiquan	sounds really wired
+2012-07-25 18:25:12	>	giniu (~aginiewic@sage.im.pwr.wroc.pl) has joined #archlinux
+2012-07-25 18:25:30	antihero	it is
+2012-07-25 18:25:55	<	cyrusae (~dustball@ppp-93-104-155-160.dynamic.mnet-online.de) has quit (Ping timeout: 252 seconds)
+2012-07-25 18:26:04	shiquan	https://bbs.archlinux.org/viewtopic.php?id=144483
+2012-07-25 18:26:05	phrik	Title: [SOLVED] Login issues, error message "System is booting up" (Page 1) / Newbie Corner / Arch Linux Forums (at bbs.archlinux.org)
+2012-07-25 18:26:08	shiquan	this may help u
+2012-07-25 18:27:39	Tucos	antihero: your initscripts are out of date
+2012-07-25 18:27:45	Tucos	log in as root, rm /run/nologin
+2012-07-25 18:28:06	>	sw0rdfish (~Johnson@unaffiliated/robinux) has joined #archlinux
+2012-07-25 18:29:02	>	Vorpal (~AnMaster@unaffiliated/anmaster) has joined #archlinux
+2012-07-25 18:29:38	kikulli	shiquan: That's the thread I was talking about. thanks
+2012-07-25 18:29:57	sw0rdfish	man I'm not sure if it was after I started using the usb hdd or after the last system update... but my usb wifi adapter stops working every now and then...
+2012-07-25 18:30:06	<	newcomer (~newcomer@196.205.192.127) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:30:08	sw0rdfish	like every half an hour or so and I have to unplug it and replug it
+2012-07-25 18:30:13	sw0rdfish	very annoying.
+2012-07-25 18:30:43	>	KZM (~quassel@145.207.15.37.dynamic.jazztel.es) has joined #archlinux
+2012-07-25 18:31:36	>	JackBauer24 (~JackBauer@178-73-43-6.home.aster.pl) has joined #archlinux
+2012-07-25 18:32:13	>	jboogie (~renato@ppp-226-134.29-151.libero.it) has joined #archlinux
+2012-07-25 18:32:44	antihero	woo
+2012-07-25 18:32:54	antihero	I've removed init scripts
+2012-07-25 18:33:00	<	bananas (~fabian@87.151.160.149) has quit (Ping timeout: 252 seconds)
+2012-07-25 18:33:01	antihero	Don't know why I had them
+2012-07-25 18:33:30	>	lamecoder (m@nat/ibm/x-wsvfibrblltxalij) has joined #archlinux
+2012-07-25 18:33:31	<	lamecoder (m@nat/ibm/x-wsvfibrblltxalij) has quit (Client Quit)
+2012-07-25 18:33:45	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Quit: Everyone quits someday.)
+2012-07-25 18:35:04	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 18:35:21	>	boru (~boru@unaffiliated/boru) has joined #archlinux
+2012-07-25 18:35:27	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Client Quit)
+2012-07-25 18:36:28	sw0rdfish	dmesg's throwing such messages:  http://notey.it/n/cTc
+2012-07-25 18:36:30	phrik	Title: Notey Your Code! (at notey.it)
+2012-07-25 18:36:54	<	kikulli (~Glis@92.82.95.251) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:37:11	<	nekolyanich (~nekolyani@dns02.cloud.croc.ru) has quit (Quit: WeeChat 0.3.9-dev)
+2012-07-25 18:38:28	<	falu_ (~falu@p5B339CE8.dip.t-dialin.net) has quit (Read error: Operation timed out)
+2012-07-25 18:39:47	<	bc547 (~bc547@213.211.139.46) has quit (Ping timeout: 265 seconds)
+2012-07-25 18:40:32	<	jboogie (~renato@ppp-226-134.29-151.libero.it) has left #archlinux
+2012-07-25 18:40:33	<	mi3 (~rico@14.195.8.44) has quit (Quit: Hasta La Vista, baby...)
+2012-07-25 18:40:47	>	Talmir (~talmir@rhnet-249-54.keilir.net) has joined #archlinux
+2012-07-25 18:41:02	>	jboogie (~renato@ppp-226-134.29-151.libero.it) has joined #archlinux
+2012-07-25 18:41:30	<	jboogie (~renato@ppp-226-134.29-151.libero.it) has quit (Quit: Leaving.)
+2012-07-25 18:41:35	>	asch (~asch@unaffiliated/asch) has joined #archlinux
+2012-07-25 18:41:39	>	jboogie (~renato@ppp-226-134.29-151.libero.it) has joined #archlinux
+2012-07-25 18:41:49	>	jaken (~jaken@113.22.187.240) has joined #archlinux
+2012-07-25 18:42:11	<	well_laid_lawn (~jean-luc@d58-106-14-4.rdl801.qld.optusnet.com.au) has quit (Quit: iamaquitmessage)
+2012-07-25 18:42:22	>	federic (~federic@adsl-ull-159-178.50-151.net24.it) has joined #archlinux
+2012-07-25 18:42:47	<	Moviuro (~quassel@gav28-1-88-177-116-29.fbx.proxad.net) has quit (Remote host closed the connection)
+2012-07-25 18:43:09	teklord	How do I edit/change icons for the awesomewm titlebar?
+2012-07-25 18:43:15	jaken	please help me
+2012-07-25 18:43:15	teklord	Anyone know where to look for that?
+2012-07-25 18:43:35	jaken	my networkmanager not auto start at boot
+2012-07-25 18:43:37	>	mi3 (~rico@203.115.89.129) has joined #archlinux
+2012-07-25 18:43:38	<	Fififox (~joan@37-8-177-81.coucou-networks.fr) has quit (Quit: it worked with iptables masquerading! reconnecting)
+2012-07-25 18:43:47	eqyiel	jaken: did you put it in DAEMONS?
+2012-07-25 18:43:50	jaken	cat /etc/rc.conf |grep DAEMONS
+2012-07-25 18:43:51	jaken	# DAEMONS
+2012-07-25 18:43:52	jaken	DAEMONS=(syslog-ng crond dbus networkmanager acpid laptop-mode gdm)
+2012-07-25 18:43:54	<	a0x (~a0x@unaffiliated/a0x) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:44:07	bioterror	gdm in daemons :P
+2012-07-25 18:44:22	jaken	:D
+2012-07-25 18:44:30	jaken	is it problem?
+2012-07-25 18:44:47	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 18:45:10	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Client Quit)
+2012-07-25 18:45:21	bioterror	/etc/inittab could be a little better place
+2012-07-25 18:45:28	PSYKORGASM	Did you install the applet for networkmanager?
+2012-07-25 18:45:46	>	guardian (~guardian@nantes.visionobjects.com) has joined #archlinux
+2012-07-25 18:46:09	guardian	hi, I'm slowly setting up an archlinux box. I installed archlinux, then Xorg, then i3, then rxvt-unicode
+2012-07-25 18:46:15	guardian	so far it's rather ugly
+2012-07-25 18:46:19	jaken	i think i had it, because when i use command #sudo rc.d start networkmanager
+2012-07-25 18:46:20	<	Maccer (~Maccer@199.168.138.175) has quit (Excess Flood)
+2012-07-25 18:46:25	<	sweet_kid (harnpan@unaffiliated/changednicks) has quit (Excess Flood)
+2012-07-25 18:46:37	jaken	network manager start on top bar
+2012-07-25 18:46:41	guardian	do I have to customize X, or rxvt to have nice antialised fonts?
+2012-07-25 18:46:53	eqyiel	!give guardian wiki fonts
+2012-07-25 18:46:54	phrik	guardian: https://wiki.archlinux.org/index.php/Fonts
+2012-07-25 18:47:07	eqyiel	guardian: also read up on fontconfig and infinality maybe
+2012-07-25 18:47:15	<	roadt (~roadt@60.168.92.11) has quit (Ping timeout: 246 seconds)
+2012-07-25 18:47:18	asch	guardian: ~/.Xdefaults is the file which you want to edit :-)
+2012-07-25 18:47:27	john_f	guardian: yes it needs to be customized
+2012-07-25 18:47:28	>	rhom (~rho@49.244.126.99) has joined #archlinux
+2012-07-25 18:47:28	<	alfplayer (~alfplayer@190.193.171.193) has quit (Ping timeout: 264 seconds)
+2012-07-25 18:47:32	guardian	ok
+2012-07-25 18:47:33	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 18:47:33	guardian	thx
+2012-07-25 18:47:45	>	StarBrilliant (~brilliant@coresite.sanjose.us.felixc.at) has joined #archlinux
+2012-07-25 18:47:55	<	jankyhellface (~jankyhell@204.11.105.58) has quit (Ping timeout: 252 seconds)
+2012-07-25 18:47:57	<	StarBrilliant (~brilliant@coresite.sanjose.us.felixc.at) has quit (Client Quit)
+2012-07-25 18:47:59	guardian	looks like all uphill from pacman -S xorg-server
+2012-07-25 18:48:04	>	Hoyt (~c0debreak@112.231.209.80) has joined #archlinux
+2012-07-25 18:48:39	>	StarBrilliant (~brilliant@coresite.sanjose.us.felixc.at) has joined #archlinux
+2012-07-25 18:48:58	>	trigger (~trigger@gateway/tor-sasl/trigger) has joined #archlinux
+2012-07-25 18:49:04	<	rhom (~rho@49.244.126.99) has left #archlinux
+2012-07-25 18:49:16	>	fuchs13 (~stephan@dslb-088-066-028-032.pools.arcor-ip.net) has joined #archlinux
+2012-07-25 18:49:43	>	sol1x (~sol1x@188-193-164-131-dynip.superkabel.de) has joined #archlinux
+2012-07-25 18:50:17	>	someone235 (~someone23@unaffiliated/someone235) has joined #archlinux
+2012-07-25 18:50:20	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Client Quit)
+2012-07-25 18:50:45	>	sweet|kid (mesian@unaffiliated/changednicks) has joined #archlinux
+2012-07-25 18:50:50	someone235	hi, my glibc is corrupted after the last update, and i can't execute any command
+2012-07-25 18:50:56	>	alfplayer (~alfplayer@190.193.171.193) has joined #archlinux
+2012-07-25 18:51:03	someone235	anything return "no such file or directory"
+2012-07-25 18:51:16	someone235	what can I do?
+2012-07-25 18:51:17	<	lyrae (~lyrae@pool-173-79-231-97.washdc.fios.verizon.net) has quit (Quit: WeeChat 0.3.8)
+2012-07-25 18:51:52	>	agumonkey (~agu@85.158.70.86.rev.sfr.net) has joined #archlinux
+2012-07-25 18:52:03	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 18:52:05	<	dknight (~amitav@115.119.195.82) has quit (Ping timeout: 255 seconds)
+2012-07-25 18:52:53	>	dknight (~amitav@115.119.195.82) has joined #archlinux
+2012-07-25 18:53:02	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Client Quit)
+2012-07-25 18:53:11	<	Hoyt (~c0debreak@112.231.209.80) has quit (Quit: WeeChat 0.3.8)
+2012-07-25 18:53:34	john_f	someone235: use the install image and fix it
+2012-07-25 18:53:41	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 18:53:51	john_f	someone235: there are some tips on the wiki page linked from the newsx
+2012-07-25 18:53:55	john_f	s/x//
+2012-07-25 18:54:19	<	LysergicDreams (~Lysergia@208-46-125-96.dia.static.qwest.net) has quit (Ping timeout: 255 seconds)
+2012-07-25 18:54:25	<	Ertyle (~elytre@unaffiliated/ertyle) has quit (Remote host closed the connection)
+2012-07-25 18:54:34	>	lyrae (~lyrae@pool-173-79-231-97.washdc.fios.verizon.net) has joined #archlinux
+2012-07-25 18:54:43	>	nym (~nym@dsl-trebrasgw1-ff4ec100-30.dhcp.inet.fi) has joined #archlinux
+2012-07-25 18:54:54	>	poljar (~poljar@78-0-79-238.adsl.net.t-com.hr) has joined #archlinux
+2012-07-25 18:54:59	>	Ertyle (~elytre@unaffiliated/ertyle) has joined #archlinux
+2012-07-25 18:55:30	<	lyrae (~lyrae@pool-173-79-231-97.washdc.fios.verizon.net) has quit (Client Quit)
+2012-07-25 18:56:19	>	LU324 (~stuff@nc-71-53-111-43.dhcp.embarqhsd.net) has joined #archlinux
+2012-07-25 18:57:39	>	backb0ne_ (~backb0ne@138.Red-83-63-225.staticIP.rima-tde.net) has joined #archlinux
+2012-07-25 18:57:55	<	backb0ne (~backb0ne@120.Red-88-7-156.staticIP.rima-tde.net) has quit (Ping timeout: 248 seconds)
+2012-07-25 18:58:25	<	Siphax (~Siphax@41.103.170.230) has quit (Read error: Operation timed out)
+2012-07-25 18:58:49	john_f	someone235: or try /usr/lib/ld-2.16.so /usr/bin/pacman
+2012-07-25 18:59:46	<	hi117 (~quassel@4.sub-166-248-82.myvzw.com) has quit (Ping timeout: 252 seconds)
+2012-07-25 19:00:06	>	n20 (~n20@c-a369e255.033-44-756d6513.cust.bredbandsbolaget.se) has joined #archlinux
+2012-07-25 19:00:07	<	n20 (~n20@c-a369e255.033-44-756d6513.cust.bredbandsbolaget.se) has quit (Changing host)
+2012-07-25 19:00:07	>	n20 (~n20@unaffiliated/n20) has joined #archlinux
+2012-07-25 19:00:16	<	Talmir (~talmir@rhnet-249-54.keilir.net) has quit (Remote host closed the connection)
+2012-07-25 19:00:18	sledgehammer	someone235, fyi if you had followed the update procedure correctly, you wouldn't have broken your system
+2012-07-25 19:00:26	MrElendig	someone235: next time follow https://bbs.archlinux.org/viewtopic.php?id=57205  instead of rm -rf /lib or -Syuf
+2012-07-25 19:00:27	phrik	Title: PLEASE READ BEFORE UPGRADING (Page 1) / Newbie Corner / Arch Linux Forums (at bbs.archlinux.org)
+2012-07-25 19:00:30	>	Fififox (~joan@28-40-190-109.dsl.ovh.fr) has joined #archlinux
+2012-07-25 19:00:41	<	oskude (~oskude@obh.sv1.holzlandbecker.de) has quit (Quit: Leaving)
+2012-07-25 19:01:33	<	mikroflops (~yogurt@h-34-21.a238.priv.bahnhof.se) has quit (Read error: Operation timed out)
+2012-07-25 19:02:08	<	Spelunke (~Agrafie@d90-136-229-185.cust.tele2.de) has quit (Quit: Verlassend)
+2012-07-25 19:02:46	⇄	sweet|kid is now known as sweet_kid
+2012-07-25 19:03:18	<	backb0ne_ (~backb0ne@138.Red-83-63-225.staticIP.rima-tde.net) has quit (Quit: Leaving...)
+2012-07-25 19:03:45	<	jakobw (~jakob@archlinux/developer/jakobw) has quit (Quit: Lost terminal)
+2012-07-25 19:04:06	jelly1	hmm how to get networkmanager unblock wireless
+2012-07-25 19:04:12	jelly1	or do docking stations block wifi?
+2012-07-25 19:04:27	>	Aphasie (~agraphia@d90-136-229-185.cust.tele2.de) has joined #archlinux
+2012-07-25 19:04:28	jelly1	i put a WiFi usb adapter in my pc and want to create a WPA wifi network
+2012-07-25 19:05:00	MrElendig	rfkill unblock all?
+2012-07-25 19:05:12	jelly1	it's unblocked
+2012-07-25 19:05:12	<	pseudo (~root@c-50-133-168-86.hsd1.nh.comcast.net) has quit (Quit: Lost terminal)
+2012-07-25 19:05:14	<	dark8 (~dark@ip-8-38-179-93.dialup.ice.net) has quit (Quit: Leaving)
+2012-07-25 19:05:24	MrElendig	networkmanager sometimes likes to block constantly though when the device is inactive
+2012-07-25 19:05:31	jelly1	MrElendig: i have hp's intel wifi and zd1211
+2012-07-25 19:05:34	MrElendig	block it again*
+2012-07-25 19:05:40	jelly1	http://dpaste.org/rG9zk/
+2012-07-25 19:05:42	phrik	Title: dpaste.de: Snippet #205258 (at dpaste.org)
+2012-07-25 19:05:44	jelly1	MrElendig: hrrm
+2012-07-25 19:05:52	jelly1	MrElendig: yeah networkmanager is sometimes random
+2012-07-25 19:05:54	jelly1	i did restart it
+2012-07-25 19:05:57	>	mikroflops (~yogurt@h-34-21.a238.priv.bahnhof.se) has joined #archlinux
+2012-07-25 19:06:18	>	toketin (~marco@host21-246-dynamic.17-79-r.retail.telecomitalia.it) has joined #archlinux
+2012-07-25 19:06:19	jelly1	when i take away the network cable and restart it , i bet it enables wifi
+2012-07-25 19:06:45	>	backb0ne (~backb0ne@138.Red-83-63-225.staticIP.rima-tde.net) has joined #archlinux
+2012-07-25 19:07:04	>	specious (~specious@184.76.227.73) has joined #archlinux
+2012-07-25 19:07:05	jelly1	but i need the cable for internet :P
+2012-07-25 19:07:27	sledgehammer	jelly1, are you seriously happy using stuff that's "sometimes random"? I couldn't bear that
+2012-07-25 19:07:32	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Quit: Everyone quits someday.)
+2012-07-25 19:07:34	>	drizzd (~drizzd@80.123.242.182) has joined #archlinux
+2012-07-25 19:07:51	>	siavashserver (~siavash@31.58.149.135) has joined #archlinux
+2012-07-25 19:07:54	>	dark8 (~dark@ip-8-38-179-93.dialup.ice.net) has joined #archlinux
+2012-07-25 19:08:02	jelly1	WirelessEnabled=true
+2012-07-25 19:08:07	jelly1	WUT
+2012-07-25 19:08:15	jelly1	ok fuck de applet
+2012-07-25 19:08:18	MrElendig	sledgehammer: but wicd is worse
+2012-07-25 19:08:27	sledgehammer	so? :)
+2012-07-25 19:08:30	jelly1	state is messed up
+2012-07-25 19:08:40	sledgehammer	netcfg > *
+2012-07-25 19:09:18	<	dknight (~amitav@115.119.195.82) has quit (Ping timeout: 252 seconds)
+2012-07-25 19:09:46	<	Moritz26 (~asda@ip-109-90-4-242.unitymediagroup.de) has quit (Quit: Verlassend)
+2012-07-25 19:10:42	>	Maccer (~Maccer@199.168.138.175) has joined #archlinux
+2012-07-25 19:10:45	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 19:11:00	>	pyther (~pyther@unaffiliated/pyther) has joined #archlinux
+2012-07-25 19:12:07	<	solsTiCe (~solsTiCe@gateway/tor-sasl/solstice) has quit (Remote host closed the connection)
+2012-07-25 19:12:15	<	siavashserver (~siavash@31.58.149.135) has quit (Ping timeout: 246 seconds)
+2012-07-25 19:12:17	>	Siphax (~Siphax@41.103.177.31) has joined #archlinux
+2012-07-25 19:12:41	cjdavies	how does one delete everything from an tfp directory? 'rm *' & 'mdelete *' don't work
+2012-07-25 19:12:52	cjdavies	I suspect it doesn't understandthe * wildcard...
+2012-07-25 19:12:53	<	evie_hammond (~ham_sandw@gateway/tor-sasl/eviehammond/x-06846111) has quit (Ping timeout: 276 seconds)
+2012-07-25 19:12:53	<	anhpht (~fta@101.99.27.9) has quit (Quit: Leaving.)
+2012-07-25 19:13:20	>	hi117 (~quassel@4.sub-166-248-82.myvzw.com) has joined #archlinux
+2012-07-25 19:13:21	>	evie_hammond (~ham_sandw@gateway/tor-sasl/eviehammond/x-06846111) has joined #archlinux
+2012-07-25 19:13:48	>	landypro (~landypro@60-240-57-67.tpgi.com.au) has joined #archlinux
+2012-07-25 19:14:16	MrElendig	ftp doesn't work that way
+2012-07-25 19:14:33	MrElendig	some ftp clients like lftp does though
+2012-07-25 19:14:47	MrElendig	er.. "fakes it"
+2012-07-25 19:14:54	guardian	blimey. I don't have xset
+2012-07-25 19:15:00	>	timahvo1 (~rogue@196.200.32.36) has joined #archlinux
+2012-07-25 19:15:01	gwash	if you mount it with curlftps or something, you can treat it as if it's local
+2012-07-25 19:15:01	MrElendig	guardian: install it then
+2012-07-25 19:15:02	guardian	stuck at beginning of https://wiki.archlinux.org/index.php/Fonts
+2012-07-25 19:15:03	cjdavies	well assuming I'm just using 'ftp' from command line, what is the easiest way to delete everything?
+2012-07-25 19:15:03	phrik	Title: Fonts - ArchWiki (at wiki.archlinux.org)
+2012-07-25 19:15:16	MrElendig	cjdavies: use lftp instead
+2012-07-25 19:15:24	MrElendig	cjdavies: or better, don't use ftp at all, it sucks
+2012-07-25 19:15:29	MrElendig	!g ftpmustdie
+2012-07-25 19:15:30	phrik	MrElendig: FtpMustDie - Greg's Wiki: <http://mywiki.wooledge.org/FtpMustDie>
+2012-07-25 19:15:39	cjdavies	MrElendig: I know ftp sucks, but my hosting plan comes with 100GB FTP backup which I want touse
+2012-07-25 19:15:44	gwash	cjdavies, ^
+2012-07-25 19:15:46	cjdavies	I'll try lftp, thanks
+2012-07-25 19:16:00	gwash	cjdavies, ask for ssh access
+2012-07-25 19:16:06	<	landypro (~landypro@60-240-57-67.tpgi.com.au) has quit (Client Quit)
+2012-07-25 19:16:13	MrElendig	cjdavies: encrypt before you backup if you care about your data
+2012-07-25 19:16:13	cjdavies	gwash: not going to happen
+2012-07-25 19:16:14	gwash	good hosts usually provide it
+2012-07-25 19:16:20	cjdavies	MrElendig: I am, via duplicity
+2012-07-25 19:16:22	>	landypro (~landypro@60-240-57-67.tpgi.com.au) has joined #archlinux
+2012-07-25 19:16:31	MrElendig	ftp is plaintext after all
+2012-07-25 19:16:33	>	Prezioso (~peter@85.218.165.129) has joined #archlinux
+2012-07-25 19:16:36	gwash	cjdavies, then they suck
+2012-07-25 19:16:38	cjdavies	gwash: this is a good host, but the internal backup servers they provide are ftp
+2012-07-25 19:16:53	cjdavies	obviously they are only accessible from within each machine room's subnet
+2012-07-25 19:16:57	MrElendig	if they only do ftp they are not a good host
+2012-07-25 19:17:04	landypro	hi all, does anyone know of any solutions to direct rendering across multiple screens with xinerama?
+2012-07-25 19:17:04	cjdavies	*sigh*
+2012-07-25 19:17:06	MrElendig	:D
+2012-07-25 19:17:11	gwash	cjdavies, and you want to delete things from the backup server, why?
+2012-07-25 19:17:16	<	MegaLoler (~megaloler@108-199-122-179.lightspeed.mmphtn.sbcglobal.net) has quit (Quit: Leaving.)
+2012-07-25 19:17:17	cjdavies	they only do ftp to the backup that they include as a chepa incentive
+2012-07-25 19:17:17	landypro	at the moment, i can only play flash videos in chromium on one of my 5 monitors
+2012-07-25 19:17:21	>	angelsl (~angelsl@pdpc/supporter/student/angelsl) has joined #archlinux
+2012-07-25 19:17:24	MrElendig	one of my hosts does nfs for the backup solution
+2012-07-25 19:17:26	MrElendig	:D
+2012-07-25 19:17:29	MrElendig	nfs and ssh
+2012-07-25 19:17:31	<	nyuszika7h (nyuszika7h@TouchLay/Member/nyuszika7h) has quit (Quit: Here we are, going far to save all that we love - If we give all we've got, we will make it through - Here we are, like a star shining bright on your world - Today, make evil go away!)
+2012-07-25 19:17:40	MrElendig	trough a vpn
+2012-07-25 19:17:42	cjdavies	gwash: because my duplicity conf was wrong & I backed up things I don't need
+2012-07-25 19:17:45	uta	can someone help me with a bash/printf problem? i've put it on pastebin.. http://pastebin.com/49qkMZ5p
+2012-07-25 19:17:47	phrik	Title: $ printf '%05d ' 100 00100 $ i=5 $ x="'" $ y="%0$i" $ z="d '" $ printf - Pastebin.com (at pastebin.com)
+2012-07-25 19:17:52	>	MegaLoler (~megaloler@108-199-122-179.lightspeed.mmphtn.sbcglobal.net) has joined #archlinux
+2012-07-25 19:17:57	>	Stalafin (~Stalafin@HSI-KBW-046-005-149-147.hsi8.kabel-badenwuerttemberg.de) has joined #archlinux
+2012-07-25 19:18:08	MrElendig	uta: 1. #bash  2. use some sane pastebin instead of pastebin.com
+2012-07-25 19:18:11	<	someone235 (~someone23@unaffiliated/someone235) has quit (Ping timeout: 255 seconds)
+2012-07-25 19:18:18	<	Ertyle (~elytre@unaffiliated/ertyle) has quit (Read error: Connection reset by peer)
+2012-07-25 19:18:26	gwash	cjdavies, can't you just make another backup
+2012-07-25 19:18:27	uta	okay
+2012-07-25 19:18:42	<	Icedman (~Icedman@unaffiliated/icedman) has quit (Quit: Everyone quits someday.)
+2012-07-25 19:19:03	<	evr__ (~none@ip98-184-162-247.tu.ok.cox.net) has quit (Quit: leaving)
+2012-07-25 19:19:08	>	Ertyle (~elytre@unaffiliated/ertyle) has joined #archlinux
+2012-07-25 19:19:08	gwash	also, if you have ssh on the regular server, you could use git to backup your files locally
+2012-07-25 19:19:10	<	evr___ (~none@ip98-184-162-247.tu.ok.cox.net) has quit (Quit: leaving)
+2012-07-25 19:19:13	cjdavies	gwash: ... the ftp is full, it's only 100GB
+2012-07-25 19:19:24	cjdavies	gwash: I forgot to exclude my torrents folder >_>
+2012-07-25 19:19:38	uta	now its a gist on github... https://gist.github.com/3175609
+2012-07-25 19:19:39	phrik	Title: printf problem Gist (at gist.github.com)
+2012-07-25 19:19:40	>	airmaverick (~chatzilla@101.103.60.94) has joined #archlinux
+2012-07-25 19:19:42	gwash	damn
+2012-07-25 19:19:44	cjdavies	MrElendig: so how is lftp meant to help? it doesn't like del/re/mdelete *[.gpg]
+2012-07-25 19:19:47	<	Srf (~leuck@187.36.49.213) has quit (Ping timeout: 248 seconds)
+2012-07-25 19:19:47	<	WeissLehrer (~aleuck@187.36.49.213) has quit (Ping timeout: 248 seconds)
+2012-07-25 19:20:04	gwash	cjdavies, i already mentioned to you curlftps
+2012-07-25 19:20:17	gwash	just mount it, and do whatever you want with it
+2012-07-25 19:20:41	>	WeissLehrer (~aleuck@187.36.49.213) has joined #archlinux
+2012-07-25 19:20:51	<	alfplayer (~alfplayer@190.193.171.193) has quit (Ping timeout: 246 seconds)
+2012-07-25 19:20:55	>	Srf (~leuck@187.36.49.213) has joined #archlinux
+2012-07-25 19:21:05	<	fotomonster (~fotomonst@ICHE154027.UNI-GRAZ.AT) has quit (Read error: Operation timed out)
+2012-07-25 19:21:20	gwash	although it's a lot slower than asynchronous connections
+2012-07-25 19:21:25	cjdavies	gwash: think I might, this is getting ridiciulous
+2012-07-25 19:21:47	>	alfplayer (~alfplayer@190.193.171.193) has joined #archlinux
+2012-07-25 19:22:09	<	Ertyle (~elytre@unaffiliated/ertyle) has quit (Read error: Connection reset by peer)
+2012-07-25 19:22:51	>	Ertyle (~elytre@unaffiliated/ertyle) has joined #archlinux
+2012-07-25 19:22:52	>	newcomer (~newcomer@196.205.192.127) has joined #archlinux
+2012-07-25 19:23:26	MrElendig	cjdavies: man lftp
+2012-07-25 19:23:43	cjdavies	MrElendig: I'm lazy - hadn't you notived?
+2012-07-25 19:23:58	cjdavies	I shouldn't have to read a man page to delete some damn files
+2012-07-25 19:24:12	>	anhpht (~fta@101.99.27.9) has joined #archlinux
+2012-07-25 19:24:13	cjdavies	this is also why I will never get a job as a susadmin
+2012-07-25 19:24:14	MrElendig	mrm or glob rm
+2012-07-25 19:24:18	<	xenor (~xenor@unaffiliated/xenor) has quit (Read error: Connection reset by peer)
+2012-07-25 19:24:22	>	systemedic (~systemedi@94.121.218.67) has joined #archlinux
+2012-07-25 19:24:27	>	Icedman (~Icedman@unaffiliated/icedman) has joined #archlinux
+2012-07-25 19:24:34	MrElendig	mrm file(s)
+2012-07-25 19:24:34	<	[paladin] (~Vasu@122.177.3.237) has quit (Quit: Leaving.)
+2012-07-25 19:24:36	MrElendig	Same as `glob rm'. Removes specified file(s) with wildcard expansion.
+2012-07-25 19:24:46	>	airmaverick1 (~adam@101.103.60.94) has joined #archlinux
+2012-07-25 19:24:58	cjdavies	MrElendig: :D
+2012-07-25 19:25:15	>	andrewSC (~Andrew@unaffiliated/andrewsc) has joined #archlinux
+2012-07-25 19:25:31	>	watsonalgas (~diomekes@c-98-192-32-83.hsd1.ga.comcast.net) has joined #archlinux
+2012-07-25 19:25:56	<	willemw (~willem@507089E1.static.ziggozakelijk.nl) has quit (Quit: Leaving.)
+2012-07-25 19:26:03	<	jaken (~jaken@113.22.187.240) has left #archlinux
+2012-07-25 19:26:09	<	jeff_sebring (~jeffsebri@c-67-168-88-169.hsd1.wa.comcast.net) has quit (Quit: Leaving)
+2012-07-25 19:26:32	<	vincent_wang (~vincent_w@111.194.222.113) has quit (Ping timeout: 252 seconds)
+2012-07-25 19:26:33	<	Isola_ (~Isola@m77-219-177-199.cust.tele2.se) has quit (Quit: Isola_)
+2012-07-25 19:26:44	<	airmaverick1 (~adam@101.103.60.94) has left #archlinux
+2012-07-25 19:26:45	>	tmba (~4ll4n@182.55.114.108) has joined #archlinux
+2012-07-25 19:26:49	guardian	so I'm reading https://wiki.archlinux.org/index.php/Fonts and https://wiki.archlinux.org/index.php/Font_Configuration
+2012-07-25 19:26:50	phrik	Title: Fonts - ArchWiki (at wiki.archlinux.org)
+2012-07-25 19:26:51	>	airmaverick1 (~adam@101.103.60.94) has joined #archlinux
+2012-07-25 19:27:00	<	Ertyle (~elytre@unaffiliated/ertyle) has quit (Read error: Connection reset by peer)
+2012-07-25 19:27:03	guardian	I still don't know how to change font in Xorg :/ I don't even have xset installed apparently
+2012-07-25 19:27:04	<	airmaverick1 (~adam@101.103.60.94) has left #archlinux
+2012-07-25 19:27:05	guardian	do I need additional packages?
+2012-07-25 19:27:38	<	DaZ (~derp@77-253-118-80.adsl.inetia.pl) has quit (Ping timeout: 252 seconds)
+2012-07-25 19:27:44	guardian	I'm running xorg + i3 + rxvt-unicode and that's it so far. I would like fonts to be antialised (at least in rxvt-unicode)
+2012-07-25 19:27:51	w0ng	guardian: font in what? `/.gtkrc-2.0 for gtk apps, ~/.Xresources for terminal
+2012-07-25 19:27:52	>	vincent_wang (~vincent_w@114.252.156.227) has joined #archlinux
+2012-07-25 19:28:12	guardian	oh there's no central point of configuration?
+2012-07-25 19:28:24	Earnestly	No, why would you want that?
+2012-07-25 19:28:38	guardian	I don't know, first time I'm doing it without gnome or kde
+2012-07-25 19:28:59	<	Jeanne-Kamikaze (~Jeanne-Ka@235.177.223.87.dynamic.jazztel.es) has quit (Quit: Leaving)
+2012-07-25 19:29:02	Earnestly	Right, most programs have their own configuration. A good thing
+2012-07-25 19:29:19	<	airmaverick (~chatzilla@101.103.60.94) has quit (Quit: ChatZilla 0.9.88.2 [Firefox 14.0.1/20120717181344])
+2012-07-25 19:29:26	<	tnrazy (~tnrazy@113.116.236.66) has quit (Ping timeout: 255 seconds)
+2012-07-25 19:29:47	>	Shyde (~Shyde^^@HSI-KBW-109-193-027-183.hsi7.kabel-badenwuerttemberg.de) has joined #archlinux
+2012-07-25 19:29:50	Earnestly	Xresources is however, almost like that. You can define both urxvt and xterm options for example and a few other programs which make use of those resources
+2012-07-25 19:29:55	Earnestly	!wiki xresources
+2012-07-25 19:29:56	phrik	Earnestly: https://wiki.archlinux.org/index.php/X_resources
+2012-07-25 19:29:57	<	alfplayer (~alfplayer@190.193.171.193) has quit (Ping timeout: 246 seconds)
+2012-07-25 19:30:03	Earnestly	!wiki URxvt
+2012-07-25 19:30:04	phrik	Earnestly: https://wiki.archlinux.org/index.php/Rxvt-unicode
+2012-07-25 19:30:19	>	kvashir (~kvashir@188.11.142.170) has joined #archlinux
+2012-07-25 19:30:30	<	fraxinas (~quassel@pD9535D8F.dip.t-dialin.net) has left #archlinux ("http://quassel-irc.org - Chat comfortably. Anywhere.")
+2012-07-25 19:30:40	>	harvie (~harvie@2002:50f3:6591:23:1107:f9e:8512:bb37) has joined #archlinux
+2012-07-25 19:30:46	Earnestly	Both of those should provide you will all the info you need on configuring fonts for X/Terminals. GTK+ programs make use of freetype which is what fontconfig governs
+2012-07-25 19:30:47	keenerd	The wiki page just talks about disabling AA ;-)
+2012-07-25 19:30:50	<	landypro (~landypro@60-240-57-67.tpgi.com.au) has quit (Quit: Lost terminal)
+2012-07-25 19:30:59	<	shox (~shox@i01m-62-35-6-205.d4.club-internet.fr) has quit (Remote host closed the connection)
+2012-07-25 19:31:28	>	alfplayer (~alfplayer@190.193.171.193) has joined #archlinux
+2012-07-25 19:31:38	w0ng	!wiki font configuration
+2012-07-25 19:31:39	kvashir	hi guys, i wrote this program https://bbs.archlinux.org/viewtopic.php?pid=1136328#p1136328 can you give me some impressions about it? sorry for my bad english :)
+2012-07-25 19:31:39	phrik	w0ng: https://wiki.archlinux.org/index.php/Font_Configuration
+2012-07-25 19:31:40	phrik	Title: Cpufreq-Helper - Easy Python cpu governors switcher (Page 1) / Community Contributions / Arch Linux Forums (at bbs.archlinux.org)
+2012-07-25 19:31:41	guardian	and KDE/Qt based programs use something else?
+2012-07-25 19:31:47	>	xenor (~xenor@unaffiliated/xenor) has joined #archlinux
+2012-07-25 19:31:51	w0ng	is also good
+2012-07-25 19:31:57	Earnestly	No?
+2012-07-25 19:32:00	<	Bacalli (~Blasi_@unaffiliated/bacalli) has left #archlinux ("Leaving")
+2012-07-25 19:32:02	>	oscailt (~oscailt@unaffiliated/oscailt) has joined #archlinux
+2012-07-25 19:32:08	<	fuchs13 (~stephan@dslb-088-066-028-032.pools.arcor-ip.net) has quit (Quit: Konversation terminated!)
+2012-07-25 19:32:26	Earnestly	w0ng: He already looked through that, it didn't change urxvt so confusion abound
+2012-07-25 19:32:41	>	Bacalli (~Blasi_@unaffiliated/bacalli) has joined #archlinux
+2012-07-25 19:32:52	>	Ertyle (~elytre@unaffiliated/ertyle) has joined #archlinux
+2012-07-25 19:32:56	Earnestly	guardian: Nope, those also use freetype2
+2012-07-25 19:33:10	guardian	hmm maybe archlinux isn't just for me :/ I want to spend my life coding :( not configuring so many files. I appreciate your help though
+2012-07-25 19:33:33	>	Schorfi (~schorfi@unaffiliated/schorfi) has joined #archlinux
+2012-07-25 19:33:36	Earnestly	i never understood that slippery slope logic
+2012-07-25 19:33:41	>	DaZ (~derp@77-253-121-186.adsl.inetia.pl) has joined #archlinux
+2012-07-25 19:34:25	keenerd	kvashir: It is not exactly clear what it is for or who would want to use it.
+2012-07-25 19:34:57	Earnestly	Do it once and you're set. You might tweak an option now and then or use #include to try different colours, but "On nose, I have to spend all my life configuring things" is just incorrect
+2012-07-25 19:35:08	guardian	why is it so strange to you? here it's lunch break. I'm trying to open my mind with archlinux. yet I either want to code cool things of mine — or keep working because it's crunch time
+2012-07-25 19:35:17	w0ng	yeh archlinux is bad if you wanna just get up and running. i only recommend it to people who like spending 99999hrs configuring 99999 applications
+2012-07-25 19:35:24	<	promulo (~promulo@177.42.179.62) has quit (Read error: Connection reset by peer)
+2012-07-25 19:35:29	<	mroconnor (~mroconnor@unaffiliated/mroconnor) has quit (Quit: Lost terminal)
+2012-07-25 19:35:37	<	Ariii (~Ariii@99-102-109-42.lightspeed.cicril.sbcglobal.net) has quit (Remote host closed the connection)
+2012-07-25 19:35:39	kvashir	keenerd, my english is not so good :) i tried to explain it is created to change cpu governors
+2012-07-25 19:35:47	>	bc547 (~bc547@213.211.139.46) has joined #archlinux
+2012-07-25 19:35:52	<	Ertyle (~elytre@unaffiliated/ertyle) has quit (Read error: Connection reset by peer)
+2012-07-25 19:35:53	keenerd	guardian: Just stop using Urxvt.  Try and of the VTE, they have much easier font config.
+2012-07-25 19:36:11	>	kkimlabs (~kkimlabs@VPNRASA-WLAN-01.NATPOOL.NYU.EDU) has joined #archlinux
+2012-07-25 19:36:17	Earnestly	Or that
+2012-07-25 19:36:17	w0ng	here comes the plug for termite!
+2012-07-25 19:36:24	>	Ertyle (~elytre@unaffiliated/ertyle) has joined #archlinux
+2012-07-25 19:36:57	Earnestly	Powerful tools require some investment. Simple as that
+2012-07-25 19:37:15	guardian	keenerd: VTE? you mean stay out of X?
+2012-07-25 19:37:32	>	fulltang (~ark@c-71-193-105-200.hsd1.in.comcast.net) has joined #archlinux
+2012-07-25 19:37:32	Earnestly	Very much the opposite
+2012-07-25 19:37:54	>	landypro (~landypro@60-240-57-67.tpgi.com.au) has joined #archlinux
+2012-07-25 19:38:00	Earnestly	Gnome-terminal is vte
+2012-07-25 19:38:08	Earnestly	kconsole is vtw
+2012-07-25 19:38:13	Earnestly	/w/e/
+2012-07-25 19:38:17	keenerd	Gterm is also the worst of all the VTEs :-)
+2012-07-25 19:38:24	>	thebeav (~adam@ip70-178-204-92.ks.ks.cox.net) has joined #archlinux
+2012-07-25 19:38:28	Earnestly	I wouldn't know fortunately :p
+2012-07-25 19:38:51	guardian	Earnestly: well I'm really not into a distro war, and that would be a bad place to engage one. but still to give a comparison my expectations would likely be fulfilled by debian + gnome2 + bluetile + gnome terminal running tmux and vim
+2012-07-25 19:38:56	>	rydgel (~rydgel@LPuteaux-156-16-9-64.w80-14.abo.wanadoo.fr) has joined #archlinux
+2012-07-25 19:39:01	keenerd	guardian: pacman -Sii vte (and vte3).  Look at the Required-By lists and try some of those terms.  Most will do what you want out of the box.
+2012-07-25 19:39:24	guardian	Earnestly: that would be powerful tools on top on on brainer and already configured solid base
+2012-07-25 19:39:39	keenerd	In that case, use i3 + gnome-term + tmux + vim.
+2012-07-25 19:39:43	<	Ertyle (~elytre@unaffiliated/ertyle) has quit (Read error: Connection reset by peer)
+2012-07-25 19:39:51	Earnestly	^
+2012-07-25 19:39:56	guardian	yeah sounds like a good plan
+2012-07-25 19:39:57	>	wu_lmao (~wu_lmao@unaffiliated/wu-lmao/x-9069391) has joined #archlinux
+2012-07-25 19:40:10	Dtgr	i3 + urxvt + vim sounds nice :)
+2012-07-25 19:40:25	teklord	awesome, terminator, tmux, vim
+2012-07-25 19:40:32	>	whoami (~whoami@ip-94-112-180-182.net.upcbroadband.cz) has joined #archlinux
+2012-07-25 19:40:36	>	Ertyle (~elytre@unaffiliated/ertyle) has joined #archlinux
+2012-07-25 19:40:43	>	tjiggi_fo (~grumpy@c-50-138-47-168.hsd1.fl.comcast.net) has joined #archlinux
+2012-07-25 19:40:45	<	phsi (~phsi@calmar2.netcologne.de) has quit (Remote host closed the connection)
+2012-07-25 19:40:47	keenerd	Screw helping people, let's show off what we use!
+2012-07-25 19:40:57	>	phsi (~phsi@calmar2.netcologne.de) has joined #archlinux
+2012-07-25 19:40:58	guardian	I don't remember why I chose urxvt
+2012-07-25 19:40:58	Dtgr	where do you need tmux if you have a tiling-wm already
+2012-07-25 19:41:09	guardian	likely because tmux and vim provide what I need in terms of splitting etc
+2012-07-25 19:41:10	teklord	Speaking of what we use, I use awesome.
+2012-07-25 19:41:14	Earnestly	guardian: It's a different approach, a lot of people on Arch like to use the best (mostly effecient) when it comes to workflow. Tailoring that to your exact needs is part of the fun of linux in general.
+2012-07-25 19:41:14	teklord	How do I edit/change icons for the awesomewm titlebar?
+2012-07-25 19:41:16	guardian	so I didn't need terminator being also able to do it
+2012-07-25 19:42:06	<	Ertyle (~elytre@unaffiliated/ertyle) has quit (Remote host closed the connection)
+2012-07-25 19:42:07	Earnestly	vim and tmux for example are both very powerful and have a sharp learning curve with large configurations. Then why is a simple Xresources so abrasive?
+2012-07-25 19:42:34	>	fotomonster (~fotomonst@ICHE154027.UNI-GRAZ.AT) has joined #archlinux
+2012-07-25 19:42:53	guardian	because it's yet another thing
+2012-07-25 19:43:06	Earnestly	3 things
+2012-07-25 19:43:08	guardian	that's why I'm reacting like this :)
+2012-07-25 19:43:36	Earnestly	Hm, I don't know. Perhaps when I started, but it's so simple to me these days and with vim it's almost a nonissue
+2012-07-25 19:43:38	Kwpolska	How do I change the resolution of tty1-tty6?
+2012-07-25 19:44:13	MrElendig	Kwpolska: what video card
+2012-07-25 19:44:19	Earnestly	And driver
+2012-07-25 19:44:28	MrElendig	and are you going to run X too or not?
+2012-07-25 19:44:38	Kwpolska	MrElendig: I am running X.
+2012-07-25 19:44:48	MrElendig	theyn why use tty at all? :p
+2012-07-25 19:44:52	Kwpolska	MrElendig: nvidia geforce gts450; closed drivers
+2012-07-25 19:45:01	MrElendig	boot with vga=ask
+2012-07-25 19:45:04	Kwpolska	MrElendig: boot sequence, and I do not like stuff stretched.
+2012-07-25 19:45:04	>	Icewing (~Icewing@unaffiliated/icewing) has joined #archlinux
+2012-07-25 19:45:05	>	Guilherme (~guilherme@unaffiliated/capeta) has joined #archlinux
+2012-07-25 19:45:11	>	mcmaur (~mauro@93-32-251-128.ip36.fastwebnet.it) has joined #archlinux
+2012-07-25 19:45:12	MrElendig	and you will be limited to whatever the vesabios supports
+2012-07-25 19:45:14	>	airmaverick (~chatzilla@101.103.60.94) has joined #archlinux
+2012-07-25 19:45:17	guardian	because I enjoy the powerful terminal capabilities of my mac running iTerm2 + tmux + vim (thank you homebrew) and that's a lot already. so I'm satisfied the rest is working out of the box, the rest being mac os x with antialiased fonts, with 3d acceleration etc. of course that supposes you adhere to mac osx gui peculiarities or at list you're not so annoyed by them
+2012-07-25 19:45:26	>	jaken (~jaken@113.22.187.240) has joined #archlinux
+2012-07-25 19:45:33	keenerd	Aw, that is mean.  None of the vga=ask are any good.
+2012-07-25 19:45:39	guardian	again I'm not evangelizing anything here, just explaining my feelings since we engaged the conversation
+2012-07-25 19:45:41	Kwpolska	I need 1920x1080.
+2012-07-25 19:45:50	<	Twey (~Twey@unaffiliated/twey) has quit (Excess Flood)
+2012-07-25 19:45:52	<	paideia (~paideia@149.155.195.114) has quit (Read error: Operation timed out)
+2012-07-25 19:45:52	MrElendig	use the free driver and kms instead then
+2012-07-25 19:46:09	MrElendig	if the mode is not in the vesabios
+2012-07-25 19:46:12	MrElendig	or hack the card
+2012-07-25 19:46:20	<	airmaverick (~chatzilla@101.103.60.94) has quit (Client Quit)
+2012-07-25 19:46:27	guardian	s/list/least
+2012-07-25 19:46:33	guardian	anyways, thank you, reading the wiki again
+2012-07-25 19:46:36	Earnestly	guardian: If that's the case, then you're right, perhaps Arch is not the best for you. I enjoy configuring things although I haven't done so for months (getting tired of this colour scheme). I just don't understand the "spend my life configuring" because that's far from true.
+2012-07-25 19:46:38	Kwpolska	MrElendig: no way I will use free drivers.
+2012-07-25 19:46:39	>	airmaverick (~chatzilla@101.103.60.94) has joined #archlinux
+2012-07-25 19:47:01	MrElendig	vga=ask it is then
+2012-07-25 19:47:05	tmba	Kwpolska: I installed nouveau instead of nvidia drivers, it now detects the correct resolution in tty during bootup
+2012-07-25 19:47:30	<	ambossarm (~ambo@kvirc/staff/ambossarm) has quit (Quit: Wenn Katholiken streiken, sind es dann nicht automatisch Protestanten ?!)
+2012-07-25 19:47:48	tmba	Kwpolska: but SC2 no longer works.. just in case you need 3d accel
+2012-07-25 19:48:25	Earnestly	Configuring Xresources is also very easy once you get over the "This doesn't instantly make sense to me"; the .Xresources article on Archwiki is very informative. IT's all about tailoring things to suit your needs exactly and that's not always possible out of the box.
+2012-07-25 19:48:32	Kwpolska	tmba: I need 3d, so no way I will use nouveau.
+2012-07-25 19:48:35	guardian	are we talking about that terminator? http://software.jessies.org/terminator/ because I don't need the terminal emulator app to handle tabs, or have other bells and whistles. that's why I went towards urxvt. but if you say urxvt isn't that good...
+2012-07-25 19:48:36	phrik	Title: Terminator (at software.jessies.org)
+2012-07-25 19:48:43	tmba	Kwpolska: vga= then?
+2012-07-25 19:48:54	Kwpolska	tmba: does it support 1920x1080?
+2012-07-25 19:48:56	>	uris (~rguerra@190.197.41.199) has joined #archlinux
+2012-07-25 19:49:00	Earnestly	Kwpolska: hwinfo --framebuffer, if your resolution isn't there, select the next best and live with it.
+2012-07-25 19:49:06	keenerd	guardian: It depends.  If you like gnome-term, just use it already :-)
+2012-07-25 19:49:15	MrElendig	Kwpolska: 13:45:14  MrElendig ╡ and you will be limited to whatever the vesabios supports
+2012-07-25 19:49:19	>	tnrazy (~tnrazy@113.116.236.66) has joined #archlinux
+2012-07-25 19:49:29	Earnestly	guardian: If you're already using tmux, you're using the best, don't worry about terminator :p
+2012-07-25 19:49:43	<	gabx (~gabx@80-203.5-85.cust.bluewin.ch) has quit (Quit: WeeChat 0.3.8)
+2012-07-25 19:49:46	<	Vorpal (~AnMaster@unaffiliated/anmaster) has quit (Changing host)
+2012-07-25 19:49:47	>	Vorpal (~AnMaster@unaffiliated/vorpal) has joined #archlinux
+2012-07-25 19:50:00	guardian	I don't even know if I like it. I want one that doesn't have zillions of dependencies (but well I'm about to instal kcachegrind for work so… I'll "clutter" my box with many deps already). I want one that works
+2012-07-25 19:50:02	>	gabx666 (~gabx@80-203.5-85.cust.bluewin.ch) has joined #archlinux
+2012-07-25 19:50:02	Kwpolska	  Mode 0x0361: 1280x800 (+5120), 24 bits
+2012-07-25 19:50:08	⇄	gabx666 is now known as gabx
+2012-07-25 19:50:14	Kwpolska	what entry in vga= should I use?
+2012-07-25 19:50:15	keenerd	guardian: They all work.
+2012-07-25 19:50:22	>	bjorn_248 (bjorn_248@unaffiliated/bjorn248) has joined #archlinux
+2012-07-25 19:50:24	>	nyuszika7h (nyuszika7h@TouchLay/Member/nyuszika7h) has joined #archlinux
+2012-07-25 19:50:31	Earnestly	0x0361
+2012-07-25 19:50:34	<	trigger (~trigger@gateway/tor-sasl/trigger) has quit (Ping timeout: 276 seconds)
+2012-07-25 19:51:01	Earnestly	guardian: If you want out of the box, then you'll need to deal with "zillions" of deps. :(
+2012-07-25 19:51:10	>	HuMu_ (~Huub@41.203.192.97) has joined #archlinux
+2012-07-25 19:51:17	MrElendig	urxvt doesn't have a zillion deps
+2012-07-25 19:51:21	keenerd	Nah, VTEs work out of the box and don't drag in deps other than GTK.
+2012-07-25 19:51:28	Earnestly	But once you've configured it to your liking, you're set and will probably never need to touch it again.
+2012-07-25 19:51:40	guardian	keenerd: that's again something that just doesn't fit my personality I guess :D I can spend hours deciding which of the dozen of apps doing the same thing. I hate it even more when the apps are all in v 0.0.x and maybe the author got a girlfriend in the meantime ;)
+2012-07-25 19:51:42	Earnestly	There's also gtk3-light in the aur
+2012-07-25 19:51:55	Earnestly	Which is much, much lighter on deps compared with gtk3
+2012-07-25 19:52:00	<	newcomer (~newcomer@196.205.192.127) has quit (Ping timeout: 246 seconds)

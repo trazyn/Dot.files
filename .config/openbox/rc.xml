@@ -186,7 +186,7 @@
     </keybind>
     <keybind key="W-b">
       <action name="Execute">
-        <command>swiftfox</command>
+        <command>firefox</command>
       </action>
     </keybind>
     <keybind key="W-A-m">

@@ -11,11 +11,10 @@ Downloads=/media/Download ;
 Music=/media/Music ;
 Video=/media/Videos ;
 Wallpaper=/media/Wallpaper ;
-Books=/media/Books ;
 Picture=/media/Picture ;
 
-DISK_D=/mnt/wind ;
-DISK_E=/mnt/wine ;
-DISK_F=/mnt/winf ;
+DISK_D=/mnt/d ;
+DISK_E=/mnt/e ;
+DISK_F=/mnt/f ;
 
 iwork=$DISK_E/iWork ;

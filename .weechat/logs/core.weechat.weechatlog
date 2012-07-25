@@ -1,0 +1,26 @@
+2012-07-25 16:15:59		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, tcl, xfer
+2012-07-25 16:23:13		New key binding (context "mouse"): @item(buffers):button2 => hsignal:buffers_mouse
+2012-07-25 16:23:13		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2012-07-25 16:23:13		perl scripts loaded: buffers
+2012-07-25 16:23:13		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, tcl, xfer
+2012-07-25 16:23:26	+	irc: command "join" must be executed on connected irc server
+2012-07-25 17:17:15	+	Warning: /home/tnrazy/.weechat/weechat.conf, line 26: unknown option for section "look": hline_char = ""
+2012-07-25 17:17:15	+	Warning: /home/tnrazy/.weechat/weechat.conf, line 52: invalid value for option: prefix_align_more = on
+2012-07-25 17:17:15	+	Warning: /home/tnrazy/.weechat/weechat.conf, line 55: invalid value for option: prefix_buffer_align_more = on
+2012-07-25 17:17:15	+	Warning: /home/tnrazy/.weechat/weechat.conf, line 380: unknown option for section "history": max_lines = 4096
+2012-07-25 17:17:15		Options reloaded from weechat.conf
+2012-07-25 17:17:15		Options reloaded from plugins.conf
+2012-07-25 17:17:15		Options reloaded from rmodifier.conf
+2012-07-25 17:17:15		Options reloaded from logger.conf
+2012-07-25 17:17:15		Options reloaded from charset.conf
+2012-07-25 17:17:15		Options reloaded from buffers.conf
+2012-07-25 17:17:15		Options reloaded from irc.conf
+2012-07-25 17:17:15		Options reloaded from xfer.conf
+2012-07-25 17:17:15		Options reloaded from alias.conf
+2012-07-25 17:17:15		Options reloaded from aspell.conf
+2012-07-25 17:17:15		Options reloaded from relay.conf
+2012-07-25 17:17:15		perl: scripts unloaded
+2012-07-25 17:44:09		New key binding (context "mouse"): @item(buffers):button2 => hsignal:buffers_mouse
+2012-07-25 17:44:09		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2012-07-25 17:44:09		perl scripts loaded: buffers
+2012-07-25 17:44:09		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, tcl, xfer

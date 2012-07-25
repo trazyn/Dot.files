@@ -62,9 +62,9 @@
 				</execute>
 			</action>
 		</item>
-		<item label="Browser - swiftfox   *">
+		<item label="Browser - firefox   *">
 			<action name="Execute">
-				<execute>swiftfox google.com/ncr</execute>
+				<execute>firefox</execute>
 			</action>
 		</item>
 		<separator/>

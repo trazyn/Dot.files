@@ -19,5 +19,7 @@ xcompmgr -cC &
 #sleep 1.1s && feh --bg-fill /media/Wallpaper/Beauty\ Wallpaper/1440x900\ -\ 15\ inch.jpg &
 sleep 1.1s && feh --bg-fill /media/Wallpaper/12-21-1/211545q0k3mkk9k31kfk03.jpg &
 
+myweather &
+
 # Window Manager
 exec openbox-session

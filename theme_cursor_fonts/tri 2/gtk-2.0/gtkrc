@@ -15,7 +15,8 @@ gtk-icon-sizes = "gtk-large-toolbar=16,16:gtk-small-toolbar=16,16"
 
 gtk-button-images	= 0 # Enables icons in buttons
 gtk-toolbar-style	= 0 # Disables text in toolbar
-gtk-auto-mnemonics	= 1
+gtk-auto-mnemonics	= 0
+gtk-menu-images 	= 0
 
 style "theme-default"
 {

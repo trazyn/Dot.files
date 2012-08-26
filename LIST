@@ -4,7 +4,7 @@
 
 
 -- Web browser
-luakit, swiftfox
+luakit
 
 --- Music
 mpd, ncmpacpp-fftw
@@ -13,13 +13,13 @@ mpd, ncmpacpp-fftw
 mplayer
 
 -- Term
-rxvt-unicode-256color
+rxvt-unicode
 
 --- Gtk2 engine
-equinox, murrine
+equinox, murrine, gtk-engines
 
 --- Gtk2 theme
-darks, naos
+darks, naos, tri2
 
 --- Gtk2 theme selector
 gtk2_prefs
@@ -40,12 +40,7 @@ freetype2-infinality
 Pragmata, Envy Code R VS
 
 
---- System
-ntfs-3g, dbus, alsa-utils, alsa-plugins, alsa-lib, pulseaudio, flashplugin, xcompmgr
-acpi, cpufreq
+xcompmgr, cpufreq
 
 --- #
-weechat, gvim, feh, git, zsh, cscope, ctags, scrot, epdfview, mid3iconv, nitrogen
-
---- Grub2 vga mode
-as root, hwinfo --framebuffer
+weechat, feh, cscope, ctags, scrot, mid3iconv, nitrogen

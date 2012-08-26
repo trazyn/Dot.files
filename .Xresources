@@ -81,7 +81,7 @@ URxvt.perl-lib:           /usr/lib/urxvt/perl/
 URxvt.perl-ext-common:    default,matcher
 URxvt.perl-ext:           default
 URxvt.keysym.M-u:         perl:url-select:select_next
-URxvt.urlLauncher:        /usr/bin/swiftfox
+URxvt.urlLauncher:        /usr/bin/luakit
 URxvt.matcher.button:     1
 
 !==============================================================

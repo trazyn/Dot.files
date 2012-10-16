@@ -3,18 +3,6 @@
 ######################
 
 
--- Web browser
-luakit
-
---- Music
-mpd, ncmpacpp-fftw
-
--- Video
-mplayer
-
--- Term
-rxvt-unicode
-
 --- Gtk2 engine
 equinox, murrine, gtk-engines
 

@@ -1,0 +1,10 @@
+width = 200
+
+height = 320
+
+zipcode = CHXX0120
+
+position = 120, 480
+
+days = 0,30;0,70;0,110;0,150;
+

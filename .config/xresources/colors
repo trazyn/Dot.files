@@ -1,29 +1,40 @@
-!ObliviousGmnColors
+URxvt.depth: 32
+URxvt.background: #181818
+URxvt.scrollBar: false
+URxvt.font: xft:consolas:pixelsize=9
 
-*foreground: #dddddd
-*background: #151515
+*foreground: #ffffff
+*background: #222222
 
 !black
-   *color0: #2E1F1F
-   *color8: #422D2D
+*color0: #393939
+*color8: #474747
+
 !red
-   *color1: #AA0E50
-   *color9: #BE0E50
+*color1:     #d82f44
+*color9:     #d85b6a
+
 !green
-   *color2: #1DCC9F
-   *color10: #1FD9A9
+*color2:     #51dc34
+*color10:    #76dc61
+
 !yellow
-   *color3: #27C282
-   *color11: #2CDB93
+*color3:  #eac435
+*color11: #eace65
+
 !blue
-   *color4: #7182A8
-   *color12: #8194BF
+*color4: #0aa2c9
+*color12: #32aac9
+
 !magenta
-   *color5: #A673A6
-   *color13: #7F5AA1
+*color5: #b61751
+*color13: #b63c69
+
 !cyan
-   *color6: #6DA3A1
-   *color14: #669997
+*color6: #18acb6
+*color14: #3caeb6
+
 !white
-   *color7: #B7BBBD
-   *color15: #D9D9D9
+*color7: #ebebeb
+*color15: #cccccc
+

@@ -37,6 +37,11 @@ done
 eval $( dircolors -b $HOME/.config/zsh/LS_COLORS )
 export LS_COLORS
 
+export __GL_FSAA_MODE=4
+export __GL_LOG_MAX_ANISO=2
+
+cd $HOME
+
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # Prompt ~ >
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

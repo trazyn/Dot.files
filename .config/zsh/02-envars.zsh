@@ -50,10 +50,14 @@ export PATH="/usr/local/bin:\
 # /usr/bin/core_perl:\
 # /home/crshd/bin:"
 
-export WINEPREFIX='/home/tnrazy/.wine32'
+export WINEPREFIX='/home/tnrazy/.wineHQ/'
+# export WINEARCH=win32
 
 # Less
 # export LESSOPEN='| /usr/bin/highlight -0 ansi %s'
 export LESS=' -R'
 
+export XMODIFIERS=@im=fcitx
+export GTK_IM_MODULE=xim
+export QT_IM_MODULE=xim
 # vim: set ft=zsh

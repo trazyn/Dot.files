@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openbox_menu xmlns="http://openbox.org/3.4/menu">
 	<menu id="razy_apps" label="App ~">
-		<item label="FEH">
-			<action name="Execute">
-				<execute>feh</execute>
-			</action>
-		</item>
 		<item label="PDF View">
 			<action name="Execute">
-				<execute>
-					epdfview
-				</execute>
+				<execute>mupdf</execute>
 			</action>
 		</item>
 		<item label="GVIM">
@@ -20,11 +13,9 @@
 				</execute>
 			</action>
 		</item>
-		<item label="MPD">
+		<item label="Putty">
 			<action name="Execute">
-				<execute>
-					mpd --verbose
-				</execute>
+				<execute>putty</execute>
 			</action>
 		</item>
 	</menu>
@@ -43,9 +34,7 @@
 		</item>
 		<item label="Openbox Menu Editor">
 			<action name="Execute">
-				<execute>
-					sudo obmenu /etc/xdg/openbox/menu.xml
-				</execute>
+				<execute>obmenu /home/tnrazy/.config/openbox/menu.xml</execute>
 			</action>
 		</item>
 		<item label="Refresh Openbox">
@@ -58,7 +47,7 @@
 			<action name="Reconfigure"/>
 		</item>
 	</menu>
-	<menu id="root-menu" label="Openbox 3">
+	<menu id="root-menu" label="Openbox">
 		<!-- <separator label="Applications"/> -->
 		<item label="URXVT">
 			<action name="Execute">
@@ -67,14 +56,9 @@
 				</execute>
 			</action>
 		</item>
-		<item label="Browser - luakit">
+		<item label="Browser - luakit    *">
 			<action name="Execute">
 				<execute>luakit www.google.com/ncr</execute>
-			</action>
-		</item>
-		<item label="Browser - firefox   *">
-			<action name="Execute">
-				<execute>firefox</execute>
 			</action>
 		</item>
 		<separator/>

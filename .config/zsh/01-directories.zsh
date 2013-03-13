@@ -9,9 +9,12 @@
 
 Downloads=/media/Download ;
 Music=/media/Music ;
-Video=/media/Videos ;
+Video=/media/Video ;
 Wallpaper=/media/Wallpaper ;
 Picture=/media/Picture ;
+Other=/media/Other ;
+Book=/media/Book ;
+www=/mnt/e/www ;
 
 DISK_D=/mnt/d ;
 DISK_E=/mnt/e ;

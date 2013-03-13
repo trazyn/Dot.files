@@ -1,0 +1,1017 @@
+ls
+cd $Music
+ls
+cd æ¢éƒ½ƒ¹èƒ¬¹.-.\[äº²äº²\(åƒ¯°æ¹¾æ­£å¼ƒ¯çƒ©ƒ¨\)\].ä¸ƒ³è¾ƒ±.\(mp3\)
+ls
+feh 01åƒ»ƒ»å­£\ \(äºƒ´æƒ¼ƒ¨å¤©æ€ªåƒ¥½ä½ƒ¼æƒ»²åƒ¨¶ä½ƒ¼\).mp3.mp3
+feh æ¢éƒ½ƒ¹èƒ¬¹.jpg
+feh æ¢éƒ½ƒ¹èƒ¬¹*
+amixer
+vim /etc/pulse/default.pa
+cls
+ls
+vim /etc/libao.conf
+cls
+ls
+vim /etc/asound.conf
+cls
+ls
+cls
+startx
+alsamixer
+cls
+sl
+cls
+mpdcoverart
+cd mpdcoverart
+ls
+s cp mpdcoverart /usr/bin
+cls
+cd ~
+cls
+ls
+mpdcoverart
+ncmpcpp
+cls
+dbfm
+cls
+ls
+rm (null)
+rm \(null\)
+cls
+ls
+pwd
+ls
+cd .config
+ls
+ls mdpcoverart
+rm mdpcoverart
+cd dbfm
+ls
+vim dbfm.conf
+cls
+ls
+vim session
+cls
+ls
+mv session session.bak
+cd dbfm
+ls
+cls
+ls
+./dbfm
+cls
+ls
+vim session
+cls
+ls
+rm session.bak
+cls
+ls
+reset
+s cp dbfm /usr/bin
+ls
+dbfm
+reset
+cls
+startx
+ncmpcpp
+ps axu | grep mpd
+kill 2611
+cls
+sensors
+cls
+ls
+ncmpcpp
+mpdcoverart
+ncmpcpp
+dbfm
+trans test
+alsamixer
+cls
+ls
+dbfm
+cls
+reset
+cls
+reset
+ls
+cd goagent/local
+ls
+python2 proxy.py
+aria2c
+aria2c ed2k://|file|Skyfall.2012.720p.BluRay.x264-DAA[qvocd.org].mkv|7033912369|B872E18426B81753A7535BED24C94A1B|h=XKBOHDJ6WPXBQHIS55NEUWBAGB27JPE4|/
+aria2c
+aria2c "ed2k://|file|Skyfall.2012.720p.BluRay.x264-DAA[qvocd.org].mkv|7033912369|B872E18426B81753A7535BED24C94A1B|h=XKBOHDJ6WPXBQHIS55NEUWBAGB27JPE4|/"
+cls
+ls
+aria2c bgIdXP1McA.torrent
+sensors
+sensors
+cd goagent/local
+ls
+python2 proxy.py
+ls
+cd éƒ¼ƒ­æ¯ƒ´çƒ©¹äººï¼ƒºæƒ¤ƒ¯å¤ƒ¶ä¹ƒ«æƒ·ƒ¥.720p.BDä¸­èƒ«±åƒ¯ƒ¬å­ƒ·å¹ƒµ
+l
+mplayer \[æƒ·ƒ€æçƒ´µå½±-www.wujidy.com\].éƒ¼ƒ­æ¯ƒ´çƒ©¹äººï¼ƒºæƒ¤ƒ¯å¤ƒ¶ä¹ƒ«æƒ·ƒ¥.720p.BDä¸­èƒ«±åƒ¯ƒ¬å­ƒ·å¹ƒµ.rmvb
+l
+cl
+sls
+cls
+ls
+rm bgIdXP1McA.torrent
+ls
+s reboot
+startx
+s pacman -Syu
+vim /etc/pacman.conf
+cls
+ls
+ls
+s pacman -Syu
+cls
+dbfm
+cls
+reset
+./dbfm
+./dbfm
+reset
+cls
+sensors
+htop
+s pacman -Syu
+s pacman -Su
+s pacman -Su
+s pacman -Su
+s pacman -Su
+s pacman -Su
+s pacman -Su
+s pacman -Su
+s pacman -Su
+s pacman -Su
+ps axu | grep pacman
+s rm /var/lib/pacman/db.lck
+s pacman -Su
+s pacman -Su
+cls
+ls
+s pacman -Su
+s reboot
+lsmod | grep acpi_call
+cd acpi_call-git/
+makepkg
+cls
+ls
+s pacman -U acpi_call-git-20130310-1-x86_64.pkg.tar.xz
+rm *.xz
+s reboot
+cls
+startx
+ls
+cd slimebattery
+ls
+./slimebattery
+cls
+ls
+vim slimebattery
+cls
+vim slimebattery.c
+cls
+ls
+cd /usr/share/icons/OSX/scalable/apps
+ls
+feh time
+feh time.png
+cls
+ls
+feh ubuntu-tweak.png
+feh xine.png
+feh usb-creator-gtk.png
+cd 22
+ls
+feh *
+cd slimebattery
+./slimebattery
+cls
+s
+cls
+vim slimebattery.c
+./slimebattery
+vim slimebattery.c
+feh *
+htop
+cd goagent/local
+ls
+python2 proxy.py
+cd éƒ¼ƒ­æ¯ƒ´çƒ©¹äººï¼ƒºæƒ¤ƒ¯å¤ƒ¶ä¹ƒ«æƒ·ƒ¥.720p.BDä¸­èƒ«±åƒ¯ƒ¬å­ƒ·å¹ƒµ
+ls
+rm *.html
+ls
+mv \[æƒ·ƒ€æçƒ´µå½±-www.wujidy.com\].éƒ¼ƒ­æ¯ƒ´çƒ©¹äººï¼ƒºæƒ¤ƒ¯å¤ƒ¶ä¹ƒ«æƒ·ƒ¥.720p.BDä¸­èƒ«±åƒ¯ƒ¬å­ƒ·å¹ƒµ.rmvb éƒ¼ƒ­æ¯ƒ´çƒ©¹äººï¼ƒºæƒ¤ƒ¯å¤ƒ¶ä¹ƒ«æƒ·ƒ¥.720p.BDä¸­èƒ«±åƒ¯ƒ¬å­ƒ·å¹ƒµ.rmvb
+ls
+mplayer éƒ¼ƒ­æ¯ƒ´çƒ©¹äººï¼ƒºæƒ¤ƒ¯å¤ƒ¶ä¹ƒ«æƒ·ƒ¥.720p.BDä¸­èƒ«±åƒ¯ƒ¬å­ƒ·å¹ƒµ.rmvb
+cls
+ls
+cd ..
+ls
+mv éƒ¼ƒ­æ¯ƒ´çƒ©¹äººï¼ƒºæƒ¤ƒ¯å¤ƒ¶ä¹ƒ«æƒ·ƒ¥.720p.BDä¸­èƒ«±åƒ¯ƒ¬å­ƒ·å¹ƒµ $Video
+sensors
+cls
+htop
+ls
+cd $vide
+cd $Video
+ls
+mplayer Rebelle.2012.æƒ¨ƒ¸åƒ¼°å·«å¸ƒ¨.ä¸­æ³ƒµåƒ¯ƒ¬è¯­å­ƒ·å¹ƒµ.HR-HDTV.AC3.1024X554.x264-äººäººå½±è§ƒ¦åƒ¨¶ä½ƒ¼.mkv
+mplayer Rebelle.2012.æƒ¨ƒ¸åƒ¼°å·«å¸ƒ¨.ä¸­æ³ƒµåƒ¯ƒ¬è¯­å­ƒ·å¹ƒµ.HR-HDTV.AC3.1024X554.x264-äººäººå½±è§ƒ¦åƒ¨¶ä½ƒ¼.mkv
+ htop
+sensors
+cd $Video
+ls
+mplayer Wreck.It.Ralph.2012.720p.BluRay.x264.DTS-WiKi.mkv
+ls
+mplayer Fragile.2005.Blu-ray.720p.x264.DTS.MySilu.mkv
+sensors
+ping www.baidu.com
+git clone https://github.com/cmus/cmus.git
+ping www.baidu.com
+ls
+cd cmus
+cl
+sls
+cls
+ls
+make
+./configure
+ls
+make
+ls
+pacman -Ss cdio
+vim cdio.c
+cl
+cls
+ls
+vim Makefile
+make
+vim Makefile
+vim cdio.c
+make
+vim cdio.c
+cls
+ls
+s pacman -Ss libcdio
+ls
+cd ..
+ls
+rm -rf cmus
+git clone https://github.com/matiasdelellis/pragha.git
+ls
+cd pr
+cd pragha
+ls
+./autogen.sh
+cd ..
+ls
+rm -rf pragha
+alsamixer
+cls
+ls
+trans drain
+trans cork
+trans avoid
+trans hogging
+trans hog
+alsamixer
+cls
+ls
+pacman -Ss notify
+pacman -Ss notify-send
+trans subscription
+ping www.douban.com
+ping www.douban.fm
+cls
+ls
+s rc.d restart network
+cls
+ls
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+ping www.douban.fm
+lsmod | grep acpi_call
+ping
+ping www.baidu.com
+s rc.d start network
+ps axu | grep dhcp
+ps axu | grep wpa_
+ifconfig
+s reboot
+startx
+startx
+dbfm
+reset
+mplayer
+cls
+alsactl init
+aslami
+alsamixer
+ls /usr/include/pulse
+cd mpd
+ls
+cd src/output
+ls
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+âƒ¦µ
+cd $Downloads
+ls
+mplayer lameizi@çƒ¨±åŸƒ®@åƒªƒ€åƒ«ƒ²æ¯ƒ´\ 012313-245æƒ¶ƒ¹çƒ°ƒ¦ä»£çƒ°ƒ¦æƒ¼ƒ­åƒ«ƒ¹\ ä¸ƒ£èƒ©²ãƒµã‚ƒ¤ãƒ«Sayaka/012313-245-carib-whole.wmv
+sensors
+cd mpd/src/output
+ls
+gcc -lpulse test_audio.c -o test
+trans subscribe
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+ls
+./test
+rm test
+cls
+ls
+man 3 pthread_create
+cd $Book
+ls
+mupdf Linuxå¤ƒºçº¿ç¨ƒ«ç¼ƒ¶ç¨ƒ«çƒºƒ¤åŸºæƒ¼¬çƒºƒ¤åƒ§½æƒµ°.pdf
+git clone https://github.com/christophgysin/pasystray.git
+cd pasystray
+ls
+vim README.md
+cls
+ls
+make
+chmod u+x configure.ac
+./configure.ac
+vim configure.ac
+cls
+ls
+automake
+automake configure.ac
+vim configure.ac
+cls
+ls
+vim Makefile.am
+make 
+cls
+ls
+vim AUTHORS
+cls
+ls
+cd src
+cd ..
+ls
+./bootstrap.sh
+ls
+cd src
+ls
+make
+cd ..
+ls
+make clean
+make
+autoconf
+ls
+./bootstrap.sh
+vim bootstrap.sh
+./bootstrap.sh
+ls
+make
+automake
+ls
+make
+./configure
+ls
+make
+vim Makefile
+cls
+ls
+./compile
+./compile --help
+./compile test
+ls
+vim compile
+cls
+ls
+./compile
+./compile test
+cd src
+ls
+cd ..
+ls
+./missing
+./missing --help
+ls
+./install-sh
+./install-sh test
+ls
+ls data
+cd data
+ls
+feh pasystray.
+feh pasystray.png
+cd ..
+ls
+ls
+rm -rf pasystray
+git clone https://github.com/ipha/pulse-volumeicon.git
+cd pulse-volumeicon
+ls
+make
+ls
+./pulse-volumeicon
+./pulse-volumeicon
+ls
+vim trayicon.c
+cls
+ls
+vim pulse-volumeicon.c
+cls
+ls
+dbfm
+reset
+ls
+cddbf
+cd dbfm
+ls
+./dbfm
+ls
+reset
+make
+dbfm
+make
+./dbfm
+reset
+make
+./dbfm
+cd goagent/local
+ls
+python2 proxy.py
+python2 proxy.py 
+cd goagent/local
+python2 proxy.py  &
+cd goagent/local
+python2 proxy.py &
+cd goagent/local
+nohup python2 proxy.py &
+ls
+ps axu | grep nohu
+ps axu | grep proxy
+kill 7880
+cd goagent/local
+ls
+python2 proxy.py &
+cls
+cd ~
+ls
+cls
+startx
+cd mpd/src/output/
+ls
+cp test_audio.c ~
+ls
+cd ~
+ls
+cp test_audio.c dbfm/src
+ls
+ls
+cd $iwork
+ls
+git clone https://github.com/tnrazy/GTRS.git
+ls
+cp dbfm/src/test_audio.c GTRS/
+ls
+cd GTRS
+ls
+make
+vim Makefile
+make
+make
+make
+make
+make
+make
+make
+cd /usr/include/pulse
+ls
+cat *.h | ack pa_stream_creating
+cat *.h | ack pa_stream_
+cat *.h | ack pa_stream_ready
+ls
+cd ~
+ls
+cd mpd/src/output
+ls
+gcc test_audio.c -o test
+gcc -lpulse test_audio.c -o test
+gcc -Werror -lpulse test_audio.c -o test
+gcc -Wall -lpulse test_audio.c -o test
+cd GTRS
+ls
+vim Makefile
+make
+make
+vim Makefile
+make
+ls
+cp trans ..
+ls
+cd ..
+ls
+cp $Music/07.31/Heartbeats.mp3 .
+cls
+ls
+trans Heartbeats.mp3
+./trans Heartbeats.mp3
+ls
+ls
+mv Heartbeats.mp3 GTRS
+ls
+ls
+rm trans
+cd GTRS
+ls
+make
+./trans Heartbeats.mp3
+cls
+reset
+make
+./trans Heartbeats.mp3
+cls
+cls
+ls
+reset
+make
+make
+make
+./trans Heartbeats.mp3
+hopt
+htop
+cls
+ls
+cd $Video
+ls
+cd $Downloads
+ls
+mplayer lameizi@çƒ¨±åŸƒ®@åƒªƒ€åƒ«ƒ²æ¯ƒ´\ 012313-245æƒ¶ƒ¹çƒ°ƒ¦ä»£çƒ°ƒ¦æƒ¼ƒ­åƒ«ƒ¹\ ä¸ƒ£èƒ©²ãƒµã‚ƒ¤ãƒ«Sayaka
+mplayer lameizi@çƒ¨±åŸƒ®@åƒªƒ€åƒ«ƒ²æ¯ƒ´\ 012313-245æƒ¶ƒ¹çƒ°ƒ¦ä»£çƒ°ƒ¦æƒ¼ƒ­åƒ«ƒ¹\ ä¸ƒ£èƒ©²ãƒµã‚ƒ¤ãƒ«Sayaka/012313-245-carib-whole.wmv
+alsactl init
+alsamixer
+s reboot
+sensors
+lsmod | grep acpi_call
+cls
+ls
+cls
+startx
+cls
+cd goagent/local
+ls
+python2 proxy.py &
+cls
+cls
+startx
+dbfm
+cls
+reset
+cls
+cd ~
+ls
+vim /tmp/dbfm.log
+cls
+ls
+cd dbfm
+ls
+./dbfm
+vim /tmp/dbfm.log
+cls
+ls
+vim /tmp/dbfm.log
+wget http://mr5.douban.com/201303131922/0a185c05103712d8ed5128641e80b027/view/song/small/p1882381.mp3
+cls
+ls
+aplay p1882381.mp3
+cls
+mpg123 p1882381.mp3
+cd ls
+cd $Video
+ls
+mplayer Gambit.2012.720p.BluRay.X264-AMIABLE.mkv
+ls
+mk Gambit.2012.720p.BluRay.X264-AMIABLE
+mv Gambit.2012.720p.BluRay.X264-AMIABLE.mkv Gambit.2012.720p.BluRay.X264-AMIABLE.mkv
+mv Gambit.2012.720p.BluRay.X264-AMIABLE.mkv Gambit.2012.720p.BluRay.X264-AMIABLE
+ls
+mk Argo.2012.720p.BluRay.x264-SPARKS
+mv Argo.2012.720p.BluRay.x264-SPARKS.mkv Argo.2012.720p.BluRay.x264-SPARKS
+ls
+mk Fragile.2005.Blu-ray.720p.x264.DTS.MySilu
+mv Fragile.2005.Blu-ray.720p.x264.DTS.MySilu.mkv Fragile.2005.Blu-ray.720p.x264.DTS.MySilu
+ls
+mk Life.of.Pi.2012.BluRay.720p.DTS.x264-CHD
+mv Life.of.Pi.2012.BluRay.720p.DTS.x264-CHD.mkv Life.of.Pi.2012.BluRay.720p.DTS.x264-CHD
+ls
+mk Kill.Bin.Laden.Zero.Dark.Thirty.2012.720p.BluRay.x264-Felony
+mv Kill.Bin.Laden.Zero.Dark.Thirty.2012.720p.BluRay.x264-Felony.mkv Kill.Bin.Laden.Zero.Dark.Thirty.2012.720p.BluRay.x264-Felony
+ls
+mplayer lincoln.2012.720p.bluray.x264-sparks.mkv
+ls
+mk Lincoln.2012.720p.bluray.x264-sparks
+mv lincoln.2012.720p.bluray.x264-sparks.mkv Lincoln.2012.720p.bluray.x264-sparks
+ls
+mplayer Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS.mkv
+ls
+mk Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS
+mv Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS.mkv Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS
+ls
+mplayer Wreck.It.Ralph.2012.720p.BluRay.x264.DTS-WiKi.mkv
+cls
+ls
+mplayer Rebelle.2012.æƒ¨ƒ¸åƒ¼°å·«å¸ƒ¨.ä¸­æ³ƒµåƒ¯ƒ¬è¯­å­ƒ·å¹ƒµ.HR-HDTV.AC3.1024X554.x264-äººäººå½±è§ƒ¦åƒ¨¶ä½ƒ¼.mkv
+rm Rebelle.2012.æƒ¨ƒ¸åƒ¼°å·«å¸ƒ¨.ä¸­æ³ƒµåƒ¯ƒ¬è¯­å­ƒ·å¹ƒµ.HR-HDTV.AC3.1024X554.x264-äººäººå½±è§ƒ¦åƒ¨¶ä½ƒ¼.mkv
+ls
+ls
+git clone git://github.com/audacious-media-player/audacious.git
+git clone https://github.com/ghuntley/pianobarfly.git
+cd pianobarfly
+ls
+make
+ls
+./pianobarfly
+./pianobarfly
+ls
+cd audacious
+l
+make
+./autogen.sh
+make
+cd ..
+rm -rf audacious
+cd .config/
+ls
+mk pianobarfly
+ls
+cd pianobarfly
+ls
+vim config
+cls
+ls
+cd ~/pianobarfly
+ls
+./pianobarfly
+telnet localhost 8070
+vim ~/.config/pianobarfly/config
+cd -
+ls
+cd ~
+ls
+cd pianobarfly
+./pianobarfly
+./pianobarfly
+ls
+ls
+cd ~
+ls
+cd -
+ls
+trans bar
+ls
+find -name "*.c" -o -name "*.h"
+find -name "*.c" -o -name "*.h" | cat | wc -l
+find -name "*.c" -o -name "*.h" | cat {} \ 
+find -name "*.c" -o -name "*.h" | cat {} \ ;
+find -name "*.c" -o -name "*.h" | cat {};
+find -name "*.c" -o -name "*.h" | cat {} \;
+find -name "*.c" -o -name "*.h" -exec cat {} \ 
+find -name "*.c" -o -name "*.h" -exec cat {} \ 
+find -name "*.c" -o -name "*.h" -exec cat {} \ 
+find -name "*.c" -o -name "*.h" -exec cat {} \ ;
+find -name "*.c" -o -name "*.h" -exec cat {} \;
+find -name "*.c" -o -name "*.h" -exec cat {} \; | wc -l
+find -name "*.c" -o -name "*.h" -exec cat {} \; 
+find -name "*.c" -o -name "*.h" -exec cat {} \; 
+find -name "*.c" -o -name "*.h" -exec cat {} \;  | wc 
+find -name "*.c" -o -name "*.h" -exec cat {} \; 
+find -name "*.c" -exec cat {} \; 
+find -name "*.c" -exec cat {} \;  | wc
+find -name "*.c" -exec cat {} \;  | wc -l
+trans waitress
+cd pianobarfly
+la
+ls
+make clean
+vim .config/pianobarfly/config
+cd pianobarfly
+ls
+make
+./pianobarfly
+vim .config/pianobarfly/config
+vim .config/pianobarfly/config
+./pianobarfly
+trans credentials
+vim .config/pianobarfly/config
+ls
+cd pianobarfly
+ls
+./pianobarfly
+make
+./pianobarfly
+sensors
+trans gain
+weechat-curses
+pacman -Ss oracle
+pacman -Ss jre
+trans extract
+ls
+rm -rf mpd
+ls
+rm -rf GTRS
+rm test_audio.c
+cls
+ls
+ls
+ls
+vim test.c
+gcc -lao test.c -o test
+gcc -lao -lm test.c -o test
+./test
+dbfm
+ls
+cd dbfm
+ls
+make
+ls
+cd ..
+ls
+rm -rf dbfm
+git clone https://github.com/tnrazy/dbfm.git
+cd dbfm
+ls
+make
+./dbfm
+cls
+sl
+cls
+ls
+cd dbfm
+make
+./dbfm
+cls
+ls
+./dbfm
+reset
+ls
+cd ..
+ls
+cd dbfm
+ls
+./dbfm
+ls
+make
+./dbfm
+make
+./dbfm
+make
+./dbfm
+reset
+pwd
+vim test.c
+cls
+reset
+ls
+make
+./dbfm
+trans permitted
+./test
+reset
+make
+./dbfm
+reset
+make
+./dbfm
+rest
+reset
+s ./dbfm
+./dbfm
+gcc -lmad -lm test.c -o test
+gcc -lao -lm test.c -o test
+./test
+reset
+make
+./dbfm
+reset
+vim .config/dbfm/dbfm.conf
+ls
+./dbfm
+reset
+dbfm
+cls
+ls
+ls
+rm test.o
+rm test.c
+ls
+cd dbfm
+ls
+./dbfm
+reset
+dbfm
+ls
+rm -rf dbfm
+git clone https://github.com/tnrazy/dbfm.git
+ls
+cd dbfm
+ls
+make
+./dbfm
+
+reset
+ps axu | grep dbfm
+kill 25676
+make
+./dbfm
+ncmpcpp
+mpdcoverart
+ls
+cls
+ls
+aslami
+alsamixer
+ls
+rm p
+rm p1882381.mp3
+git clone https://github.com/tnrazy/dotfile.git
+ncmpcpp
+cd $Music/10-09
+ls
+rm folder.jpg
+scrot -q 100 -d 10
+ls
+feh 2013-03-14-004956_1366x768_scrot.png
+rm 2013-03-14-004956_1366x768_scrot.png
+scrot -q 100 -d 10
+feh 2013-03-14-005035_1366x768_scrot.png
+dbfm
+alsactl init
+cls
+reset
+ls
+dbfm
+reset
+ls
+ls
+cd dbfm
+ls
+./dbfm
+reset
+ls
+cd ..
+ls
+./test
+vim test.c
+ls
+./test
+cls
+startx
+ls
+ls
+dbfm
+./test
+cls
+reset
+alsamixer
+alsamixer
+ps axu | grep pulse
+pulseaudio --x
+pulseaudio --help
+ps axu | grep pulse
+kill 25996
+cls
+ls
+alsamixer
+dbfm
+reset
+cls
+./test
+cls
+ls
+ps axu | grep dbfm
+kill 27795
+cls
+ls
+cd dbfm
+ls
+./dbfm
+ncmpcpp
+mpdcoverart
+colors
+color.1
+cd .config
+ls
+cd zsh
+ls
+vim 03-aliases.zsh
+cls
+color
+feh 2013-03-14-005035_1366x768_scrot.png
+cd $Picture
+ls
+feh *
+scrot -q 100 -d 10
+feh 2013-03-14-005035_1366x768_scrot.png
+feh 2013-03-14-*
+ls
+cd .config/script
+ls
+./screenfetch-dev
+color
+uname -a
+vim .xinitrc
+alsamixer
+vim myweather
+cd myweather
+ls
+make
+ps axu | grep weahther
+ps axu | grep weather
+kill 27505
+./myweather
+cd /usr/share/mpdcoverart
+ls
+cd Magnifique\ Bright
+ls
+vim skin.xml
+mpdcoverart
+cls && echo Take shot..
+cls && echo Take shot.. && scrot -q 100 -d 10
+ls
+feh 2013-03-14-0*
+scrot --help
+cls && echo Take shot.. && scrot -q 100 -cd 10
+feh 2013-03-14-0*
+cls && echo Take shot.. :)
+cls && echo "Take shot.. :)"
+mv 2013-03-14-0* dotfile
+ls
+cd dotfile
+ls
+feh 2013-03-14-0*
+feh 2013-03-14-0*
+cls
+ls
+cd do
+ls
+rm .config
+ls
+ls -al
+vim LIST
+cls
+ls
+cp ~/.config .

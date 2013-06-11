@@ -43,6 +43,7 @@ export __GL_LOG_MAX_ANISO=2
 cd $HOME
 
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-# Prompt ~ >
+# Prompt (+_@) >>>
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-PROMPT=" %{$terminfo[bold]$fg[red]%}~%{$reset_color%} %{$terminfo[bold]$fg[green]%}>>%{$reset_color%}";
+#PROMPT=" (+_+) %{$terminfo[bold]$fg[red]%}~%{$reset_color%} %{$terminfo[bold]$fg[green]%}>>%{$reset_color%}";
+PROMPT=" (%{$terminfo[bold]$fg[red]%}#%{$reset_color%}_%{$terminfo[bold]$fg[red]%}#%{$reset_color%}) %{$terminfo[bold]$fg[green]%}>>%{$reset_color%}";

@@ -21,7 +21,7 @@ Xcursor.theme:            Neutral
 !
 Xft.lcdfilter:            lcddefault
 Xft.hintstyle:            hintfull
-Xft.autohint:             0
+Xft.autohint:             1
 Xft.rh_prefer_bitmaps:    1
 Xft.hinting:              1
 Xft.antialias:            1
@@ -38,8 +38,6 @@ Xft.rgba:                 rgb
 ! URxvt*boldFont:           xft:Neep:pixelsize=9
 ! URxvt*letterSpace:        1
 
-!URxvt*font:               xft:Envy Code R VS:pixelsize=10
-URxvt*font: 		  xft:cure:pixelsize=9
 URxvt*buffered:           true
 URxvt*padding:		  1
 
@@ -48,10 +46,46 @@ URxvt*cursorUnderline:    false
 
 URxvt*geometry:           80x15
 URxvt*internalBorder:     3
-
-! URxvt*reverseVideo:        true
-
 URxvt*depth:              24
+
+!==============================================================
+!
+! X t e r m
+xterm*faceName:             xft:consolas:pixelsize=10
+xterm.termName: 	    xterm-256color
+xterm*scrollBar: 	    false
+xterm*rightScrollBar: 	    true
+xterm*loginshell:  	    true
+xterm*cursorBlink: 	    true
+xterm.borderLess: 	    true
+xterm.cursorBlink: 	    true
+xterm*colorUL: 		    yellow
+xterm*colorBD: 	 	    white
+xterm*eightBitInput: 	    false
+xterm*altSendsEscape:       true
+xterm*printAttributes: 	    2
+
+!font and locale
+xterm*locale: 		    true
+xterm.utf8:     	    true
+xterm*utf8Title: 	    true
+xterm*fontMenu*fontdefault*Label: Default
+xter*boldFont: 		    DejaVu Sans Mono:style=Bold:pixelsize=9
+xterm*faceNameDoublesize:   consolas bitmap:pixelsize=9:antialias=True
+xterm*xftAntialias:         true
+xterm*cjkWidth:             false
+
+xterm*Background:           gray2
+xterm*Foreground:           snow
+xterm*cursorColor:          LightBlue
+xterm*pointerShape:         arrow
+xterm*pointerColor:         blue
+xterm*VT100.geometry:       80x15
+
+XTerm*VT100.Translations:   #override \n\
+Ctrl <KeyPress> V: insert-selection(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
+<BtnUp>: select-end(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
+Ctrl <KeyPress> P: print() \n
 
 ! URxvt*iconFile:            /home/crshd/.icons/kare/32x32/apps/terminal.png
 

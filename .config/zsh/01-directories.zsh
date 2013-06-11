@@ -7,17 +7,12 @@
 # Video=/media/320GB/Videos ;  : ~Video
 # Dropbox=/media/data/Dropbox ;  : ~Dropbox
 
-Downloads=/media/Download ;
-Music=/media/Music ;
-Video=/media/Video ;
-Wallpaper=/media/Wallpaper ;
-Picture=/media/Picture ;
-Other=/media/Other ;
-Book=/media/Book ;
-www=/mnt/e/www ;
+Downloads=/mnt/d/Download ;
+Music=/mnt/d/Music ;
+Video=/mnt/d/Videos ;
+Wallpaper=/mnt/d/Wallpaper ;
+Book=/mnt/d/Book ;
+Workspace=/mnt/e/Workspace ;
 
-DISK_D=/mnt/d ;
-DISK_E=/mnt/e ;
-DISK_F=/mnt/f ;
-
-iwork=$DISK_E/iWork ;
+D=/mnt/d ;
+E=/mnt/e ;

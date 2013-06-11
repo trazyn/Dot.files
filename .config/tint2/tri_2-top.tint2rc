@@ -30,7 +30,7 @@ border_color = #52504C 100
 # Panel
 panel_monitor = all
 panel_position = top center horizontal
-panel_size = 100% 20
+panel_size = 100% 24
 panel_margin = 0 0
 panel_padding = 8 0 8
 panel_dock = 0
@@ -70,7 +70,7 @@ task_urgent_icon_asb = 100 0 0
 task_iconified_icon_asb = 100 0 0
 
 # Fonts
-task_font = DejaVu Sans Bold Semi-Condensed 7
+task_font = nu.se bold 8
 task_font_color = #FFFFFF 100
 task_active_font_color = #FFFFFF 100
 task_urgent_font_color = #FFFFFF 100
@@ -82,24 +82,24 @@ systray = 1
 systray_padding = 0 0 0
 systray_sort = ascending
 systray_background_id = 0
-systray_icon_size = 16
+systray_icon_size = 24
 systray_icon_asb = 100 0 0
 
 # Clock
-time1_format = %d.%m // %H:%M
-time1_font = DejaVu Sans Bold Semi-Condensed 7
-clock_font_color = #FFFFFF 100
+time1_format = %d %B // %H:%M
+time1_font = Pragmata Bold 7
+clock_font_color = #00FF60 100
 clock_padding = 1 0
-clock_background_id = 0
+clock_background_id = 1
 
 # Tooltips
 tooltip = 1
-tooltip_padding = 2 2
+tooltip_padding = 12 13
 tooltip_show_timeout = 0.7
 tooltip_hide_timeout = 0.3
-tooltip_background_id = 4
-tooltip_font = DejaVu Sans Semi-Condensed 8
-tooltip_font_color = #282828 100
+tooltip_background_id = 1
+tooltip_font = Pragmata bold 6
+tooltip_font_color = #FF0080 100
 
 # Mouse
 mouse_middle = none

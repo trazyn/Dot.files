@@ -1,1017 +1,934 @@
+
 ls
-cd $Music
+vim /etc/xdg/luakit/rc.lua
 ls
-cd Ê¢ÅÈÉΩÉπËÉ¨π.-.\[‰∫≤‰∫≤\(ÂÉØ∞ÊπæÊ≠£ÂºÉØÁÉ©É®\)\].‰∏É≥ËæÉ±.\(mp3\)
-ls
-feh 01ÂÉªÉªÂ≠£\ \(‰∫É¥ÊÉºÉ®Â§©ÊÄ™ÂÉ•Ω‰ΩÉºÊÉª≤ÂÉ®∂‰ΩÉº\).mp3.mp3
-feh Ê¢ÅÈÉΩÉπËÉ¨π.jpg
-feh Ê¢ÅÈÉΩÉπËÉ¨π*
-amixer
-vim /etc/pulse/default.pa
-cls
-ls
-vim /etc/libao.conf
-cls
-ls
-vim /etc/asound.conf
-cls
-ls
-cls
-startx
-alsamixer
-cls
-sl
-cls
-mpdcoverart
-cd mpdcoverart
-ls
-s cp mpdcoverart /usr/bin
-cls
 cd ~
+ls
+vim .config/openbox/rc.xml
+s pacman -S chromium
 cls
-ls
-mpdcoverart
-ncmpcpp
-cls
-dbfm
-cls
-ls
-rm (null)
-rm \(null\)
-cls
-ls
-pwd
-ls
-cd .config
-ls
-ls mdpcoverart
-rm mdpcoverart
-cd dbfm
-ls
-vim dbfm.conf
-cls
-ls
-vim session
-cls
-ls
-mv session session.bak
-cd dbfm
-ls
-cls
-ls
-./dbfm
-cls
-ls
-vim session
-cls
-ls
-rm session.bak
-cls
-ls
-reset
-s cp dbfm /usr/bin
 ls
 dbfm
-reset
-cls
-startx
 ncmpcpp
-ps axu | grep mpd
-kill 2611
-cls
-sensors
-cls
+cd $Music/Q
+cd $Music/QMusic
+ls
+pacman -Ss mid3
+pacman -Ss mid3icon
+pacman -Ss mid3ic
+pacman -Ss mid3iconv
+s pacman -Ss mutagen
+s pacman -S mutagen
+ls
+mid3iconv 
+mid3iconv -e "utf-8"
+mid3iconv -e "utf-8" *.mp3
 ls
 ncmpcpp
 mpdcoverart
-ncmpcpp
-dbfm
-trans test
-alsamixer
-cls
+ps axu | grep mpdcover
+kill 2228
+mpdcoverart -d
+mpdcoverart
+cat /etc/adjtime
+timedatectl
+timedatectl set-time "2013-06-10 00:53"
+s timedatectl set-time "2013-06-10 00:53"
+thunar /usr/share/icons/FaienceMac2/places/
+s pacman -Ss thunar
+s pacman -S thunar-media-tags-plugin
+s pacman -Rnvs thunar-media-tags-plugin
 ls
-dbfm
-cls
-reset
-cls
-reset
+tar -xzvf thunar-djvu-thumbnailer.tar.gz
+cd thunar-djvu-thumbnailer
 ls
-cd goagent/local
-ls
-python2 proxy.py
-aria2c
-aria2c ed2k://|file|Skyfall.2012.720p.BluRay.x264-DAA[qvocd.org].mkv|7033912369|B872E18426B81753A7535BED24C94A1B|h=XKBOHDJ6WPXBQHIS55NEUWBAGB27JPE4|/
-aria2c
-aria2c "ed2k://|file|Skyfall.2012.720p.BluRay.x264-DAA[qvocd.org].mkv|7033912369|B872E18426B81753A7535BED24C94A1B|h=XKBOHDJ6WPXBQHIS55NEUWBAGB27JPE4|/"
-cls
-ls
-aria2c bgIdXP1McA.torrent
-sensors
-sensors
-cd goagent/local
-ls
-python2 proxy.py
-ls
-cd ÈÉºÉ≠ÊØÉ¥ÁÉ©π‰∫∫ÔºÉ∫ÊÉ§ÉØÂ§É∂‰πÉ´ÊÉ∑É•.720p.BD‰∏≠ËÉ´±ÂÉØÉ¨Â≠É∑ÂπÉµ
-l
-mplayer \[ÊÉ∑ÉÄÊûÅÁÉ¥µÂΩ±-www.wujidy.com\].ÈÉºÉ≠ÊØÉ¥ÁÉ©π‰∫∫ÔºÉ∫ÊÉ§ÉØÂ§É∂‰πÉ´ÊÉ∑É•.720p.BD‰∏≠ËÉ´±ÂÉØÉ¨Â≠É∑ÂπÉµ.rmvb
-l
-cl
-sls
-cls
-ls
-rm bgIdXP1McA.torrent
-ls
-s reboot
-startx
-s pacman -Syu
-vim /etc/pacman.conf
-cls
-ls
-ls
-s pacman -Syu
-cls
-dbfm
-cls
-reset
-./dbfm
-./dbfm
-reset
-cls
-sensors
-htop
-s pacman -Syu
-s pacman -Su
-s pacman -Su
-s pacman -Su
-s pacman -Su
-s pacman -Su
-s pacman -Su
-s pacman -Su
-s pacman -Su
-s pacman -Su
-ps axu | grep pacman
-s rm /var/lib/pacman/db.lck
-s pacman -Su
-s pacman -Su
-cls
-ls
-s pacman -Su
-s reboot
-lsmod | grep acpi_call
-cd acpi_call-git/
 makepkg
-cls
-ls
-s pacman -U acpi_call-git-20130310-1-x86_64.pkg.tar.xz
-rm *.xz
-s reboot
-cls
+s pacman -Ss evince
+sudo pacman -S evince
+s pacman -Ss tumbler
+s pacman -S tumbler
+s pacman -S ffmpegthumbnailer
+s pacman -S poppler-glib
+s pacman -Rnvs poppler-glib
+s pacman -S poppler-glib
+s pacman -S mupdf
 startx
+mpdcoverart
 ls
-cd slimebattery
-ls
-./slimebattery
-cls
-ls
-vim slimebattery
-cls
-vim slimebattery.c
-cls
-ls
-cd /usr/share/icons/OSX/scalable/apps
-ls
-feh time
-feh time.png
-cls
-ls
-feh ubuntu-tweak.png
-feh xine.png
-feh usb-creator-gtk.png
-cd 22
-ls
-feh *
-cd slimebattery
-./slimebattery
-cls
-s
-cls
-vim slimebattery.c
-./slimebattery
-vim slimebattery.c
-feh *
-htop
-cd goagent/local
-ls
-python2 proxy.py
-cd ÈÉºÉ≠ÊØÉ¥ÁÉ©π‰∫∫ÔºÉ∫ÊÉ§ÉØÂ§É∂‰πÉ´ÊÉ∑É•.720p.BD‰∏≠ËÉ´±ÂÉØÉ¨Â≠É∑ÂπÉµ
-ls
-rm *.html
-ls
-mv \[ÊÉ∑ÉÄÊûÅÁÉ¥µÂΩ±-www.wujidy.com\].ÈÉºÉ≠ÊØÉ¥ÁÉ©π‰∫∫ÔºÉ∫ÊÉ§ÉØÂ§É∂‰πÉ´ÊÉ∑É•.720p.BD‰∏≠ËÉ´±ÂÉØÉ¨Â≠É∑ÂπÉµ.rmvb ÈÉºÉ≠ÊØÉ¥ÁÉ©π‰∫∫ÔºÉ∫ÊÉ§ÉØÂ§É∂‰πÉ´ÊÉ∑É•.720p.BD‰∏≠ËÉ´±ÂÉØÉ¨Â≠É∑ÂπÉµ.rmvb
-ls
-mplayer ÈÉºÉ≠ÊØÉ¥ÁÉ©π‰∫∫ÔºÉ∫ÊÉ§ÉØÂ§É∂‰πÉ´ÊÉ∑É•.720p.BD‰∏≠ËÉ´±ÂÉØÉ¨Â≠É∑ÂπÉµ.rmvb
-cls
-ls
-cd ..
-ls
-mv ÈÉºÉ≠ÊØÉ¥ÁÉ©π‰∫∫ÔºÉ∫ÊÉ§ÉØÂ§É∂‰πÉ´ÊÉ∑É•.720p.BD‰∏≠ËÉ´±ÂÉØÉ¨Â≠É∑ÂπÉµ $Video
-sensors
-cls
-htop
-ls
-cd $vide
-cd $Video
-ls
-mplayer Rebelle.2012.ÊÉ®É∏ÂÉº∞Â∑´Â∏É®.‰∏≠Ê≥ÉµÂÉØÉ¨ËØ≠Â≠É∑ÂπÉµ.HR-HDTV.AC3.1024X554.x264-‰∫∫‰∫∫ÂΩ±ËßÉ¶ÂÉ®∂‰ΩÉº.mkv
-mplayer Rebelle.2012.ÊÉ®É∏ÂÉº∞Â∑´Â∏É®.‰∏≠Ê≥ÉµÂÉØÉ¨ËØ≠Â≠É∑ÂπÉµ.HR-HDTV.AC3.1024X554.x264-‰∫∫‰∫∫ÂΩ±ËßÉ¶ÂÉ®∂‰ΩÉº.mkv
- htop
-sensors
-cd $Video
-ls
-mplayer Wreck.It.Ralph.2012.720p.BluRay.x264.DTS-WiKi.mkv
-ls
-mplayer Fragile.2005.Blu-ray.720p.x264.DTS.MySilu.mkv
-sensors
-ping www.baidu.com
-git clone https://github.com/cmus/cmus.git
-ping www.baidu.com
-ls
-cd cmus
-cl
-sls
-cls
-ls
-make
-./configure
-ls
-make
-ls
-pacman -Ss cdio
-vim cdio.c
-cl
-cls
-ls
-vim Makefile
-make
-vim Makefile
-vim cdio.c
-make
-vim cdio.c
-cls
-ls
-s pacman -Ss libcdio
-ls
-cd ..
-ls
-rm -rf cmus
-git clone https://github.com/matiasdelellis/pragha.git
-ls
-cd pr
-cd pragha
-ls
-./autogen.sh
-cd ..
-ls
-rm -rf pragha
-alsamixer
-cls
-ls
-trans drain
-trans cork
-trans avoid
-trans hogging
-trans hog
-alsamixer
-cls
-ls
-pacman -Ss notify
-pacman -Ss notify-send
-trans subscription
-ping www.douban.com
-ping www.douban.fm
-cls
-ls
-s rc.d restart network
-cls
-ls
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-ping www.douban.fm
-lsmod | grep acpi_call
-ping
-ping www.baidu.com
-s rc.d start network
-ps axu | grep dhcp
-ps axu | grep wpa_
-ifconfig
-s reboot
+rm -rf thunar-djvu-thumbnailer*
 startx
-startx
-dbfm
-reset
-mplayer
-cls
-alsactl init
-aslami
-alsamixer
-ls /usr/include/pulse
-cd mpd
+mpdcoverart
+ts emblems
+ts emblems
+ts underlying
+ts preferred
+ts preferred
 ls
-cd src/output
 ls
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-‚É¶µ
-cd $Downloads
 ls
-mplayer lameizi@ÁÉ®±ÂüÉÆ@ÂÉ™ÉÄÂÉ´É≤ÊØÉ¥\ 012313-245ÊÉ∂ÉπÁÉ∞É¶‰ª£ÁÉ∞É¶ÊÉºÉ≠ÂÉ´Éπ\ ‰∏É£ËÉ©≤„ÅÉµ„ÇÉ§„ÅÉ´Sayaka/012313-245-carib-whole.wmv
-sensors
-cd mpd/src/output
 ls
-gcc -lpulse test_audio.c -o test
-trans subscribe
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -lpulse test_audio.c -o test
 ls
-./test
-rm test
-cls
-ls
-man 3 pthread_create
-cd $Book
-ls
-mupdf LinuxÂ§É∫Á∫øÁ®É´ÁºÉ∂Á®É´ÁÉ∫É§Âü∫ÊÉº¨ÁÉ∫É§ÂÉßΩÊÉµ∞.pdf
-git clone https://github.com/christophgysin/pasystray.git
-cd pasystray
-ls
-vim README.md
-cls
-ls
-make
-chmod u+x configure.ac
-./configure.ac
-vim configure.ac
-cls
-ls
-automake
-automake configure.ac
-vim configure.ac
-cls
-ls
-vim Makefile.am
-make 
-cls
-ls
-vim AUTHORS
-cls
-ls
-cd src
-cd ..
-ls
-./bootstrap.sh
-ls
-cd src
-ls
-make
-cd ..
-ls
-make clean
-make
-autoconf
-ls
-./bootstrap.sh
-vim bootstrap.sh
-./bootstrap.sh
-ls
-make
-automake
-ls
-make
-./configure
-ls
-make
-vim Makefile
-cls
-ls
-./compile
-./compile --help
-./compile test
-ls
-vim compile
-cls
-ls
-./compile
-./compile test
-cd src
-ls
-cd ..
-ls
-./missing
-./missing --help
-ls
-./install-sh
-./install-sh test
-ls
-ls data
-cd data
-ls
-feh pasystray.
-feh pasystray.png
-cd ..
-ls
-ls
-rm -rf pasystray
-git clone https://github.com/ipha/pulse-volumeicon.git
-cd pulse-volumeicon
-ls
-make
-ls
-./pulse-volumeicon
-./pulse-volumeicon
-ls
-vim trayicon.c
-cls
-ls
-vim pulse-volumeicon.c
-cls
-ls
-dbfm
-reset
-ls
-cddbf
-cd dbfm
-ls
-./dbfm
-ls
-reset
-make
-dbfm
-make
-./dbfm
-reset
-make
-./dbfm
-cd goagent/local
-ls
-python2 proxy.py
-python2 proxy.py 
-cd goagent/local
-python2 proxy.py  &
-cd goagent/local
-python2 proxy.py &
-cd goagent/local
-nohup python2 proxy.py &
-ls
-ps axu | grep nohu
-ps axu | grep proxy
-kill 7880
-cd goagent/local
-ls
-python2 proxy.py &
-cls
-cd ~
-ls
-cls
-startx
-cd mpd/src/output/
-ls
-cp test_audio.c ~
-ls
-cd ~
-ls
-cp test_audio.c dbfm/src
-ls
-ls
-cd $iwork
-ls
-git clone https://github.com/tnrazy/GTRS.git
-ls
-cp dbfm/src/test_audio.c GTRS/
-ls
-cd GTRS
-ls
-make
-vim Makefile
-make
-make
-make
-make
-make
-make
-make
-cd /usr/include/pulse
-ls
-cat *.h | ack pa_stream_creating
-cat *.h | ack pa_stream_
-cat *.h | ack pa_stream_ready
-ls
-cd ~
-ls
-cd mpd/src/output
-ls
-gcc test_audio.c -o test
-gcc -lpulse test_audio.c -o test
-gcc -Werror -lpulse test_audio.c -o test
-gcc -Wall -lpulse test_audio.c -o test
-cd GTRS
-ls
-vim Makefile
-make
-make
-vim Makefile
-make
-ls
-cp trans ..
-ls
-cd ..
-ls
-cp $Music/07.31/Heartbeats.mp3 .
-cls
-ls
-trans Heartbeats.mp3
-./trans Heartbeats.mp3
-ls
-ls
-mv Heartbeats.mp3 GTRS
-ls
-ls
-rm trans
-cd GTRS
-ls
-make
-./trans Heartbeats.mp3
-cls
-reset
-make
-./trans Heartbeats.mp3
-cls
-cls
-ls
-reset
-make
-make
-make
-./trans Heartbeats.mp3
-hopt
-htop
-cls
-ls
-cd $Video
-ls
-cd $Downloads
-ls
-mplayer lameizi@ÁÉ®±ÂüÉÆ@ÂÉ™ÉÄÂÉ´É≤ÊØÉ¥\ 012313-245ÊÉ∂ÉπÁÉ∞É¶‰ª£ÁÉ∞É¶ÊÉºÉ≠ÂÉ´Éπ\ ‰∏É£ËÉ©≤„ÅÉµ„ÇÉ§„ÅÉ´Sayaka
-mplayer lameizi@ÁÉ®±ÂüÉÆ@ÂÉ™ÉÄÂÉ´É≤ÊØÉ¥\ 012313-245ÊÉ∂ÉπÁÉ∞É¶‰ª£ÁÉ∞É¶ÊÉºÉ≠ÂÉ´Éπ\ ‰∏É£ËÉ©≤„ÅÉµ„ÇÉ§„ÅÉ´Sayaka/012313-245-carib-whole.wmv
-alsactl init
-alsamixer
-s reboot
-sensors
-lsmod | grep acpi_call
-cls
-ls
-cls
-startx
-cls
-cd goagent/local
-ls
-python2 proxy.py &
-cls
-cls
-startx
-dbfm
-cls
-reset
-cls
-cd ~
-ls
-vim /tmp/dbfm.log
-cls
-ls
-cd dbfm
-ls
-./dbfm
-vim /tmp/dbfm.log
-cls
-ls
-vim /tmp/dbfm.log
-wget http://mr5.douban.com/201303131922/0a185c05103712d8ed5128641e80b027/view/song/small/p1882381.mp3
-cls
-ls
-aplay p1882381.mp3
-cls
-mpg123 p1882381.mp3
-cd ls
-cd $Video
-ls
-mplayer Gambit.2012.720p.BluRay.X264-AMIABLE.mkv
-ls
-mk Gambit.2012.720p.BluRay.X264-AMIABLE
-mv Gambit.2012.720p.BluRay.X264-AMIABLE.mkv Gambit.2012.720p.BluRay.X264-AMIABLE.mkv
-mv Gambit.2012.720p.BluRay.X264-AMIABLE.mkv Gambit.2012.720p.BluRay.X264-AMIABLE
-ls
-mk Argo.2012.720p.BluRay.x264-SPARKS
-mv Argo.2012.720p.BluRay.x264-SPARKS.mkv Argo.2012.720p.BluRay.x264-SPARKS
-ls
-mk Fragile.2005.Blu-ray.720p.x264.DTS.MySilu
-mv Fragile.2005.Blu-ray.720p.x264.DTS.MySilu.mkv Fragile.2005.Blu-ray.720p.x264.DTS.MySilu
-ls
-mk Life.of.Pi.2012.BluRay.720p.DTS.x264-CHD
-mv Life.of.Pi.2012.BluRay.720p.DTS.x264-CHD.mkv Life.of.Pi.2012.BluRay.720p.DTS.x264-CHD
-ls
-mk Kill.Bin.Laden.Zero.Dark.Thirty.2012.720p.BluRay.x264-Felony
-mv Kill.Bin.Laden.Zero.Dark.Thirty.2012.720p.BluRay.x264-Felony.mkv Kill.Bin.Laden.Zero.Dark.Thirty.2012.720p.BluRay.x264-Felony
-ls
-mplayer lincoln.2012.720p.bluray.x264-sparks.mkv
-ls
-mk Lincoln.2012.720p.bluray.x264-sparks
-mv lincoln.2012.720p.bluray.x264-sparks.mkv Lincoln.2012.720p.bluray.x264-sparks
-ls
-mplayer Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS.mkv
-ls
-mk Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS
-mv Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS.mkv Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS
-ls
-mplayer Wreck.It.Ralph.2012.720p.BluRay.x264.DTS-WiKi.mkv
-cls
-ls
-mplayer Rebelle.2012.ÊÉ®É∏ÂÉº∞Â∑´Â∏É®.‰∏≠Ê≥ÉµÂÉØÉ¨ËØ≠Â≠É∑ÂπÉµ.HR-HDTV.AC3.1024X554.x264-‰∫∫‰∫∫ÂΩ±ËßÉ¶ÂÉ®∂‰ΩÉº.mkv
-rm Rebelle.2012.ÊÉ®É∏ÂÉº∞Â∑´Â∏É®.‰∏≠Ê≥ÉµÂÉØÉ¨ËØ≠Â≠É∑ÂπÉµ.HR-HDTV.AC3.1024X554.x264-‰∫∫‰∫∫ÂΩ±ËßÉ¶ÂÉ®∂‰ΩÉº.mkv
-ls
-ls
-git clone git://github.com/audacious-media-player/audacious.git
-git clone https://github.com/ghuntley/pianobarfly.git
-cd pianobarfly
-ls
-make
-ls
-./pianobarfly
-./pianobarfly
-ls
-cd audacious
-l
-make
-./autogen.sh
-make
-cd ..
-rm -rf audacious
-cd .config/
-ls
-mk pianobarfly
-ls
-cd pianobarfly
-ls
-vim config
-cls
-ls
-cd ~/pianobarfly
-ls
-./pianobarfly
-telnet localhost 8070
-vim ~/.config/pianobarfly/config
-cd -
-ls
-cd ~
-ls
-cd pianobarfly
-./pianobarfly
-./pianobarfly
-ls
-ls
-cd ~
-ls
-cd -
-ls
-trans bar
-ls
-find -name "*.c" -o -name "*.h"
-find -name "*.c" -o -name "*.h" | cat | wc -l
-find -name "*.c" -o -name "*.h" | cat {} \ 
-find -name "*.c" -o -name "*.h" | cat {} \ ;
-find -name "*.c" -o -name "*.h" | cat {};
-find -name "*.c" -o -name "*.h" | cat {} \;
-find -name "*.c" -o -name "*.h" -exec cat {} \ 
-find -name "*.c" -o -name "*.h" -exec cat {} \ 
-find -name "*.c" -o -name "*.h" -exec cat {} \ 
-find -name "*.c" -o -name "*.h" -exec cat {} \ ;
-find -name "*.c" -o -name "*.h" -exec cat {} \;
-find -name "*.c" -o -name "*.h" -exec cat {} \; | wc -l
-find -name "*.c" -o -name "*.h" -exec cat {} \; 
-find -name "*.c" -o -name "*.h" -exec cat {} \; 
-find -name "*.c" -o -name "*.h" -exec cat {} \;  | wc 
-find -name "*.c" -o -name "*.h" -exec cat {} \; 
-find -name "*.c" -exec cat {} \; 
-find -name "*.c" -exec cat {} \;  | wc
-find -name "*.c" -exec cat {} \;  | wc -l
-trans waitress
-cd pianobarfly
-la
-ls
-make clean
-vim .config/pianobarfly/config
-cd pianobarfly
-ls
-make
-./pianobarfly
-vim .config/pianobarfly/config
-vim .config/pianobarfly/config
-./pianobarfly
-trans credentials
-vim .config/pianobarfly/config
-ls
-cd pianobarfly
-ls
-./pianobarfly
-make
-./pianobarfly
-sensors
-trans gain
-weechat-curses
-pacman -Ss oracle
-pacman -Ss jre
-trans extract
-ls
-rm -rf mpd
-ls
-rm -rf GTRS
-rm test_audio.c
-cls
-ls
-ls
-ls
-vim test.c
-gcc -lao test.c -o test
-gcc -lao -lm test.c -o test
-./test
-dbfm
-ls
-cd dbfm
-ls
-make
-ls
-cd ..
-ls
-rm -rf dbfm
-git clone https://github.com/tnrazy/dbfm.git
-cd dbfm
-ls
-make
-./dbfm
-cls
-sl
-cls
-ls
-cd dbfm
-make
-./dbfm
-cls
-ls
-./dbfm
-reset
-ls
-cd ..
-ls
-cd dbfm
-ls
-./dbfm
-ls
-make
-./dbfm
-make
-./dbfm
-make
-./dbfm
-reset
 pwd
-vim test.c
-cls
-reset
+pwd
+cd /usr/share/icons/FaienceMac2/places/16
 ls
-make
-./dbfm
-trans permitted
-./test
-reset
-make
-./dbfm
-reset
-make
-./dbfm
-rest
-reset
-s ./dbfm
-./dbfm
-gcc -lmad -lm test.c -o test
-gcc -lao -lm test.c -o test
-./test
-reset
-make
-./dbfm
-reset
-vim .config/dbfm/dbfm.conf
-ls
-./dbfm
-reset
-dbfm
-cls
-ls
-ls
-rm test.o
-rm test.c
-ls
-cd dbfm
-ls
-./dbfm
-reset
-dbfm
-ls
-rm -rf dbfm
-git clone https://github.com/tnrazy/dbfm.git
-ls
-cd dbfm
-ls
-make
-./dbfm
-
-reset
-ps axu | grep dbfm
-kill 25676
-make
-./dbfm
-ncmpcpp
-mpdcoverart
-ls
-cls
-ls
-aslami
-alsamixer
-ls
-rm p
-rm p1882381.mp3
-git clone https://github.com/tnrazy/dotfile.git
-ncmpcpp
-cd $Music/10-09
-ls
-rm folder.jpg
-scrot -q 100 -d 10
-ls
-feh 2013-03-14-004956_1366x768_scrot.png
-rm 2013-03-14-004956_1366x768_scrot.png
-scrot -q 100 -d 10
-feh 2013-03-14-005035_1366x768_scrot.png
-dbfm
-alsactl init
-cls
-reset
-ls
-dbfm
-reset
-ls
-ls
-cd dbfm
-ls
-./dbfm
-reset
+s mv user-home.png user-home.png.bak
+s mv user-home.png.bak user-home.png
+pacman -Ss xmoto
+s pacman -Ss xoscope
+s pacman -Ss xine
 ls
 cd ..
 ls
-./test
-vim test.c
+cd ..
 ls
-./test
+find -name "gtk-home*"
+cls
+ls
+cd actions
+ls
+cd 16
+kls
+ls
+feh gohome.png
+ls
+pdw
+pwd
+s pacman -Ss xdg-user-dirs
+s pacman -S xdg-user-dirs
+s pacman -S xdg-user-dirs-gtk
+s pacman -Rnvs xdg-user-dirs-gtk
+s pacman -Rnvs xdg-user-dirs
+cls
+ls
+echo $XDG_VTNR
+htop
+mpdcoverart -d
+mpdcoverart 
+s pacman -Ss thunar
+s pacman -S thunar
+ls -al
+xcompmgr -Cc &
+htop
+sensors
+s reboot
+satrtx
 cls
 startx
-ls
-ls
+s reboot
+startx
+sensors
+s pacman -Syu
+vim /etc/xdg/luakit/webview.lua
+luakit
+luakit
 dbfm
-./test
-cls
-reset
-alsamixer
-alsamixer
-ps axu | grep pulse
-pulseaudio --x
-pulseaudio --help
-ps axu | grep pulse
-kill 25996
-cls
+s pacman -Rnvsdd mesa-libgl
+s pacman -Syu --ignore mesa-libgl
+s pacman -Su --ignore mesa-libgl
+df
+
+sudo fdisk /dev/sda
+sudo insmod hfsplus
+s pacman -Ss hfsplus
+s pacman -Su --ignore mesa-libgl
+s pacman -Ss compton
 ls
-alsamixer
+tar -xzvf compton-git.tar.gz
+cd compton-git
+ls
+makepkg
+s pacman -S asciidoc
+s pacman -S asciidoc
+makepkg
+s pacman -S libconfig
+makepkg
+ls
+s pacman -U compton-git-2013.05.21.g75ebd56-1-x86_64.pkg.tar.xz
+cd ~
+vim .xinitrc
+startx
 dbfm
-reset
-cls
-./test
-cls
-ls
-ps axu | grep dbfm
-kill 27795
-cls
-ls
-cd dbfm
-ls
-./dbfm
+ping www.baidu.com
 ncmpcpp
 mpdcoverart
-colors
-color.1
-cd .config
-ls
-cd zsh
-ls
-vim 03-aliases.zsh
-cls
-color
-feh 2013-03-14-005035_1366x768_scrot.png
-cd $Picture
-ls
-feh *
-scrot -q 100 -d 10
-feh 2013-03-14-005035_1366x768_scrot.png
-feh 2013-03-14-*
-ls
-cd .config/script
-ls
-./screenfetch-dev
-color
-uname -a
-vim .xinitrc
-alsamixer
-vim myweather
-cd myweather
-ls
-make
-ps axu | grep weahther
-ps axu | grep weather
-kill 27505
-./myweather
-cd /usr/share/mpdcoverart
-ls
-cd Magnifique\ Bright
-ls
-vim skin.xml
+s pacman -Su
+s pacman -Su --ignore mesa-libgl
+vim /etc/pacman.conf
+ps axu | grep compton
+kill 8232
+compton -Cc
+compton -C
+compton -c
+compton-trans
+compton-trans
+compton-trans aa
+compton-trans -c
+compton --help
+compton-trans -Cc
+compton -Cc
+compton -c
+man 1 compton
+vim /etc/xdg/compton.conf.example
+s mv /etc/xdg/compton.conf.example /etc/xdg/compton.conf
+compton -c
+compton -Cc
+compton -c
+compton 
+compton --shadow-red
+compton --shadow-[red]
+compton --shadow-red
+compton -ie --shadow-red
+compton -ie
+compton -i
+compton -e
+compton -i
+compton -m
+compton -iem
+compton -c
+compton -ic
+compton -ce
+compton -C
+vim /etc/xdg/compton.conf
+compton -C
+compton -icC
+compton -cC
+compton -icC
+compton -icC
+htop
+compton -icC
+vim test.conf
+compton --config test.conf
 mpdcoverart
-cls && echo Take shot..
-cls && echo Take shot.. && scrot -q 100 -d 10
+compton --config test.conf -b
+ps axu | grep compton
+kill 10423
+compton --config test.conf --shadow-exclude 'n:a:myweather'
+compton --config test.conf --shadow-exclude 'n:a:myweather,mpdcovermpd'
+compton -Cc
+compton -c
+compton -C
+compton -e
+compton -ie
+compton -c
+compton -cGb
+ps axu | grep compton
+kill 10711
+compton -cCGfF -o 0.38 -O 200 -I 200 -t 0.02 -l 0.02 -r 3.2 -D2 -m 0.88
+compton -iCc
+vim test.conf
+compton --config test.conf
+vim test.conf
+compton --config test.conf
+vim test.conf
+compton --config test.conf
+vim test.conf
+s mv /etc/xdg/compton.conf /etc/xdg/compton.conf.example
+s cp test.conf /etc/xdg/compton.conf
+vim .xinitrc
+startx
+compton -c
+compton -C
+compton -icc
+compton -icC
+s pacman -Su
+compton -c
+compton
+mpdcoverart
+vim /etc/xdg/compton.conf
+compton
+vim  test.conf
+compton --config test.conf
+compton --config test.conf
+compton --config test.conf
+compton --config test.conf
+compton --config test.conf
+compton --config test.conf
+s cp test.conf /etc/xdg/compton.conf
+compton -b
+s mv /etc/xdg/xfce4/ xfce4
+ls -al
+rm .gstreamer-0.10
+rm .icons
+rm .lesshst
+rm .macromedia
+rm .viminfo
+rm .zcompdump
+rm .Xauthority
+rm .local
+rm .cache
+rm .config/pianobarfly
+startx
+vim .xinitrc
+startx
+mpdcoverart
+s pacman -Su
+df
+s pacman -S xterm
+xterm
+ls -al
+ls -al
+s pacman -Su
+xrdb .Xresources
 ls
-feh 2013-03-14-0*
-scrot --help
-cls && echo Take shot.. && scrot -q 100 -cd 10
-feh 2013-03-14-0*
-cls && echo Take shot.. :)
-cls && echo "Take shot.. :)"
-mv 2013-03-14-0* dotfile
+ifconfig
+vim
+cls
+ls
+ls $Music
+ifconfig
+ls
+vim color
+sh colo
+sh color
+sh color
+vim .xinitrc
+vim .Xresources
+ls
+xrdb .Xresources
+ls
+ls -al
+ls -al
+ls -al
+√§√§√§√§√§√§
+√§
+ls
+ls
+ls
+vim .Xresources
+ls -al
+ls
+ls $Music
+ls $Music
+asasasa
+whereis
+vim .Xresources
+xrdb .Xresources
+vim .Xresources
+xrdb .Xresources
+ls
+ls -al
+ls
+ls
+ls
+ls
+xrdb .xinitrc
+xrdb .Xresources
+ls -al
+ls
+ls
+ls -al
+ls
+ls -al
+ls -al
+ls -al
+ncmpcpp
+cls
+ls
+sh color
+sh color
+vim .Xresources
+xrdb .Xresources
+ls
+xrdb .Xresources
+ls
+ls -al
+ls
+ls
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+ls $Music
+s rm /usr/share/fonts/
+startx
+mpdcoverart
+s pacman -Su
+pacman -Qqo /bin /sbin /usr/sbin | pacman -Qm -
+s pacman -Qqo /bin /sbin /usr/sbin | pacman -Qm -
+s pacman -Su
+ls /bin
+s pacman -Rnsv adjtimex
+cls
+ls
+df
+cls
+ls
+df
+paclist <repo> | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
+paclist <repo> | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
+paclist <repo> | awk ' { print $1 } '
+paclist <repo> | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
+paclist <repo>
+paclist repo
+paclist
+paclist testing
+paclist core
+paclist core | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
+pacman -Syy
+s pacman -Syy
+paclist extra | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
+
+find /bin /sbin /usr/sbin
+ind /bin /sbin /usr/sbin -exec pacman -Qo -- {} + >/dev/null
+find /bin /sbin /usr/sbin -exec pacman -Qo -- {} + >/dev/null
+s mv /bin/ack /usr/bin
+ack
+find /bin /sbin /usr/sbin -exec pacman -Qo -- {} + >/dev/null
+sudo pacman -Su
+startx
+mpdcoverart
+s pacman -Su --ignore filesystem,bas
+s pacman -S bash
+s pacman -Su
+sudo reboot
+cls
+startx
+ifconfig
+sudo systemctl stop rc.local.service
+sudo systemctl start rc.local.service
+ifconfig
+startx
+ncmpcpp
+mpdcoverart
+sudo alsactl
+sudo alsactl store
+sudo alsactl restore
+sudo alsactl store
+sudo alsactl --help
+ls -al
+ls $Music
+ls -al /
+ls -al
+sudo pacman -Rnvs aria2
+rm .aria2
+ls -al
+rm .esd_auth
+rm .dbus
+rm .adobe
+rm .gstreamer-0.10
+rm .macromedia
+ls -al
+vim .Xresources
+xrdb .Xresources
+ls
+ls -al
+ls -al
+ls
+ls /etc/xdg/tumbler
+cls
+ls
+ls -al
+pacman -Ss xterm
+htop
+vim .config/htop
+htop
+vim .Xresources
+xrdb .Xresources
+ls
+xrdb .Xresources
+xrdb .Xresources
+ls -al
+ls -al
+xrdb .Xresources
+ls
+ls -al
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+xrdb .Xresources
+ls -al
+ls $Music
+ls $Music
+ls $Music
+xrdb .Xresources
+ls -al
+vim .config/xresources/urxvt_fix
+vim .config/xresources/colors
+xrdb .Xresources
+ls
+ls $Music
+cls
+ls
+ls
+ls -al
+cls
+ls
+ls -al
+sh color
+cls
+l
+xrdb .Xresources
+s
+ls
+ls -al
+ls $Music
+ls -al
+xrdb .Xresources
+ls -al
+xrdb .Xresources
+ls-al
+ls -al
+ls $Music
+xrdb .Xresources
+ls -al
+ls -al
+xrdb .Xresources
+ls
+ls -al
+xrdb .Xresources
+xrdb .Xresources
+ls -al
+ls -al
+xrdb .Xresources
+ls -al
+ls -al
+ls -al
+ls -al
+ls $Music
+kls
+cls
+ls
+ls -al
+ls
+ls
+xrdb .Xresources
+ls
+ls
+xrdb .Xresources
+ls
+ls -al
+lsusb.py
+lsusb
+xrdb .Xresources
+ks
+cls
+ls -al
+lll
+xrdb .Xresources
+ls -al
+ls
+sudoasa
+asas
+xrdb .Xresources
+ls -al
+xrdb .Xresources
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+xrdb .Xresources
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+ls $Music
+ls $Music
+xrdb .Xresources
+ls
+ls -al
+cls
+ls
+ls $Music
+ls /usr/share/fonts/
+xrdb .Xresources
+ls
+ls $Music
+vim .Xresources
+ls -al
+ls
+ls
+feh
+cls
+ls
+dbfm
+pacman -Rnvs xterm
+s pacman -Rnvs xterm
+vim .config/xresources/colors
+xrdb .Xresources
+ls -al
+xrdb .Xresources
+xterm -fa "Monospace" -fs 11 -bg black -fg white -rightbar -sb
+pacman -S xterm
+s pacman -S xterm
+xterm -fa "Monospace" -fs 11 -bg black -fg white -rightbar -sb
+ls
+ls $Music
+ls 
+ls $Music
+vim .Xresources
+xrdb .Xresources
+xrdb .Xresources
+vim .Xresources
+xrdb .Xresources
+ls
+ls $Music
+xrdb .Xresources
+ls $Music
+1
+cls
+ls
+ls $Music
+sudo infctl setstyle
+ls
+ls $Music
+sudo infctl setstyle
+ls
+ls $Music
+vim .Xresources
+xrdb .Xresources
+ls
+ls $Music
+ls -al
+qsasasa
+asasa
+aaa
+aaa
+vim
+vim .Xresources
+xrdb .Xresources
+ls
+ls $Music
+aaaa
+a
+asasasa
+asasaaa
+xrdb .Xresources
+asasa
+asasa
+cls
+ls
+ls
+ls
+cls
+ls
+ls
+ls
+cls
+ls
+
+
+
+s pacman -Ss wenquan
+s pacman -Ss wenquanyi
+xrdb .Xresources
+xrdb .Xresources
+ls
+k
+ls
+ls $Music
+xrdb .Xresources
+ls
+ls $Music
+xrdb .Xresources
+ls $Music
+ls $Music
+xrdb .Xresources
+ls
+vim
+cls
+ls
+ls $Music
+xrdb .Xresources
+ls $Music
+xrdb .Xresources
+ls $Music
+xrdb .Xresources
+ls $Music
+vim 
+cls
+ls
+
+vim .Xresources
+cls
+ws
+cls
+ls
+vim .Xresources
+xrdb .Xresources
+ls $Music
+xrdb .Xresources
+ls $Music
+xrdb .Xresources
+ls $Music
+xrdb .Xresources
+ls
+ls -al
+xrdb .Xresources
+ls
+y_for_gnome_by_rafeviper-d3acr2q.zip
+xrdb .Xresources
+ls
+ls $Music
+ls
+ls
+sudo infctl
+sudo infctl setstyle
+ls $Music
+ls $Music
+xrdb .Xresources
+ls $Music
+ls $Music
+vim .Xresources
+xrdb .Xresources
+ËøÉπÊÉÄ∑Â∞±ËÆ©ÂÉº® firefox ÈÉßÉ¨ÈÉ∫ÉØÊÉ§ÉØÈÄÉ©‰∏≠ÁÉ∫É§ÊÉ∂ÉßÂ≠É∑
+sudo pacman -S fcitx
+sudo pacman -S fcitx-googlepinyin
+xrdb .Xresources
+fcitx\\
+
+openbox-session
+ls
+openbox-session --help
+openbox-session --kill
+ps aux 
+ps aux | grep tnrazy
+ps aux | grep login
+sudo kill 285
+cls
+startx
+ncmpcpp
+cls
+ls
+s pacman -Rnvs fcitx-googlepinyin
+vim .config/
+ps axu | grep login
+s kill 17535
+startx
+cls
+ls
+xrdb .Xresources
+ls
+luakit
+sudo pacman -Ss icui
+sudo pacman -Ss icu
+s cp /etc/xdg/openbox openbox
+s cp -r /etc/xdg/openbox openbox
+ls openbox
+s rm openbox
+s rm -rf openbox
+s cp -r /etc/xdg/luakit luakit
+s pacman -S luakit
+luakit
+s pacman -S icu
+luakit
+ls
+s cp -r luakit /etc/xdg
+clas
+ls
+cls
+ls
+cls
+ls
+rm color
+ls -al
+rm .esd_auth
+s pacman -S fcitx
+nome_by_rafeviper
+git clone https://github.com/tnrazy/dotfile.git
+fcitx
+cls
+ls
+rm xfce4
+s rm -rf xfce4
+ls
+rm vimprobable
+rm -rf vimprobable
+ls
+tar -xzvf Fcitx\?\?\?\?\?.tar.gz
+ls
+cd skin-small
+ls
+fcitx-skin-installer
+fcitx-skin-installer skin-siyi/fcitx-skin-siyi_1.0.tar.gz
+ls
+rm skin*
+ls
+ls
+ls -al file.php
+ls -alh file.php
+vim file.php
+cls
+ls
+fcitx-skin-installer file.php
+mv file.php skin.tar.gz
+ls
+tar -xzvf skin.tar.gz
+file skin.tar.gz
+file Fcitx\?\?\?\?\?.tar.gz
+mv skin.tar.gz skin.tar.bz2
+tar -xzvfj skin.tar.bz2
+cls
+ls
+rm skin.tar.bz2
+ls
+fcitx-skin-installer LX-Simple7%28Black%29.tar.bz2
+git clone https://github.com/csslayer/fcitx-skin-viewer.git
+cd fcitx-skin-viewer
+ls
+cmake
+fcitx4-config
+fcitx-configtool
+ls
+cd ..
+ls
+vim .config/openbox/rc.xml
+cls
+ls
+ps aux 
+ps aux | grep login
+s kill 17958
+startx
+cls
+s pacman -Rnvs fcitx
+s rm .config/fcitx
+rm -fr .config/fcitx
+s pacman -S fcitx
+s pacman -S fcitx
+cls
+ls
+fcitx
+ls .config/fcitx
+ls .config/fcitx
+ls /usr/share/fcitx/skin
+ls
+tar -xzvj LX-Simple7%28Black%29.tar.bz2
+tar -xjvf LX-Simple7%28Black%29.tar.bz2
+ls
+s mv LX-Simple7 /usr/share/fcitx/skin/
+s mv -r LX-Simple7 /usr/share/fcitx/skin/
+s mv LX-Simple7 /usr/share/fcitx/skin/
+s cp -r LX-Simple7 /usr/share/fcitx/skin
+s cp -r LX-Simple7\(Black\) /usr/share/fcitx/skin
+fcitx
+s pacman -Rnvs fcitx
+rm .config/fcitx
+startx
+cls
+ls
+rm LX-Simple7*
+rm Fcitx\?\?\?\?\?.tar.gz
+cls
+ls
+ls
+ls
+cls
+ls
+rm fcitx-skin-viewer
+rm -rf fcitx-skin-viewer
+cls
+ls
+cls
+ls
+s rm compton-git
+rm -rf compton-git
+cls
 ls
 cd dotfile
 ls
+ls -al
+feh 2013-03-14-0
 feh 2013-03-14-0*
-feh 2013-03-14-0*
+weechat-curses
+cp /etc/mpd.conf mpd.conf
+vim mpd.conf
 cls
 ls
-cd do
+cp /etc/mplayer/mplayer.conf mplayer.conf
+vim mplayer.conf
+cls
 ls
-rm .config
+rm userChrome.css
+cls
+ls
+cat README.md
+echo > README.md
+cls
+ls
+ls theme_cursor_fonts
+cls
 ls
 ls -al
+cd theme_cursor_fonts
+ls
+tar -xzvf fonts.tar.gz
+cls
+s
+cd fonts
+ls
+cls
+ls
+cd ..
+ls
+rm fonts
+ls
+ls
+rm -rf tri*
+cls
+ls
+rm GTK_ENGINE
+cls
+ls
+rm Magnifique\ Bright
+cls
+ls
+cp /usr/share/themes/Owl\ Light Owl
+cls
+ls
+tar -czvf Owl Owl.tar.gz
+tar -czvf Owl.tar.gz Owl
+cls
+ls
+rm -rf Owl
+cls
+ls
+cd ..
+ls
+cd theme_cursor_fonts
+cls
+ls
+cd ..
+ls
+mv theme_cursor_fonts resources
+cls
+ls
+vim LIST
 vim LIST
 cls
 ls
-cp ~/.config .
+ls .config
+rm -rf .config
+cp ~/.config #config
+cp ~/.config $config
+cp ~/.config "#config"
+ls
+ls \#config
+rm \#config/script
+rm \#config/
+cp ~/.config .config

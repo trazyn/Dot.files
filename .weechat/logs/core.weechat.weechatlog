@@ -1,26 +1,41 @@
-2012-07-25 16:15:59		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, tcl, xfer
-2012-07-25 16:23:13		New key binding (context "mouse"): @item(buffers):button2 => hsignal:buffers_mouse
-2012-07-25 16:23:13		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
-2012-07-25 16:23:13		perl scripts loaded: buffers
-2012-07-25 16:23:13		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, tcl, xfer
-2012-07-25 16:23:26	+	irc: command "join" must be executed on connected irc server
-2012-07-25 17:17:15	+	Warning: /home/tnrazy/.weechat/weechat.conf, line 26: unknown option for section "look": hline_char = ""
-2012-07-25 17:17:15	+	Warning: /home/tnrazy/.weechat/weechat.conf, line 52: invalid value for option: prefix_align_more = on
-2012-07-25 17:17:15	+	Warning: /home/tnrazy/.weechat/weechat.conf, line 55: invalid value for option: prefix_buffer_align_more = on
-2012-07-25 17:17:15	+	Warning: /home/tnrazy/.weechat/weechat.conf, line 380: unknown option for section "history": max_lines = 4096
-2012-07-25 17:17:15		Options reloaded from weechat.conf
-2012-07-25 17:17:15		Options reloaded from plugins.conf
-2012-07-25 17:17:15		Options reloaded from rmodifier.conf
-2012-07-25 17:17:15		Options reloaded from logger.conf
-2012-07-25 17:17:15		Options reloaded from charset.conf
-2012-07-25 17:17:15		Options reloaded from buffers.conf
-2012-07-25 17:17:15		Options reloaded from irc.conf
-2012-07-25 17:17:15		Options reloaded from xfer.conf
-2012-07-25 17:17:15		Options reloaded from alias.conf
-2012-07-25 17:17:15		Options reloaded from aspell.conf
-2012-07-25 17:17:15		Options reloaded from relay.conf
-2012-07-25 17:17:15		perl: scripts unloaded
-2012-07-25 17:44:09		New key binding (context "mouse"): @item(buffers):button2 => hsignal:buffers_mouse
-2012-07-25 17:44:09		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
-2012-07-25 17:44:09		perl scripts loaded: buffers
-2012-07-25 17:44:09		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, tcl, xfer
+2013-04-17 22:22:01		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-04-17 22:22:12		fifo: pipe closed
+2013-04-17 22:24:24		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-04-17 22:26:58		fifo: pipe closed
+2013-04-17 22:27:24		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-04-17 22:29:42		fifo: pipe closed
+2013-04-17 22:30:12		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-04-17 22:30:57		fifo: pipe closed
+2013-04-17 22:32:12		New key binding (context "mouse"): @item(buffers):button2 => hsignal:buffers_mouse
+2013-04-17 22:32:12		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2013-04-17 22:32:12		perl scripts loaded: buffers
+2013-04-17 22:32:12		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-04-17 22:32:42	+	irc: command "join" must be executed on connected irc server
+2013-04-17 22:34:04		fifo: pipe closed
+2013-04-17 22:34:04		perl: scripts unloaded
+2013-04-17 22:34:24		perl scripts loaded: buffers
+2013-04-17 22:34:24		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2013-04-17 23:24:39	 !!! 	Warning: /home/tnrazy/.weechat/weechat.conf, line 59: unknown option for section "look": nickmode = on
+2013-04-17 23:24:39	 !!! 	Warning: /home/tnrazy/.weechat/weechat.conf, line 60: unknown option for section "look": nickmode_empty = off
+2013-04-17 23:24:39		Options reloaded from weechat.conf
+2013-04-17 23:24:39		Options reloaded from plugins.conf
+2013-04-17 23:24:39		Options reloaded from script.conf
+2013-04-17 23:24:39		Options reloaded from rmodifier.conf
+2013-04-17 23:24:39		Options reloaded from charset.conf
+2013-04-17 23:24:39		Options reloaded from logger.conf
+2013-04-17 23:24:39		Options reloaded from relay.conf
+2013-04-17 23:24:39		Options reloaded from alias.conf
+2013-04-17 23:24:39		Options reloaded from buffers.conf
+2013-04-17 23:24:39		Options reloaded from aspell.conf
+2013-04-17 23:24:39		Options reloaded from irc.conf
+2013-04-17 23:24:39		Options reloaded from xfer.conf
+2013-04-17 23:24:39		fifo: pipe closed
+2013-04-17 23:24:39		perl: scripts unloaded
+2013-06-11 04:19:44		perl scripts loaded: buffers
+2013-06-11 04:19:44	 !!! 	Warning: /home/tnrazy/.weechat/irc.conf, line 23: unknown option for section "look": hide_nickserv_pwd = on
+2013-06-11 04:19:44	 !!! 	Warning: /home/tnrazy/.weechat/irc.conf, line 41: unknown option for section "look": nick_prefix = ""
+2013-06-11 04:19:44	 !!! 	Warning: /home/tnrazy/.weechat/irc.conf, line 42: unknown option for section "look": nick_suffix = ""
+2013-06-11 04:19:44	 !!! 	Warning: /home/tnrazy/.weechat/irc.conf, line 65: unknown option for section "color": nick_prefix = green
+2013-06-11 04:19:44	 !!! 	Warning: /home/tnrazy/.weechat/irc.conf, line 67: unknown option for section "color": nick_suffix = green
+2013-06-11 04:19:44	 !!! 	Warning: /home/tnrazy/.weechat/irc.conf, line 80: unknown option for section "network": lag_disconnect = 0
+2013-06-11 04:19:44		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer

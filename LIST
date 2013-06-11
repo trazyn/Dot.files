@@ -7,10 +7,10 @@
 equinox, murrine, gtk-engines
 
 --- Gtk2 theme
-darks, naos, tri2
+darks, naos, tri2, Owl Light
 
 --- Gtk2 theme selector
-gtk2_prefs
+gtk2_prefs, lxappearance
 
 --- Cursor
 cursor_neutral
@@ -24,11 +24,7 @@ tint2
 --- Font patch
 freetype2-infinality
 
---- Fonts
-Pragmata, Envy Code R VS
-
-
-xcompmgr, cpufreq
+compton
 
 --- #
 weechat, feh, cscope, ctags, scrot, mid3iconv, nitrogen

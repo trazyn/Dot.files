@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openbox_menu xmlns="http://openbox.org/3.4/menu">
 	<menu id="razy_apps" label="App ~">
+		<item label="GIMP">
+			<action name="Execute">
+				<execute>gimp</execute>
+			</action>
+		</item>
 		<item label="PDF View">
 			<action name="Execute">
 				<execute>mupdf</execute>
@@ -49,16 +54,24 @@
 	</menu>
 	<menu id="root-menu" label="Openbox">
 		<!-- <separator label="Applications"/> -->
-		<item label="URXVT">
+		<item label="Xterm">
 			<action name="Execute">
-				<execute>
-					urxvt
-				</execute>
+				<execute>xterm</execute>
 			</action>
 		</item>
-		<item label="Browser - luakit    *">
+		<item label="URXVT">
 			<action name="Execute">
-				<execute>luakit www.google.com/ncr</execute>
+				<execute>urxvt</execute>
+			</action>
+		</item>
+		<item label="Luakit            (#_#)">
+			<action name="Execute">
+				<execute>luakit &quot;http://www.google.com/ncr&quot;</execute>
+			</action>
+		</item>
+		<item label="Browser - midori    *">
+			<action name="Execute">
+				<execute>midori</execute>
 			</action>
 		</item>
 		<separator/>
@@ -66,9 +79,9 @@
 		<!-- <separator label="System"/> -->
 		<menu id="system-menu"/>
 		<separator/>
-		<item label="Themes">
+		<item label="Appearance">
 			<action name="Execute">
-				<execute>gtk2_prefs</execute>
+				<execute>lxappearance</execute>
 			</action>
 		</item>
 		<item label="Wallpaper">

@@ -24,7 +24,5 @@ tint2
 --- Font patch
 freetype2-infinality
 
-compton
-
 --- #
-weechat, feh, cscope, ctags, scrot, mid3iconv, nitrogen
+compton, xterm, weechat, feh, cscope, ctags, scrot, mid3iconv, nitrogen

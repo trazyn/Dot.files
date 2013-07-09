@@ -1,0 +1,17 @@
+#!/bin/bash
+#
+# /etc/rc.local: Local multi-user start-up script.
+#
+
+source /etc/conf.d/netcfg
+
+echo 2 > /sys/module/hid_apple/parameters/fnmode
+
+
+/sbin/ifconfig ${WIRELESS_INTERFACE} up
+
+/usr/sbin/wpa_supplicant -BDwext -i ${WIRELESS_INTERFACE} -c /etc/wpa_supplicant/wpa_supplicant.conf > /dev/null 2>&1
+
+/sbin/dhcpcd ${WIRELESS_INTERFACE}
+
+/usr/bin/hciconfig x up

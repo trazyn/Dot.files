@@ -13,6 +13,7 @@ Video=/mnt/d/Videos ;
 Wallpaper=/mnt/d/Wallpaper ;
 Book=/mnt/d/Book ;
 Workspace=/mnt/e/Workspace ;
+Picture=/mnt/d/Picture/ ;
 
 D=/mnt/d ;
 E=/mnt/e ;

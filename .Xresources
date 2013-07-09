@@ -35,8 +35,9 @@ Xft.rgba:                 rgb
 ! URxvt*font:               xft:Pragmata:pixelsize=9
 ! URxvt*boldFont:           xft:Pragmata:pixelsize=9
 ! URxvt*font:               xft:Neep:pixelsize=9
-! URxvt*boldFont:           xft:Neep:pixelsize=9
-! URxvt*letterSpace:        1
+
+URxvt*font:               xft:Pragmata:pixelsize=9
+URxvt*letterSpace:        0.5
 
 URxvt*buffered:           true
 URxvt*padding:		  1
@@ -75,8 +76,8 @@ xterm*faceNameDoublesize:   consolas bitmap:pixelsize=9:antialias=True
 xterm*xftAntialias:         true
 xterm*cjkWidth:             false
 
-xterm*Background:           gray2
-xterm*Foreground:           snow
+!xterm*Background:           gray2
+!xterm*Foreground:           snow
 xterm*cursorColor:          LightBlue
 xterm*pointerShape:         arrow
 xterm*pointerColor:         blue

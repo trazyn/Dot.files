@@ -1,934 +1,1119 @@
-
-ls
-vim /etc/xdg/luakit/rc.lua
-ls
-cd ~
-ls
-vim .config/openbox/rc.xml
-s pacman -S chromium
-cls
-ls
-dbfm
-ncmpcpp
-cd $Music/Q
-cd $Music/QMusic
-ls
-pacman -Ss mid3
-pacman -Ss mid3icon
-pacman -Ss mid3ic
-pacman -Ss mid3iconv
-s pacman -Ss mutagen
-s pacman -S mutagen
-ls
-mid3iconv 
-mid3iconv -e "utf-8"
-mid3iconv -e "utf-8" *.mp3
-ls
-ncmpcpp
-mpdcoverart
-ps axu | grep mpdcover
-kill 2228
-mpdcoverart -d
-mpdcoverart
-cat /etc/adjtime
-timedatectl
-timedatectl set-time "2013-06-10 00:53"
-s timedatectl set-time "2013-06-10 00:53"
-thunar /usr/share/icons/FaienceMac2/places/
-s pacman -Ss thunar
-s pacman -S thunar-media-tags-plugin
-s pacman -Rnvs thunar-media-tags-plugin
-ls
-tar -xzvf thunar-djvu-thumbnailer.tar.gz
-cd thunar-djvu-thumbnailer
-ls
-makepkg
-s pacman -Ss evince
-sudo pacman -S evince
-s pacman -Ss tumbler
-s pacman -S tumbler
-s pacman -S ffmpegthumbnailer
-s pacman -S poppler-glib
-s pacman -Rnvs poppler-glib
-s pacman -S poppler-glib
-s pacman -S mupdf
-startx
-mpdcoverart
-ls
-rm -rf thunar-djvu-thumbnailer*
-startx
-mpdcoverart
-ts emblems
-ts emblems
-ts underlying
-ts preferred
-ts preferred
-ls
-ls
-ls
-ls
-ls
-pwd
-pwd
-cd /usr/share/icons/FaienceMac2/places/16
-ls
-s mv user-home.png user-home.png.bak
-s mv user-home.png.bak user-home.png
-pacman -Ss xmoto
-s pacman -Ss xoscope
-s pacman -Ss xine
-ls
-cd ..
-ls
-cd ..
-ls
-find -name "gtk-home*"
-cls
-ls
-cd actions
-ls
-cd 16
-kls
-ls
-feh gohome.png
-ls
-pdw
-pwd
-s pacman -Ss xdg-user-dirs
-s pacman -S xdg-user-dirs
-s pacman -S xdg-user-dirs-gtk
-s pacman -Rnvs xdg-user-dirs-gtk
-s pacman -Rnvs xdg-user-dirs
-cls
-ls
-echo $XDG_VTNR
-htop
-mpdcoverart -d
-mpdcoverart 
-s pacman -Ss thunar
-s pacman -S thunar
-ls -al
-xcompmgr -Cc &
-htop
-sensors
-s reboot
-satrtx
-cls
-startx
-s reboot
-startx
-sensors
-s pacman -Syu
-vim /etc/xdg/luakit/webview.lua
-luakit
-luakit
-dbfm
-s pacman -Rnvsdd mesa-libgl
-s pacman -Syu --ignore mesa-libgl
-s pacman -Su --ignore mesa-libgl
-df
-
-sudo fdisk /dev/sda
-sudo insmod hfsplus
-s pacman -Ss hfsplus
-s pacman -Su --ignore mesa-libgl
-s pacman -Ss compton
-ls
-tar -xzvf compton-git.tar.gz
-cd compton-git
-ls
-makepkg
-s pacman -S asciidoc
-s pacman -S asciidoc
-makepkg
-s pacman -S libconfig
-makepkg
-ls
-s pacman -U compton-git-2013.05.21.g75ebd56-1-x86_64.pkg.tar.xz
-cd ~
-vim .xinitrc
-startx
-dbfm
-ping www.baidu.com
-ncmpcpp
-mpdcoverart
-s pacman -Su
-s pacman -Su --ignore mesa-libgl
-vim /etc/pacman.conf
-ps axu | grep compton
-kill 8232
-compton -Cc
-compton -C
-compton -c
-compton-trans
-compton-trans
-compton-trans aa
-compton-trans -c
-compton --help
-compton-trans -Cc
-compton -Cc
-compton -c
-man 1 compton
-vim /etc/xdg/compton.conf.example
-s mv /etc/xdg/compton.conf.example /etc/xdg/compton.conf
-compton -c
-compton -Cc
-compton -c
-compton 
-compton --shadow-red
-compton --shadow-[red]
-compton --shadow-red
-compton -ie --shadow-red
-compton -ie
-compton -i
-compton -e
-compton -i
-compton -m
-compton -iem
-compton -c
-compton -ic
-compton -ce
-compton -C
-vim /etc/xdg/compton.conf
-compton -C
-compton -icC
-compton -cC
-compton -icC
-compton -icC
-htop
-compton -icC
-vim test.conf
-compton --config test.conf
-mpdcoverart
-compton --config test.conf -b
-ps axu | grep compton
-kill 10423
-compton --config test.conf --shadow-exclude 'n:a:myweather'
-compton --config test.conf --shadow-exclude 'n:a:myweather,mpdcovermpd'
-compton -Cc
-compton -c
-compton -C
-compton -e
-compton -ie
-compton -c
-compton -cGb
-ps axu | grep compton
-kill 10711
-compton -cCGfF -o 0.38 -O 200 -I 200 -t 0.02 -l 0.02 -r 3.2 -D2 -m 0.88
-compton -iCc
-vim test.conf
-compton --config test.conf
-vim test.conf
-compton --config test.conf
-vim test.conf
-compton --config test.conf
-vim test.conf
-s mv /etc/xdg/compton.conf /etc/xdg/compton.conf.example
-s cp test.conf /etc/xdg/compton.conf
-vim .xinitrc
-startx
-compton -c
-compton -C
-compton -icc
-compton -icC
-s pacman -Su
-compton -c
-compton
-mpdcoverart
-vim /etc/xdg/compton.conf
-compton
-vim  test.conf
-compton --config test.conf
-compton --config test.conf
-compton --config test.conf
-compton --config test.conf
-compton --config test.conf
-compton --config test.conf
-s cp test.conf /etc/xdg/compton.conf
-compton -b
-s mv /etc/xdg/xfce4/ xfce4
-ls -al
-rm .gstreamer-0.10
-rm .icons
-rm .lesshst
-rm .macromedia
-rm .viminfo
-rm .zcompdump
-rm .Xauthority
-rm .local
-rm .cache
-rm .config/pianobarfly
-startx
-vim .xinitrc
-startx
-mpdcoverart
-s pacman -Su
-df
-s pacman -S xterm
-xterm
-ls -al
-ls -al
-s pacman -Su
-xrdb .Xresources
+ifconfig
+ifconfig
+ifconfig
+sudo systemctl stop dhcpcd.service
+sudo systemctl stop wpa_supplicant.service 
+sudo systemctl disable dhcpcd.service
+sudo systemctl disable wpa_supplicant.service
 ls
 ifconfig
-vim
-cls
-ls
-ls $Music
 ifconfig
-ls
-vim color
-sh colo
-sh color
-sh color
-vim .xinitrc
-vim .Xresources
-ls
-xrdb .Xresources
-ls
-ls -al
-ls -al
-ls -al
-Ã¤Ã¤Ã¤Ã¤Ã¤Ã¤
-Ã¤
-ls
-ls
-ls
-vim .Xresources
-ls -al
-ls
-ls $Music
-ls $Music
-asasasa
-whereis
-vim .Xresources
-xrdb .Xresources
-vim .Xresources
-xrdb .Xresources
-ls
-ls -al
-ls
-ls
-ls
-ls
-xrdb .xinitrc
-xrdb .Xresources
-ls -al
-ls
-ls
-ls -al
-ls
-ls -al
-ls -al
-ls -al
-ncmpcpp
-cls
-ls
-sh color
-sh color
-vim .Xresources
-xrdb .Xresources
-ls
-xrdb .Xresources
-ls
-ls -al
-ls
-ls
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-ls $Music
-s rm /usr/share/fonts/
+ps axu 
+ps axu  | grep dhcp
+sudo systemctl status dhcpcd
+sudo systemctl stop dhcpcd.service
+sudo systemctl status dhcpcd.service
+ifconfig
+sudo dhcpcd -x
+sudo systemctl status wpa_supplicant
+sudo systemctl status wpa_supplicant.service
+find /etc/systemd
+vim /etc/systemd/system/multi-user.target.wants/ntpd.service
+rm /etc/systemd/system/multi-user.target.wants/ntpd.service
+ls -al /etc/systemd/system/multi-user.target.wants/ntpd.service
+rm /etc/systemd/system/multi-user.target.wants/ntpd.service
+s rm /etc/systemd/system/multi-user.target.wants/ntpd.service
+ls -al /etc/systemd/system/multi-user.target.wants
+ls -al /etc/systemd/system/multi-user.target.wants
+ls -al /etc/systemd
+ls -al /etc/systemd/ntp-units.d
+rm -rf /etc/systemd/ntp-units.d
+s rm -rf /etc/systemd/ntp-units.d
+sudo systemctl enable net-auto-wireless.service
+vim /etc/systemd/system/multi-user.target.wants/net-auto-wireless.service
+sudo systemctl restart bluetooth.service
+vim /etc/systemd/system/bluetooth.target.wants/bluetooth.service
+sudo systemctl restart bluetooth.service
+sudo systemctl status bluetooth.service
+sudo systemctl --system daemon-reload
+sudo systemctl restart bluetooth.service
+sudo systemctl status bluetooth.service
+vim /etc/systemd/system/bluetooth.target.wants/bluetooth.service
+sudo systemctl --system daemon-reload
+sudo systemctl restart bluetooth.service
+sudo systemctl status bluetooth.service
 startx
-mpdcoverart
-s pacman -Su
-pacman -Qqo /bin /sbin /usr/sbin | pacman -Qm -
-s pacman -Qqo /bin /sbin /usr/sbin | pacman -Qm -
-s pacman -Su
-ls /bin
-s pacman -Rnsv adjtimex
-cls
-ls
-df
-cls
-ls
-df
-paclist <repo> | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
-paclist <repo> | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
-paclist <repo> | awk ' { print $1 } '
-paclist <repo> | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
-paclist <repo>
-paclist repo
-paclist
-paclist testing
-paclist core
-paclist core | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
-pacman -Syy
-s pacman -Syy
-paclist extra | awk ' { print $1 } ' | pacman -Ql - | grep ' /s\?bin/\| /usr/sbin/'
-
-find /bin /sbin /usr/sbin
-ind /bin /sbin /usr/sbin -exec pacman -Qo -- {} + >/dev/null
-find /bin /sbin /usr/sbin -exec pacman -Qo -- {} + >/dev/null
-s mv /bin/ack /usr/bin
-ack
-find /bin /sbin /usr/sbin -exec pacman -Qo -- {} + >/dev/null
-sudo pacman -Su
+vim /etc/systemd/system/bluetooth.target.wants/bluetooth.service
+sudo systemctl start rc.local.service
 startx
-mpdcoverart
-s pacman -Su --ignore filesystem,bas
-s pacman -S bash
-s pacman -Su
+ifconfig
+startx
+systemctl status bluetooth.service
+s systemctl status bluetooth.service
+s systemctl status bluetooth.service
+vim /etc/systemd/system/bluetooth.target.wants/bluetooth.service
+sudo systemctl restart bluetooth.service
+s systemctl status bluetooth.service
+s systemctl --system daemon-reload
+ systemctl restart bluetooth.service 
+s systemctl restart bluetooth.service
+htop
+ifconfig
+vim /etc/systemd/system/bluetooth.target.wants/bluetooth.service
+sudo systemctl --system daemon-reload
+sudo systemctl restart bluetooth.service 
+ifconfig
+cls
+startx
+bluetoothctl -a
+sudo hciconfig x up
+sudo hciconfig x reset
+vim /etc/systemd/system/multi-user.target.wants/net-auto-wireless.service 
+vim /etc/conf.d/netcfg
+ifconfig
+sudo ln -s /dev/null /etc/udev/rules.d/80-net-name-slot.rules
+sudo systemctl stop rc.local.service
+sudo systemctl enable net-auto-wired.service
+sudo systemctl start net-auto-wireless.service
+sudo systemctl status net-auto-wireless.service
+sudo systemctl status net-auto-wireless.service
+sudo systemctl status net-auto-wireless.service
+sudo systemctl status net-auto-wireless.service
+vim /etc/rc.local
 sudo reboot
-cls
+vim /etc/rc.local
+ifconfig
+find /etc/systemd
+sudo systemctl status net-auto-wireless.service
+sudo systemctl stop net-auto-wireless.service
+sudo systemctl start net-auto-wireless.service
+sudo systemctl start net-auto-wireless.service
+sudo journalctl -xn
+ifconfig
+ifconfig
+sudo systemctl disable net-auto-wired.service
+find /etc/systemd
+sudo systemctl stop net-auto-wired.service
+sudo systemctl stop net-auto-wireless.service
+sudo systemctl restart net-auto-wireless.service
+startx
+sudo systemctl status net-auto-wired.service
+sudo systemctl status net-auto-wireless.service
+vim /etc/rc.local
+vim /etc/systemd/system/rc.local.service
+sudo systemctl --system daemon-reload
+sudo systemctl restart rc.local.service
+sudo systemctl status rc.local.service
+vim /etc/systemd/system/rc.local.service
+sudo systemctl --system daemon-reload
+sudo systemctl restart rc.local.service
+sudo systemctl --system daemon-reload
+sudo systemctl restart rc.local.service
+ifconfig
+ifconfig
+ifconfig
+ifconfig
+sudo systemctl --system daemon-reload
+vim /etc/rc.local
+ifconfig
+vim /etc/wpa_supplicant/wpa_supplicant.conf
+ifconfig
+sudo reboot
 startx
 ifconfig
+dhcpcd wlan0
+s dhcpcd wlan0
+vim /etc/systemd/system/rc.local.service
+cls
+ls
+vim /etc/rc.local
+sudo dhcpcd -x
+ps axu | grep wap_
+ps axu | grep wap_supp
+ExecStart=/etc/rc.local
+sudo ifconfig wlan0 up
+/usr/sbin/wpa_supplicant -Dwext -i ${interface} -c /etc/wpa_supplicant/wpa_supplicant.conf 
+wpa_supplicant -Dwext -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf 
+s wpa_supplicant -Dwext -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf
+dhcpcd wlan0
+s dhcpcd wlan0
+ifconfig
+sudo systemctl status net-auto-wireless.service
+sudo systemctl disable net-auto-wireless.service
+sudo systemctl disable net-auto-wired.service
+sudo systemctl disable net-auto-wired.service
+sudo reboot
+startx
+ifconfig
+ifconfig
+sudo systemctl restart rc.local.service
+ifconfig
+ifconfig
+vim /etc/rc.local
+sudo systemctl status net-auto-wired.service
+sudo systemctl status net-auto-wireless.service
+vim /etc/systemd/system/rc.local.service
+sudo systemctl --system daemon-reload
+sudo systemctl restart rc.local.service
+ifconfig
+ifconfig
+ifconfig
+ifconfig
+man 1 systemd
+man 1 systemd
+sudo systemctl --system daemon-reload
+sudo systemctl stop rc.local.service
+sudo systemctl start rc.local.service
+vim /etc/systemd/system/rc.local.service
+sudo systemctl stop rc.local.service
+sudo systemctl --system daemon-reload
 sudo systemctl stop rc.local.service
 sudo systemctl start rc.local.service
 ifconfig
+ifconfig
+ifconfig
+ifconfig
+vim /etc/rc.local
+sudo systemctl --system daemon-reload
+sudo systemctl stop rc.local.service
+sudo systemctl start rc.local.service
+ifconfig 
+ifconfig
+ifconfig
+sudo systemctl status rc.local.service
+sudo dhcpcd -x
+ps axu | grep wpa_supp
+cls
+ls
+ifconfig wlan0 up
+s ifconfig wlan0 up
+ifconfig
+sudo systemctl stop rc.local.service
+sudo systemctl --system daemon-reload
+sudo systemctl start rc.local.service
+ifconfig
+sudo systemctl status rc.local.service
+sudo systemctl --system daemon-reload && sudo systemctl restart rc.local.service
+sudo systemctl status rc.local.service
+sudo systemctl stop rc.local.service
+sudo systemctl status rc.local.service
+sudo systemctl start rc.local.service
+sudo systemctl status rc.local.service
+sudo /etc/rc.local
+ifconfig wlan0
+ifconfig wlan0 up
+s ifconfig wlan0 up
+ifconfig
+sudo /etc/rc.local
+ifconfig
+ifconfig
+ps axu | grep dhcp
+ps axu | grep dhcpcd
+ifconfig
+ifconfig
+sudo dhcpcd -x
+find /usr/lib/systemd
+find /usr/lib/systemd | grep wireless
+vim /usr/lib/systemd/system/net-auto-wired.service
+vim /etc/conf.d/netcfg
+/usr/bin/netcfg-wpa_actiond wlan0
+ifconfig
+s /usr/bin/netcfg-wpa_actiond wlan0
+vim /etc/rc.local
+sudo systemctl --system daemon-reload
+sudo systemctl start rc.lo
+sudo systemctl restart rc.local.service
+ifconfig
+ifconfig
+ifconfig
+sudo pacman -S ntecfg
+sudo pacman -Ss ntecfg
+sudo pacman -Ss wpa
+sudo pacman -Ss wpa_actiond
+sudo pacman -S wpa_actiond
+s /usr/bin/netcfg-wpa_actiond wlan0
+ifconfig
+ps axu | grep actiond
+s /usr/bin/netcfg-wpa_actiond wlan0
+vim /usr/bin/netcfg-wpa_actiond 
+ls
+/usr/bin/wpa_supplicant
+/usr/bin/wpa_supplicant -u
+s /usr/bin/wpa_supplicant -u
+ifconfig
+sudo ifconfig wlan0 up
+s /usr/bin/wpa_supplicant -u
+ifconfig
+dhcpcd wlan0
+s dhcpcd wlan0
+sudo dhcpcd -x
+sudo dhcpcd wlan0
+ls
+wpa_supplicant --help
+vim /etc/rc.local
+ifconfig
+sudo systemctl --system daemon-reload
+sudo systemctl restart rc.local.service
+sudo systemd-ask-password
+cls\ls
+cks
+cls
+ifconfig
+source /etc/conf.d/netcfg
+echo $WIRED_INTERFACE
+echo $WIRELESS_INTERFACE
+sudo systemctl stop rc.local.service
+ifconfig
+sudo /etc/rc.local
+ifconfig
+ifconfig
+vim /etc/rc.local
+dhcpcd --help
+dhcpcd --help
+ifconfig
 startx
-ncmpcpp
-mpdcoverart
-sudo alsactl
-sudo alsactl store
-sudo alsactl restore
-sudo alsactl store
-sudo alsactl --help
-ls -al
-ls $Music
-ls -al /
-ls -al
-sudo pacman -Rnvs aria2
-rm .aria2
-ls -al
-rm .esd_auth
-rm .dbus
-rm .adobe
-rm .gstreamer-0.10
-rm .macromedia
-ls -al
-vim .Xresources
-xrdb .Xresources
-ls
-ls -al
-ls -al
-ls
-ls /etc/xdg/tumbler
+clsls
 cls
 ls
-ls -al
-pacman -Ss xterm
-htop
-vim .config/htop
-htop
-vim .Xresources
-xrdb .Xresources
-ls
-xrdb .Xresources
-xrdb .Xresources
-ls -al
-ls -al
-xrdb .Xresources
-ls
-ls -al
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-xrdb .Xresources
-ls -al
-ls $Music
-ls $Music
-ls $Music
-xrdb .Xresources
-ls -al
-vim .config/xresources/urxvt_fix
-vim .config/xresources/colors
-xrdb .Xresources
-ls
-ls $Music
-cls
-ls
-ls
-ls -al
-cls
-ls
-ls -al
-sh color
-cls
-l
-xrdb .Xresources
-s
-ls
-ls -al
-ls $Music
-ls -al
-xrdb .Xresources
-ls -al
-xrdb .Xresources
-ls-al
-ls -al
-ls $Music
-xrdb .Xresources
-ls -al
-ls -al
-xrdb .Xresources
-ls
-ls -al
-xrdb .Xresources
-xrdb .Xresources
-ls -al
-ls -al
-xrdb .Xresources
-ls -al
-ls -al
-ls -al
-ls -al
-ls $Music
-kls
-cls
-ls
-ls -al
-ls
-ls
-xrdb .Xresources
-ls
-ls
-xrdb .Xresources
-ls
-ls -al
-lsusb.py
-lsusb
-xrdb .Xresources
-ks
-cls
-ls -al
-lll
-xrdb .Xresources
-ls -al
-ls
-sudoasa
-asas
-xrdb .Xresources
-ls -al
-xrdb .Xresources
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-xrdb .Xresources
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-ls $Music
-ls $Music
-xrdb .Xresources
-ls
-ls -al
-cls
-ls
-ls $Music
-ls /usr/share/fonts/
-xrdb .Xresources
-ls
-ls $Music
-vim .Xresources
-ls -al
-ls
-ls
-feh
-cls
-ls
+ifconfig
 dbfm
-pacman -Rnvs xterm
-s pacman -Rnvs xterm
-vim .config/xresources/colors
-xrdb .Xresources
-ls -al
-xrdb .Xresources
-xterm -fa "Monospace" -fs 11 -bg black -fg white -rightbar -sb
-pacman -S xterm
-s pacman -S xterm
-xterm -fa "Monospace" -fs 11 -bg black -fg white -rightbar -sb
 ls
-ls $Music
-ls 
-ls $Music
-vim .Xresources
-xrdb .Xresources
-xrdb .Xresources
-vim .Xresources
-xrdb .Xresources
-ls
-ls $Music
-xrdb .Xresources
-ls $Music
-1
-cls
-ls
-ls $Music
-sudo infctl setstyle
-ls
-ls $Music
-sudo infctl setstyle
-ls
-ls $Music
-vim .Xresources
-xrdb .Xresources
-ls
-ls $Music
-ls -al
-qsasasa
-asasa
-aaa
-aaa
-vim
-vim .Xresources
-xrdb .Xresources
-ls
-ls $Music
-aaaa
-a
-asasasa
-asasaaa
-xrdb .Xresources
-asasa
-asasa
-cls
-ls
-ls
-ls
-cls
-ls
-ls
-ls
-cls
-ls
-
-
-
-s pacman -Ss wenquan
-s pacman -Ss wenquanyi
-xrdb .Xresources
-xrdb .Xresources
-ls
-k
-ls
-ls $Music
-xrdb .Xresources
-ls
-ls $Music
-xrdb .Xresources
-ls $Music
-ls $Music
-xrdb .Xresources
-ls
-vim
-cls
-ls
-ls $Music
-xrdb .Xresources
-ls $Music
-xrdb .Xresources
-ls $Music
-xrdb .Xresources
-ls $Music
-vim 
-cls
-ls
-
-vim .Xresources
-cls
-ws
-cls
-ls
-vim .Xresources
-xrdb .Xresources
-ls $Music
-xrdb .Xresources
-ls $Music
-xrdb .Xresources
-ls $Music
-xrdb .Xresources
-ls
-ls -al
-xrdb .Xresources
-ls
-y_for_gnome_by_rafeviper-d3acr2q.zip
-xrdb .Xresources
-ls
-ls $Music
-ls
-ls
-sudo infctl
-sudo infctl setstyle
-ls $Music
-ls $Music
-xrdb .Xresources
-ls $Music
-ls $Music
-vim .Xresources
-xrdb .Xresources
-è¿ƒ¹æƒ€·å°±è®©åƒ¼¨ firefox éƒ§ƒ¬éƒºƒ¯æƒ¤ƒ¯é€ƒ©ä¸­çƒºƒ¤æƒ¶ƒ§å­ƒ·
-sudo pacman -S fcitx
-sudo pacman -S fcitx-googlepinyin
-xrdb .Xresources
-fcitx\\
-
-openbox-session
-ls
-openbox-session --help
-openbox-session --kill
-ps aux 
-ps aux | grep tnrazy
-ps aux | grep login
-sudo kill 285
-cls
+ifconfig
+dhcpcd --hlp
+dhcpcd --help
+man 5 dhcpcd.conf
+vim /etc/dhcpcd.conf
+man 5 dhcpcd.conf
+man 5 dhcpcd.conf
+vim /etc/dhcpcd.conf
+man 5 wpa_supplicant.conf
+vim /etc/rc.local
+sudo dhcpcd -x
+ifconfig
+man 5 dhcpcd.conf
+sudo dhcpcd -x
+ifconfig
+ps axu | grep dhcpcd
+sudo kill 7716
+ifconfig
+ifconfig
+dhcpcd wlan0
+ifconfig
+ifconfig
+ifconfig
+ifconfig
+ifconfig
+s dhcpcd wlan0
+ifconfig
+man 5 dhcpcd.conf
+sudo reboot
 startx
-ncmpcpp
+dbfm
+sensors
+sudo pacman -S awn
+sudo pacman -Ss awn
+sudo pacman -S awn
+sudo pacman -S awn-extras-applets
 cls
 ls
-s pacman -Rnvs fcitx-googlepinyin
-vim .config/
-ps axu | grep login
-s kill 17535
+ls
+cp .vim $E/Downloads/vim-config
+s cp -r .vim $E/Downloads/vim-config
+s cp -r .vim $E/Downloads/vim-config
+cp .vim $D/Download/vim-config
+vim /boot/grub/grub.cfg
+sudo fdisk
+sudo fdisk /dev/sda
+sudo reboot
 startx
-cls
+hciconfig --help
+lslslslslslsl
+sudo reboot
+startx
+cd YouCompleteMe
 ls
-xrdb .Xresources
+./install.sh --clang-completer
+cd .vim/bundle
 ls
-luakit
-sudo pacman -Ss icui
-sudo pacman -Ss icu
-s cp /etc/xdg/openbox openbox
-s cp -r /etc/xdg/openbox openbox
-ls openbox
-s rm openbox
-s rm -rf openbox
-s cp -r /etc/xdg/luakit luakit
-s pacman -S luakit
-luakit
-s pacman -S icu
-luakit
-ls
-s cp -r luakit /etc/xdg
-clas
-ls
-cls
-ls
-cls
-ls
-rm color
-ls -al
-rm .esd_auth
-s pacman -S fcitx
-nome_by_rafeviper
-git clone https://github.com/tnrazy/dotfile.git
-fcitx
-cls
-ls
-rm xfce4
-s rm -rf xfce4
-ls
-rm vimprobable
-rm -rf vimprobable
-ls
-tar -xzvf Fcitx\?\?\?\?\?.tar.gz
-ls
-cd skin-small
-ls
-fcitx-skin-installer
-fcitx-skin-installer skin-siyi/fcitx-skin-siyi_1.0.tar.gz
-ls
-rm skin*
-ls
-ls
-ls -al file.php
-ls -alh file.php
-vim file.php
-cls
-ls
-fcitx-skin-installer file.php
-mv file.php skin.tar.gz
-ls
-tar -xzvf skin.tar.gz
-file skin.tar.gz
-file Fcitx\?\?\?\?\?.tar.gz
-mv skin.tar.gz skin.tar.bz2
-tar -xzvfj skin.tar.bz2
-cls
-ls
-rm skin.tar.bz2
-ls
-fcitx-skin-installer LX-Simple7%28Black%29.tar.bz2
-git clone https://github.com/csslayer/fcitx-skin-viewer.git
-cd fcitx-skin-viewer
-ls
-cmake
-fcitx4-config
-fcitx-configtool
+rm -rf OmniCppComplete
+mv supertab ~
+ts obsoletes
+sudo echo 2 > /sys/module/hid_apple/parameters/fnmode
+sudo echo 2 > /sys/module/hid_apple/parameters/fnmode
 ls
 cd ..
 ls
-vim .config/openbox/rc.xml
+mv YouCompleteMe .vim/bundle
+ls
+rm -rf YouCompleteMe
+ls
+cd ..
+ls
+cd ~
+ls
+mv supertab .vim/bundle
+ls
+cd .vim/bundle
+ls
+ls
+cp ~/vim.bak/bundle/OmniCppComplete .
+ls
+vim /etc/rc.local
+l
+sls
+git clone https://github.com/msanders/snipmate.vim.git
+vim
+vim test.c
 cls
 ls
-ps aux 
-ps aux | grep login
-s kill 17958
+gmrun
+ls
+mv .vim vim.1
+ls
+git clone  --recursive git://github.com/satyajitranjeev/DotVim2.git .vim
+ls
+cd .vim
+ls
+vim apple.vim
+ls
+vim mappings.vim
+ls
+ls
+vim variables.vim
+cls
+ls
+ls plugins/colorx.vim
+ls bundle
+ls bundle
+cp colors/ ~/vim.1/
+ls
+cd ..
+ls
+mv .vim vim.2
+mv vim.1 .vim
+ls
+ls
+rm -rf demo
+cd .vim/colors
+ls
+ls
+cd .vim
+ls
+cd colors
+ls
+ls -al
+sudo chmod a-x chwi.vim cloudsxterm.vim espresso-soda.vim getfresh.vim github.vim kolor.vim moria.vim nucolor.vim peaksea.vim plainnsimple.vim rdark-terminal.vim rdark.vim Tomorrow-Night-Blue.vim Tomorrow-Night-Bright.vim Tomorrow-Night-Eighties.vim Tomorrow-Night.vim Tomorrow.vim tutticolori.vim vgod.vim vylight.vim wombat256.vim 
+s
+ls
+ls -al
+cd ..
+ls
+ls syntax
+cd syntax
+ls
+chmod a-x c.vim javascript.vim jquery.vim php.vim python3.0.vim xhtml.vim 
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf vim.sp
+ls
+mv solarized.zip .vim/colors
+cd .vim/colors
+ls
+unzip solarized.zip
+ls
+cd solarized
+ls
+pwd
+ls
+ls misc-apps
+ls xresources-colors-solarized/Xresources
+vim xresources-colors-solarized/Xresources
+ls
+vim .Xresources
+vim xresources-colors-solarized/Xresources
+ls
+cd .config/xresources
+ls
+mv colors colors.1
+ls
+cp ~/.vim/colors/solarized/xresources-colors-solarized/Xresources colors
+ls
+cd ~
+ls
+colors
+color
+color
+xrdb .Xresources
+ls
+color
+color
+ncmpcpp
+cls
+ls
+vim .Xresources
+xrdb .Xresources
+ls -al
+color
+ls
+ls $Music
+ls
+ls gimp-palette-solarized
+cp vim-colors-solarized/colors/solarized.vim ..
+cd ..
+ls
+rm solarized
+rm solarized.zip
+ls
+ls -al
+ls -al
+ls -al
+ls
+ls
+sudo reboot
+startx
+hciconfig x reset
+s hciconfig x reset
+ls
+cp .vim $E/Downloads
+cp .vim $D/Download/vim-config
+cd $Downloads
+ls
+rm data153.zip
+ls
+rm QQmusic_MXC.rar
+ls
+sudo reboot
 startx
 cls
-s pacman -Rnvs fcitx
-s rm .config/fcitx
-rm -fr .config/fcitx
-s pacman -S fcitx
-s pacman -S fcitx
+cd $Downloads/
+ls
+rm 320.18-desktop-win8-win7-winvista-64bit-english-whql.exe
+ls
+ls vim-config/colors/
+rm -rf vim-config
+ls
+unrar x fugood.zip
+unzip -x fugood.zip Fugoog
+unzip -x fugood.zip -c Fugoog
+unzip -
+unzip --help
+unzip -x fugood.zip -d Fugoog
+ls
+cd Fugoog
+ls
+mv ä¸åƒ¹¹\ -\ Fu\ Good\ ä¸ƒ«ä¸€ç«ƒ¹ï¼ƒ¬å¤©åƒ°ƒ®èƒ§ªé¸+ç²¾é¸ $Music
+ls
+cd ..
+ls
+rm fugood.zip
+rm Fugoog
+cd $Music/ä¸åƒ¹¹\ -\ Fu\ Good\ ä¸ƒ«ä¸€ç«ƒ¹ï¼ƒ¬å¤©åƒ°ƒ®èƒ§ªé¸+ç²¾é¸
+ls
+feh cover.jpg
+ncmpcpp
+mpdcoverart
+ncmpcpp
 cls
 ls
-fcitx
-ls .config/fcitx
-ls .config/fcitx
-ls /usr/share/fcitx/skin
+vim /etc/rc.local
+vim
+vim
 ls
-tar -xzvj LX-Simple7%28Black%29.tar.bz2
-tar -xjvf LX-Simple7%28Black%29.tar.bz2
+tar -xzvf Hemisu-3.4.tar.gz
+cd Hemisu-3.4
 ls
-s mv LX-Simple7 /usr/share/fcitx/skin/
-s mv -r LX-Simple7 /usr/share/fcitx/skin/
-s mv LX-Simple7 /usr/share/fcitx/skin/
-s cp -r LX-Simple7 /usr/share/fcitx/skin
-s cp -r LX-Simple7\(Black\) /usr/share/fcitx/skin
-fcitx
-s pacman -Rnvs fcitx
-rm .config/fcitx
+ls
+cd colors
+ls
+mv hemisu.vim ~/.vim/colors
+ls
+cd .vim
+ls
+cd ~
+ls
+cd .vim
+ls
+cd syntax
+ls
+mv c.vim cvim
+ls
+mv cvim c.vim
+cls
+ls
+ls
+ls
+ls
+ls
+rm Hemisu-3.4
+ks
+rm Hemisu-3.4.tar.gz
+ls
+tar -xzvf cpp11.tgz
+mv cpp11_cbase.vim cpp11.vim .vim/colors/
+ls
+ls
+pwd
+ls
+rm cpp11.tgz
+ls
+cls
+ls
+cd ~
+ls
+unzip -x std_c.zip
+ls
+cd syntax
+ls
+ls syntax\ test\ files
+find
+ls
+vim c.vim
+cd ~/.vim/syntax/
+vim c.vim
+ls
+cd ..
+ls
+cd ~
+ls
+rm std_c.zip
+rm syntax
+rm -rf syntax
+ls
+cd vim.2
+ls
+ls
+ls colors
+sudo timedatectl --help
+sudo timedatectl set-time "07/03"
+sudo timedatectl set-time --help
+sudo timedatectl set-time 
+sudo timedatectl status
+sudo timedatectl set-local-rtc 1
+sudo timedatectl status
+sudo timedatect set-time "2013-07-03 04:07:55"
+sudo timedatectl set-time "2013-07-03 04:08:20"
+sudo timedatectl status
+timedatectl status
+ls
+ls
+mv .vim vim.1
+mv vim.bak .vim
+mv .vim vim.2
+mv vim.1 .vim
+ls-al
+ls -al
+vim 
+vim
+ls
+cd $Downloads
+ls
+cd $Video
+ls
+ls
+ls
+cd $Downloads
+ls
+vim test.c
+vim test.c
+vim test.c
+vim test.c
+vim test.c
+ls
+git clone https://github.com/tnrazy/.vim.git vim.bak
+ls
+cd .vim
+cd bundle
+ls
+mv supertab ~
+cd ~
+ls
+cd vim.bak
+ls
+cd bundle
+ks
+ls
+cp supertab ~/.vim/bundle
+ls
+rm vim.bak
+rm -rf vim.bak
+ls
+ls
+ls supertab
+ls
+cd supertab
+ls
+make
+vim Makefile
+ls
+vim
+cd supertab/
+ls
+vim Makefile
+vim
+vim
+vim
+vim
+vim
+vim
+vim
+vim
+vim
+vim
+vim
+vim
+vim
+vim vim.2/variables.vim
+whereis ctags
+ ncmpcpp
+cd .vim/bundle
+l
+ls
+mv tlib_vim ~
+vim
+ls
+cd supertab
+ls
+ls plugin
+ls plugin
+ls
+ls plugin
+ls
+ls
+cd ..
+ls
+cd ~
+ls
+rm supertab
+ls
+rm -rf supertab
+rm -rf tlib_vim
+cd .vim/bundle
+ls
+ls
+ls
+ls
+mv supertab ~
+ls
+git clone https://github.com/ervandew/supertab.git
+cd supertab
+ls
+make
+vim
+cd ..
+ls
+rm -rf snipmate.vim
+ls
+ls
+git clone https://github.com/garbas/vim-snipmate.git
+vim
+ls
+git clone https://github.com/tomtom/tlib_vim.git
+git clone https://github.com/tomtom/tlib_vim.git
+git clone https://github.com/tomtom/tlib_vim.git
+git clone https://github.com/MarcWeber/vim-addon-mw-utils.git
+vim
+vim test.c
+vim test.c
+ls
+rm -rf tlib_vim
+rm -rf vim-snipmate
+rm -rf vim-addon-mw-utils
+ls
+git clone https://github.com/ervandew/snipmate.vim.git
+vim
+vim test.c
+cl
+sls
+cls
+ls
+cd ..
+ls
+ls
+ls
+cd ..
+ls
+cd -
+ls
+git init
+cd ..
+ls
+ls
+cd ..
+ls
+cd -
+ls
+git clone https://github.com/tnrazy/.vim.git vim-config
+ls
+cd vim
+cd vim-config
+ls
+git rm after autoload bundle colors cscope_maps.vim README.md screen.png status.vim syntax tags vimrc
+git rm after autoload bundle colors cscope_maps.vim README.md screen.png status.vim syntax tags vimrc 
+git rm -r after autoload bundle colors cscope_maps.vim README.md screen.png status.vim syntax tags vimrc 
+ls
+ls
+ls -al
+ls
+pwd
+rm .netrwhist
+ls
+cp ~/.vim/* .
+ls
+git submodule init
+git submodule status
+git submodule add bundle/ack.vim bundle/ctrlp.vim bundle/gundo.vim bundle/nerdcommenter bundle/nerdtree bundle/numbers.vim bundle/OmniCppComplete bundle/snipmate.vim bundle/supertab bundle/tagbar bundle/vim-buffergator bundle/vim-css-color bundle/vim-easymotion bundle/vim-matchit bundle/vim-powerline bundle/ZoomWin 
+git submodule add bundle/ack.vim
+git submodule add bundle/ack.vim
+git submodule add https://github.com/mileszs/ack.vim.git bundle/ack.vim
+git submodule add https://github.com/kien/ctrlp.vim.git bundle/ctrlp.vim
+git submodule add https://github.com/sjl/gundo.vim.git bundle/gundo.vim
+git submodule add https://github.com/scrooloose/nerdcommenter.git bundle/nerdcommenter
+git submodule add https://github.com/scrooloose/nerdtree.git bundle/nerdtree
+git submodule add https://github.com/myusuf3/numbers.vim.git bundle/numbers.vim
+git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/OmniCppComplete
+git submodule add https://github.com/ervandew/snipmate.vim.git bundle/snipmate.vim
+git submodule add https://github.com/ervandew/supertab.git bundle/supertab
+git submodule add https://github.com/majutsushi/tagbar.git bundle/tagbar
+git submodule add https://github.com/jeetsukumaran/vim-buffergator.git bundle/vim-buffergator
+git submodule add https://github.com/skammer/vim-css-color.git bundle/vim-css-color
+git submodule add https://github.com/Lokaltog/vim-easymotion.git bundle/vim-easymotion
+git submodule add https://github.com/edsono/vim-matchit.git bundle/vim-matchit
+git submodule add https://github.com/Lokaltog/vim-powerline.git bundle/vim-powerline
+git submodule add https://github.com/vim-scripts/ZoomWin.git bundle/ZoomWin
+ls
+git submodule status
+git submodule update
+ls
+git add .
+ls -al
+ls plugin
+cd .vim
+s
+ls
+ls plugin
+cd plugin
+ls
+cd ..
+ls
+rm plugin
+ls
+ls
+ls
+ls
+git rm -r plugin/
+git rm -rf plugin/
+git add
+git add .
+git push
+git push
+git commit
+git commit -a
+git commit -a
+vim
+ls
+ls -al
+vim .vimrc
+git commit -a 
+vim .vimrc
+cls
+ls
+cd vim-config
+ls
+git commit
+ls
+git push
+ls
+git rm .netrwhist
+git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/OmniCppComplete
+git add .
+git commit -a
+git submodule update
+git push
+git push
+git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/OmniCppComplete
+git submodule status
+git submodule init
+git submodule status
+ls
+git submodule sync
+git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/OmniCppComplete
+git submodule
+ls
+git add .
+git commit
+git push
+git push
+ls
+vim .Xresources
+xrdb .X
+cd ~
+ls
+xrdb .Xresources
+ls
+ls -al
+ls -al
+ls -a
+color1
+xrdb .Xresources
+ls
+xrdb .Xresources
+ls
+ls
+ls
+vim .Xresources
+xrdb .Xresources
+ls
+ls -al
+ls -al
+ls $Music
+ls
+ls
+ls
+ls
+ls
+ls
+ls -al
+vim .Xresources
+ncmpcpp
+ls -al
+ls
+vim .Xresources
+xrdb .Xresources
+ls
+ls
+xrdb .Xresources
+ls
+ls
+xrdb .Xresources
+ls
+ls -al
+ls $Music
+ls
+ls 
+ls
+ls
+ls
+cd bundle
+ls
+git clone git://github.com/airblade/vim-gitgutter.git
+cd vim-gitgutter
+ls
+ls
+cd ..
+ls
+rm -rf vim-gitgutter
+ls
+mv OmniCppComplete ~
+git clone https://github.com/Shougo/neocomplcache.vim.git 
+vim
+cd .vim/bundle
+ls
+ls
+mv OmniCppComplete ~
+ls
+cd 
+cd ~
+ls
+cd
+pwd
+ls
+rm -rf test.cpp
+ls
+rm OmniCppComplete
+ls
+cd vim-config
+ls
+cd bundle
+ls
+cp neocomplcache.vim ~/.vim/bundle
+cd ~/.vim/bundle
+ls
+mv OmniCppComplete ~
+ls
+vim
+ls
+ls
+vim
+vim
+vim
+vim .vimrc
+ls
+rm -rf vim.2
+ls
+cd vim-config
+ls
+git rm -rf bundle/OmniCppComplete/
+ls
+cd bundle
+ls
+cd ..
+ls
+cp ~/.vim/vimrc
+cp ~/.vim/vimrc .
+ls
+vim vimrc
+\:q
+vim vimrc
+vim vimrc
+vim vimrc
+vim vimrc
+cp ~/.vim/vimrc .
+ls
+git add .
+git submodule add https://github.com/Shougo/neocomplcache.vim.git bundle/neocomplcache.vim
+git add .
+git commit
+cd vim-config
+ls
+git push
+git commit
+git push
+vim .Xresources
+xrdb .Xresources
+ls
+cd .vim
+ls
+cd ..
+ls
+cd vim-config
+ls
+git submodule status
+cd vim-config
+ls
+git submodule add https://github.com/Shougo/neocomplcache.vim.git bundle/neocomplcache.vim
+git submodule init
+git submodule 
+git submodule sync
+git submodule update
+vim .gitmodules
+git submodule update
+git submodule
+git add .
+git commit
+git push
+ls
+color
+color
+ls
+rm -rm vim-config
+rm -rf vim-config
+git clone https://github.com/tnrazy/.vim.git vim-cfg
+ls
+cd vim-cfg
+ls
+ls bundle/ack.vim
+ls
+cd ..
+ls
+rm -rf vim-cfg
+ls
+mv OmniCppComplete .vim/bundle
+ls
+rm test.c
+ls
+cd .vim/bundle
+ls
+mv neocomplcache.vim ~
+ls
+mv OmniCppComplete ~
+mv ~/neocomplcache.vim .
+ls
+rm -rf neocomplcache.vim
+ls
+mv ~/OmniCppComplete .
+ls
 startx
+sudo hciconfig reset
+sudo hciconfig x reset
+vim /etc/rc.local
+vim /boot/grub/grub.cfg
+mount /dev/sda8 /mnt
+s mount /dev/sda8 /mnt
+ls /mnt
+cd /mnt
+ls
+echo aa > aa
+ls
+sudo reboot
+startx
+hciconfig scan
+hciconfig x scan
+bluetoothctl -a
+hciconfig -a
+ls
+cd .vim
+ls
+git pull
+cd ..
+ls
+ls
+ls
+rm 0rf android_hardware_realtek
+rm -rf android_hardware_realtek
+ls
+hcitool scan
+bluetoothctl -a
+df
+du -sh /var
+sudo du -sh /var
+dbfm
+s
+ls
 cls
 ls
-rm LX-Simple7*
-rm Fcitx\?\?\?\?\?.tar.gz
+git clone https://github.com/xiaohan2012/qq-music-downloader.git
+ls
+cd qq-music-downloader
+ls
+ack 
+ack "main"
+python2 task.py
+python2 config.py
+python2 config.py
+git clone https://github.com/yupengfei/QQmusic.git
+l
+ls
+cd QQmusic
+ls
+make
+cmake
+ls
+cd ~
+ls
+mv vimrc .vim
+cat /sys/module/hid_apple/parameters/fnmode
+vim /etc/rc.local
+vim .vimrc
+vim .vimrc
+vim /etc/rc.local
+sudo systemctl restart rc.local.service
+ifconfig
+cat /sys/module/hid_apple/parameters/fnmode
+vim /etc/systemd/system/rc.local.service
+cl
 cls
 ls
-ls
-ls
+vim /etc/systemd/system/rc.local.service
 cls
 ls
-rm fcitx-skin-viewer
-rm -rf fcitx-skin-viewer
-cls
+htop
 ls
-cls
 ls
-s rm compton-git
-rm -rf compton-git
-cls
+ls
+git clone https://github.com/tnrazy/dotfile.git
 ls
 cd dotfile
 ls
-ls -al
-feh 2013-03-14-0
-feh 2013-03-14-0*
-weechat-curses
-cp /etc/mpd.conf mpd.conf
-vim mpd.conf
-cls
+git pull
+ls .config/zsh
 ls
-cp /etc/mplayer/mplayer.conf mplayer.conf
-vim mplayer.conf
-cls
+cp ~/.Xresources .
 ls
-rm userChrome.css
-cls
+vim .Xresources
 ls
-cat README.md
-echo > README.md
-cls
+cd .config
 ls
-ls theme_cursor_fonts
-cls
-ls
-ls -al
-cd theme_cursor_fonts
-ls
-tar -xzvf fonts.tar.gz
-cls
-s
-cd fonts
-ls
-cls
-ls
-cd ..
-ls
-rm fonts
-ls
-ls
-rm -rf tri*
-cls
-ls
-rm GTK_ENGINE
-cls
-ls
-rm Magnifique\ Bright
-cls
-ls
-cp /usr/share/themes/Owl\ Light Owl
-cls
-ls
-tar -czvf Owl Owl.tar.gz
-tar -czvf Owl.tar.gz Owl
-cls
-ls
-rm -rf Owl
-cls
-ls
-cd ..
-ls
-cd theme_cursor_fonts
-cls
-ls
-cd ..
-ls
-mv theme_cursor_fonts resources
-cls
-ls
-vim LIST
-vim LIST
-cls
-ls
-ls .config
-rm -rf .config
-cp ~/.config #config
-cp ~/.config $config
-cp ~/.config "#config"
-ls
-ls \#config
-rm \#config/script
-rm \#config/
-cp ~/.config .config
+cp ~/.config/zsh .

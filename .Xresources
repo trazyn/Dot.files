@@ -117,9 +117,6 @@ URxvt.perl-ext-common:    default,matcher
 URxvt.perl-ext:           default
 URxvt.urlLauncher:        /usr/bin/luakit
 URxvt.matcher.button:     1
-URxvt.keysym.C-C: 	  perl:clipboard:copy
-URxvt.keysym.C-V: 	  perl:clipboard:paste
-URxvt.keysym.C-A-V: 	  perl:clipboard:paste_escaped
 
 !==============================================================
 !

@@ -111,13 +111,15 @@ URxvt*termName:           rxvt-256color
 ! URxvt.tabbed.tab-bg:      4
 
 ! Perls stuff
+URxvt.iso14755: 	  false
 URxvt.perl-lib:           /usr/lib/urxvt/perl/
-! URxvt.perl-ext-common:    default,matcher,tabbed
 URxvt.perl-ext-common:    default,matcher
 URxvt.perl-ext:           default
-URxvt.keysym.M-u:         perl:url-select:select_next
 URxvt.urlLauncher:        /usr/bin/luakit
 URxvt.matcher.button:     1
+URxvt.keysym.C-C: 	  perl:clipboard:copy
+URxvt.keysym.C-V: 	  perl:clipboard:paste
+URxvt.keysym.C-A-V: 	  perl:clipboard:paste_escaped
 
 !==============================================================
 !

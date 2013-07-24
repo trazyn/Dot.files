@@ -20,10 +20,9 @@ myweather &
 
 alsa-tray &
 
-python2 ~/.config/goproxy/proxy.py > /dev/null &
+python3 ~/.config/goproxy/proxy.py > /dev/null &
 
-
-#eval `cat ~/.fehbg`
+feh --bg-fill /mnt/d/Wallpaper/Beautiful/jingxuan101.jpg &
 
 exec openbox-session
 

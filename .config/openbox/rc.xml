@@ -191,7 +191,7 @@
     </keybind>
     <keybind key="W-b">
       <action name="Execute">
-	      <command>luakit "http://www.google.com/ncr"</command>
+        <command>luakit "http://www.google.com/ncr"</command>
       </action>
     </keybind>
     <keybind key="W-A-m">

@@ -10,7 +10,7 @@ Description=/etc/rc.local Compatibility
 ConditionPathExists=/etc/rc.local
 
 [Service]
-Type=fork
+Type=forking
 ExecStart=/etc/rc.local
 TimeoutSec=0
 StandardOutput=tty

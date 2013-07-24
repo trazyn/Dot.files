@@ -8,7 +8,7 @@
 		</item>
 		<item label="PDF View">
 			<action name="Execute">
-				<execute>mupdf</execute>
+				<execute>zathura</execute>
 			</action>
 		</item>
 		<item label="GVIM">
@@ -16,11 +16,6 @@
 				<execute>
 					gvim
 				</execute>
-			</action>
-		</item>
-		<item label="Putty">
-			<action name="Execute">
-				<execute>putty</execute>
 			</action>
 		</item>
 	</menu>

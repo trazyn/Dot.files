@@ -1,4 +1,4 @@
-set font "Pragmata Medium 8"
+set font "Pragmata Medium 7"
 set default-bg "#30303a"
 set default-fg "#d6d6d6"
 set statusbar-bg "#30303a"

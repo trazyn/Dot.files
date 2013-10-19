@@ -4,13 +4,13 @@
 
 
 --- Gtk2 engine
-equinox, murrine, gtk-engines
+gtk-engines
 
 --- Gtk2 theme
-darks, naos, tri2, Owl Light
+naos, tri2, Owl Light
 
 --- Gtk2 theme selector
-gtk2_prefs, lxappearance
+lxappearance
 
 --- Cursor
 cursor_neutral

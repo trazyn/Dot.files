@@ -1,4 +1,0 @@
-#define arrowsinvert_width 8
-#define arrowsinvert_height 8
-static unsigned char arrowsinvert_bits[] = {
-   0x00, 0x22, 0x44, 0x88, 0x44, 0x22, 0x00, 0x00 };

@@ -19,7 +19,7 @@
 			</action>
 		</item>
 	</menu>
-	<menu id="system-menu" label="System #">
+	<menu id="system-menu" label="OpenBox #">
 		<item label="Openbox Configuration Manager">
 			<action name="Execute">
 				<command>
@@ -62,11 +62,6 @@
 		<item label="Luakit            (#_#)">
 			<action name="Execute">
 				<execute>luakit &quot;http://www.google.com/ncr&quot;</execute>
-			</action>
-		</item>
-		<item label="Browser - midori    *">
-			<action name="Execute">
-				<execute>midori</execute>
 			</action>
 		</item>
 		<separator/>

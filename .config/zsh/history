@@ -1,1078 +1,1012 @@
-ls colors
-sudo timedatectl --help
-sudo timedatectl set-time "07/03"
-sudo timedatectl set-time --help
-sudo timedatectl set-time 
-sudo timedatectl status
-sudo timedatectl set-local-rtc 1
-sudo timedatectl status
-sudo timedatect set-time "2013-07-03 04:07:55"
-sudo timedatectl set-time "2013-07-03 04:08:20"
-sudo timedatectl status
-timedatectl status
-ls
-ls
-mv .vim vim.1
-mv vim.bak .vim
-mv .vim vim.2
-mv vim.1 .vim
-ls-al
-ls -al
-vim 
-vim
-ls
-cd $Downloads
-ls
-cd $Video
-ls
-ls
-ls
-cd $Downloads
-ls
-vim test.c
-vim test.c
-vim test.c
-vim test.c
-vim test.c
-ls
-git clone https://github.com/tnrazy/.vim.git vim.bak
-ls
-cd .vim
-cd bundle
-ls
-mv supertab ~
-cd ~
-ls
-cd vim.bak
-ls
-cd bundle
-ks
-ls
-cp supertab ~/.vim/bundle
-ls
-rm vim.bak
-rm -rf vim.bak
-ls
-ls
-ls supertab
-ls
-cd supertab
-ls
-make
-vim Makefile
-ls
-vim
-cd supertab/
-ls
-vim Makefile
-vim
-vim
-vim
-vim
-vim
-vim
-vim
-vim
-vim
-vim
-vim
-vim
-vim
-vim vim.2/variables.vim
-whereis ctags
- ncmpcpp
-cd .vim/bundle
-l
-ls
-mv tlib_vim ~
-vim
-ls
-cd supertab
-ls
-ls plugin
-ls plugin
-ls
-ls plugin
-ls
-ls
-cd ..
-ls
-cd ~
-ls
-rm supertab
-ls
-rm -rf supertab
-rm -rf tlib_vim
-cd .vim/bundle
-ls
-ls
-ls
-ls
-mv supertab ~
-ls
-git clone https://github.com/ervandew/supertab.git
-cd supertab
-ls
-make
-vim
-cd ..
-ls
-rm -rf snipmate.vim
-ls
-ls
-git clone https://github.com/garbas/vim-snipmate.git
-vim
-ls
-git clone https://github.com/tomtom/tlib_vim.git
-git clone https://github.com/tomtom/tlib_vim.git
-git clone https://github.com/tomtom/tlib_vim.git
-git clone https://github.com/MarcWeber/vim-addon-mw-utils.git
-vim
-vim test.c
-vim test.c
-ls
-rm -rf tlib_vim
-rm -rf vim-snipmate
-rm -rf vim-addon-mw-utils
-ls
-git clone https://github.com/ervandew/snipmate.vim.git
-vim
-vim test.c
-cl
-sls
-cls
-ls
-cd ..
-ls
-ls
-ls
-cd ..
-ls
-cd -
-ls
-git init
-cd ..
-ls
-ls
-cd ..
-ls
-cd -
-ls
-git clone https://github.com/tnrazy/.vim.git vim-config
-ls
-cd vim
-cd vim-config
-ls
-git rm after autoload bundle colors cscope_maps.vim README.md screen.png status.vim syntax tags vimrc
-git rm after autoload bundle colors cscope_maps.vim README.md screen.png status.vim syntax tags vimrc 
-git rm -r after autoload bundle colors cscope_maps.vim README.md screen.png status.vim syntax tags vimrc 
-ls
-ls
-ls -al
-ls
-pwd
-rm .netrwhist
-ls
-cp ~/.vim/* .
-ls
-git submodule init
-git submodule status
-git submodule add bundle/ack.vim bundle/ctrlp.vim bundle/gundo.vim bundle/nerdcommenter bundle/nerdtree bundle/numbers.vim bundle/OmniCppComplete bundle/snipmate.vim bundle/supertab bundle/tagbar bundle/vim-buffergator bundle/vim-css-color bundle/vim-easymotion bundle/vim-matchit bundle/vim-powerline bundle/ZoomWin 
-git submodule add bundle/ack.vim
-git submodule add bundle/ack.vim
-git submodule add https://github.com/mileszs/ack.vim.git bundle/ack.vim
-git submodule add https://github.com/kien/ctrlp.vim.git bundle/ctrlp.vim
-git submodule add https://github.com/sjl/gundo.vim.git bundle/gundo.vim
-git submodule add https://github.com/scrooloose/nerdcommenter.git bundle/nerdcommenter
-git submodule add https://github.com/scrooloose/nerdtree.git bundle/nerdtree
-git submodule add https://github.com/myusuf3/numbers.vim.git bundle/numbers.vim
-git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/OmniCppComplete
-git submodule add https://github.com/ervandew/snipmate.vim.git bundle/snipmate.vim
-git submodule add https://github.com/ervandew/supertab.git bundle/supertab
-git submodule add https://github.com/majutsushi/tagbar.git bundle/tagbar
-git submodule add https://github.com/jeetsukumaran/vim-buffergator.git bundle/vim-buffergator
-git submodule add https://github.com/skammer/vim-css-color.git bundle/vim-css-color
-git submodule add https://github.com/Lokaltog/vim-easymotion.git bundle/vim-easymotion
-git submodule add https://github.com/edsono/vim-matchit.git bundle/vim-matchit
-git submodule add https://github.com/Lokaltog/vim-powerline.git bundle/vim-powerline
-git submodule add https://github.com/vim-scripts/ZoomWin.git bundle/ZoomWin
-ls
-git submodule status
-git submodule update
-ls
-git add .
-ls -al
-ls plugin
-cd .vim
-s
-ls
-ls plugin
-cd plugin
-ls
-cd ..
-ls
-rm plugin
-ls
-ls
-ls
-ls
-git rm -r plugin/
-git rm -rf plugin/
-git add
-git add .
-git push
-git push
-git commit
-git commit -a
-git commit -a
-vim
-ls
-ls -al
-vim .vimrc
-git commit -a 
-vim .vimrc
-cls
-ls
-cd vim-config
-ls
-git commit
-ls
-git push
-ls
-git rm .netrwhist
-git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/OmniCppComplete
-git add .
-git commit -a
-git submodule update
-git push
-git push
-git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/OmniCppComplete
-git submodule status
-git submodule init
-git submodule status
-ls
-git submodule sync
-git submodule add https://github.com/vim-scripts/OmniCppComplete.git bundle/OmniCppComplete
-git submodule
-ls
-git add .
-git commit
-git push
-git push
-ls
-vim .Xresources
-xrdb .X
-cd ~
-ls
-xrdb .Xresources
-ls
-ls -al
-ls -al
-ls -a
-color1
-xrdb .Xresources
-ls
-xrdb .Xresources
-ls
-ls
-ls
-vim .Xresources
-xrdb .Xresources
-ls
-ls -al
-ls -al
-ls $Music
-ls
-ls
-ls
-ls
-ls
-ls
-ls -al
-vim .Xresources
-ncmpcpp
-ls -al
-ls
-vim .Xresources
-xrdb .Xresources
-ls
-ls
-xrdb .Xresources
-ls
-ls
-xrdb .Xresources
-ls
-ls -al
-ls $Music
-ls
-ls 
-ls
-ls
-ls
-cd bundle
-ls
-git clone git://github.com/airblade/vim-gitgutter.git
-cd vim-gitgutter
-ls
-ls
-cd ..
-ls
-rm -rf vim-gitgutter
-ls
-mv OmniCppComplete ~
-git clone https://github.com/Shougo/neocomplcache.vim.git 
-vim
-cd .vim/bundle
-ls
-ls
-mv OmniCppComplete ~
-ls
-cd 
-cd ~
-ls
-cd
-pwd
-ls
-rm -rf test.cpp
-ls
-rm OmniCppComplete
-ls
-cd vim-config
-ls
-cd bundle
-ls
-cp neocomplcache.vim ~/.vim/bundle
-cd ~/.vim/bundle
-ls
-mv OmniCppComplete ~
-ls
-vim
-ls
-ls
-vim
-vim
-vim
-vim .vimrc
-ls
-rm -rf vim.2
-ls
-cd vim-config
-ls
-git rm -rf bundle/OmniCppComplete/
-ls
-cd bundle
-ls
-cd ..
-ls
-cp ~/.vim/vimrc
-cp ~/.vim/vimrc .
-ls
-vim vimrc
-\:q
-vim vimrc
-vim vimrc
-vim vimrc
-vim vimrc
-cp ~/.vim/vimrc .
-ls
-git add .
-git submodule add https://github.com/Shougo/neocomplcache.vim.git bundle/neocomplcache.vim
-git add .
-git commit
-cd vim-config
-ls
-git push
-git commit
-git push
-vim .Xresources
-xrdb .Xresources
-ls
-cd .vim
-ls
-cd ..
-ls
-cd vim-config
-ls
-git submodule status
-cd vim-config
-ls
-git submodule add https://github.com/Shougo/neocomplcache.vim.git bundle/neocomplcache.vim
-git submodule init
-git submodule 
-git submodule sync
-git submodule update
-vim .gitmodules
-git submodule update
-git submodule
-git add .
-git commit
-git push
-ls
-color
-color
-ls
-rm -rm vim-config
-rm -rf vim-config
-git clone https://github.com/tnrazy/.vim.git vim-cfg
-ls
-cd vim-cfg
-ls
-ls bundle/ack.vim
-ls
-cd ..
-ls
-rm -rf vim-cfg
-ls
-mv OmniCppComplete .vim/bundle
-ls
-rm test.c
-ls
-cd .vim/bundle
-ls
-mv neocomplcache.vim ~
-ls
-mv OmniCppComplete ~
-mv ~/neocomplcache.vim .
-ls
-rm -rf neocomplcache.vim
-ls
-mv ~/OmniCppComplete .
-ls
-startx
-sudo hciconfig reset
-sudo hciconfig x reset
-vim /etc/rc.local
-vim /boot/grub/grub.cfg
-mount /dev/sda8 /mnt
-s mount /dev/sda8 /mnt
-ls /mnt
-cd /mnt
-ls
-echo aa > aa
-ls
-sudo reboot
-startx
-hciconfig scan
-hciconfig x scan
-bluetoothctl -a
-hciconfig -a
-ls
-cd .vim
-ls
-git pull
-cd ..
-ls
-ls
-ls
-rm 0rf android_hardware_realtek
-rm -rf android_hardware_realtek
-ls
-hcitool scan
-bluetoothctl -a
-df
-du -sh /var
-sudo du -sh /var
+vim fmd.err
+telnet localhost 7000
+telnet localhost 7000
+ls
+vim fmd.err
+vim ~/.config/dbfm/dbfm.conf
+vim ~/.config/dbfm/session
+vim fmd.conf
+./fmd
+ls
+vim fmd.err
+telnet localhost 7000
 dbfm
-s
+vim test.c
+man 3 snprintf
+vim test.c
+ls
+cd doubanFM/src
 ls
 cls
 ls
-git clone https://github.com/xiaohan2012/qq-music-downloader.git
+rm log.h
 ls
-cd qq-music-downloader
+mk test
 ls
-ack 
-ack "main"
-python2 task.py
-python2 config.py
-python2 config.py
-git clone https://github.com/yupengfei/QQmusic.git
-l
+rm test
+mk test
+mv test.c lock test
 ls
-cd QQmusic
+mv douban.init.js Xtable.js daemon.c.bak test
+ls
 ls
 make
-cmake
+cd ..
+ls
+make
+man 3 stat
+man 3 fputs
+man 3 path_max
+ls
+make
+cd src
+ls
+mv test back
+ls
+cd ..
+ls
+make
+ls
+cd src
+ls
+tar -czvf back.tar.gz back
+ls
+rm back
+rm config.o daemon.o hash.o utils.o 
+cd ..
+ls
+make
+ls
+./dbfm
+./dbfm
+./dbfm x
+ps axu | grep dbfm
+cat /var/run/user/1000/dou
+clsls
+cls
+ls
+ls
+rm test test.c test.o 
+ls
+cd .config/dbfm
+ls
+ls
+pwd
+rm dbfm
+rm -rf dbfm
+ls
+cp dbfm.conf dbfm.rc
+ls
+make
+make
+make
+ls
+ls
+./dbfm
+vim t.c
+ls
+rm t t.c t.o 
+ls
+make
+./dbfm
+make
+./dbfm
+make
+make
+./dbfm
+make
+make
+make
+make
+make
+./dbfm
+make
+./dbfm
+make
+./dbfm
+make
+./dbfm
+make
+./dbfm
+ls
+vim dbfm.rc
+./dbfm
+make
+make
+make clean
+make
+./dbfm
+./dbfm
+make
+make
+make claen
+make clean
+make
+./dbfm
+make 
+make clean
+make
+./dbfm
 ls
 cd ~
 ls
-mv vimrc .vim
-cat /sys/module/hid_apple/parameters/fnmode
-vim /etc/rc.local
-vim .vimrc
-vim .vimrc
-vim /etc/rc.local
-sudo systemctl restart rc.local.service
-ifconfig
-cat /sys/module/hid_apple/parameters/fnmode
-vim /etc/systemd/system/rc.local.service
-cl
-cls
+cd dbfm-master
 ls
-vim /etc/systemd/system/rc.local.service
-cls
+make clean
 ls
-htop
+cd ..
+ls
+cd doubanFM
+ls
+cd src
+ls
+mv utils.c log.c
+mv utils.h log.h
+ls
+rm config.o daemon.o hash.o utils.o 
+ls -al
+rm ._.DS_Store
+rm .DS_Store
+ls -al
+chmod a+w api.c api.h back.tar.gz channel.c config.c config.h daemon.c daemon.h fm.c fm.h handler.c handler.h hash.c hash.h http.c http.h log.c log.h main.c play.c play.h playlist.c playlist.h screen.c screen.h screen_help.c screen_playlist.c screen_track.c session.c session.h util.c util.h 
+ls -al
+cd ..
+ls
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+vim Makefile
+make
 ls
 ls
 ls
-git clone https://github.com/tnrazy/dotfile.git
-ls
-cd dotfile
-ls
-git pull
-ls .config/zsh
-ls
-cp ~/.Xresources .
-ls
-vim .Xresources
+pwd
+cd ..
 ls
 cd .config
 ls
-cp ~/.config/zsh .
+mv dbfm back
 ls
+./dbfm
+./dbfm
+ls dbfm
+cd dbfm
+ls
+ls -al
+make
+make claen
+make clean
+make
+./dbfm
+ls
+cd src
+ls
+mv main.c main
 cd ..
+make clean
+make
+make
+make clean
+make
 ls
-git add .
-git commit
-git rm .config/zsh/history
-git commit
-git push
-git push
+cd src
 ls
-cp /etc/systemd/system/rc.local.service .
-cp /etc/rc.local .
-vim rc.local
-git add .
-git commit
-git push
-timedatectl
-hciconfig x scan
-hciconfig x --help
-bluetoothctl
-hidd
-vim /etc/modprobe.d/hid_apple.conf
-vim /etc/rc.local
-sudo pacman TBD
-sudo pacman -Ss TBD
-ls /dev/input/event
-sudo pacman -S hidd
-sudo pacman -Ss hidd
-man 8 bluetoothd
-vim /etc/dbus-1/system.d/bluetooth.conf
-pacman -Ss bluetooth-wizard
-pacman -Ss bluetooth
-pacman -Qo bluez
-pacman -Qo hciconfig
-pacman -Qo bluetoothctl
-whereis bluez
-pacman -Qd bluez
-pacman -Qb bluez
-pacman -Qe bluez
-sudo reboot
-cat /sys/module/hid_apple/parameters/fnmode
-startx
-ifconfig
-cat /etc/modprobe.d/hid_apple.conf
-su
-echo 2 > /sys/module/hid_apple/parameters/fnmode 
-ts bootstrap
-vim /boot/grub/grub.cfg
-s reboot
-stratx
-startx
-sudo hciconfig x reset
+gcc -std=gnu99 log.c log.h daemon.c daemon.h - test
+gcc -std=gnu99 log.c log.h daemon.c daemon.h -o test
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h -o test
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
+mv ../back/dbfm.rc .
 ls
-sensors
-du -sh
-du -sh /var
-cd /var
+./test
+./test
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
 ls
-du -sh
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
 ls
-ls games
-ls db
-ls lo
-du -sh log
-du -sh run
-du -sh cache
-cd ~
+vim test
+rm test
+vim dbfm.rc
 ls
-sudo pacman -Syu
-su
-su
-su
-su
-su
-passwd 
-passwd 
-vim /etc/pacman.d/mirrorlist
-pwd
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
+cat test
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+rm test
+./test
 ls
-cd $Video
+cat test
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
 ls
-cd Fast.And.Furious.6.2013.720p.WEB-DL.H264-HDCLUB\ \[PublicHD\]
+vim test.c
 ls
-mplayer Furious.6.2013.720p.WEB-DL.HDCLUB.mkv -sub Furious.6.2013.1080p.WEB-DL.Rus.Eng.HDCLUB.chs-eng.srt
-vim
-gvim Furious.6.2013.1080p.WEB-DL.Rus.Eng.HDCLUB.chs-eng.srt
-mplayer Furious.6.2013.720p.WEB-DL.HDCLUB.mkv -sub Furious.6.2013.1080p.WEB-DL.Rus.Eng.HDCLUB.chs-eng.srt
+rm test*
 ls
-cd ..
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
 ls
-cd å¸ƒµåƒ¥ƒ«.Parker.2013
+vim test.rc
+cls
 ls
-mplayer Parker.2013.720p.BluRay.x264-iNFAMOUS.mkv -sub Parker_2013.srt
-ls
-rm Parker_2013.srt
-pacman -Qo dconf
-dconf
-whatis dconf
-whatis 8 ifconfig
-pacman -Qo ifcon
-pacman -Qo ifconfig
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
 l
-unrar x 235148.parker_2013_720p_bluray_dts_x264_publichd_chs.rar
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
 ls
-mplayer Parker.2013.720p.BluRay.x264-iNFAMOUS.mkv -sub parker.2013.720p.bluray.dts.x264-publichd.chs.srt
+rm test.rc
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
 ls
-rm 235148.parker_2013_720p_bluray_dts_x264_publichd_chs.rar
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
+ls
+gcc -std=gnu99 log.c log.h daemon.c daemon.h hash.c hash.h config.c config.h -o test
+./test
+ls
+ls aa
+cd aa
+vim test.rc
+pwd
+cd ..
+s
+ls
+vim test.rc
+rm test.rc
+rm aa
+cd ..
+ls
+make
+make
+cd src
+ls
+mv main main.c
+cd ..
+ls
+make
+make
+make
+make
+make
+	make
+make claen
+make clean
+make
+./dbfm
+ls
+rm dbfm.rc
+ls
+vim session
+ls
+vim channels
+cls
+ls
+vim channels
+vim session
+./dbfm
+/.db
+./dbfm
+ls
+cl
+cs
+cls
+ls
+./dbfm
+make
+make
+make
+make
+make
+make
+make clean n
+make
+make
+make
+make
+make claen
+make clean
+make
+./dbfm
+ls
+make
+./dbfm
+make
+./dbfm
+make
+./dbfm
+make
+./dbfm
+ls
+ls
+make clean
+make
+./dbfm
+make
+./dbfm
+ls
+ls
+ls
+ls
+mk aa
+touch aaa
+touch aa
+ls
+rm aa aaa 
+ls
+touch aa
+ls
+mk aa
+mk aa
+ls
+rm aa
+make
+./dbfm
+cls
+cls
+reset
+ls
+ps axu | grep dbf,
+ps axu | grep dbf
+kill 9041
+cls
+ls
+make claen
+make clean
+ls
+make
+./dbfm
+vim dbfm.rc
+cls
+ls
+reset
+make
+make clean
+make
+./dbfm
+
+reset
+make clean
+make
+ps axu | grep dbfm
+kill 9552
+./dbfm
+reset
+ps axu | grep dbf
+kill 9751
+make clean
+make
+./dbfm -d
+telnet localhost 7000
+ps axu | grep dbfm
+kill 9955
+ps axu | grep dbfm
+kill 9955
+kill 10068
+ls
+vim dbfm.err
+ls
+ps axu | grep dbfm
+cls
+ls
+./dbfm -D
+cls
+make
+make
+make
+make
+./dbfm
+psa
+ps a
+ps aux
+ps aux | grep dbfm
+kill 10393
+ls
+vim dbfm.err
+vim dbfm.log
+ls
+cd dbfm-master
+ls
+make
+vim Makefile
+make
+./dbfm
+ls
+cd ..
+ls
+mv dbfm doubanFM
+ls
+mv back dbfm
+ls
+./dbfm
+ls
+ls
+cd ..
+ls
+cd doubanFM
+ls
+make
+make clean
+make
+./dbfm
+make
+./dbfm
+l
+ls
+cls
+ls
+ls -al
+rm ._.DS_Store .DS_Store 
+ls
+ls
+ps axu | grep dbfm
+kill 11186
+make
+make clean
+make
+./dbfm
+./dbfm
+ls
+cd ~/.config/doubanFM
+ls
+cat dbfm.log
+ls
+ls
+ls
+reset
+make
+./dbfm
+make
+./dbfm
+make
+./dbfm
+make
+./dbfm
+ls
+cd doubanFM
+cd ..
+ls
+cd dbfm-master
+ls
+make
+make 
+amk
+make
+./dbfm
+reste
+reset
+make
+./dbfm
+cd dbfm-master
+ls
+make
+./dbfm
+make
+make
+ls
+./dbfm
+make claen
+make claen
+make clean n
+make
+./dbfm
+ps axu | grep dbfm
+kill 12255
+dbfm
+ls
+pw
+pwd
+make
+make clean 
+make
+./dbfm
+ls
+make 
+make clean
+make
+./dbfm
+cat dbfm.log
+cls
+reset
+vim dbfm.log
+ps axu | grep dbfm
+kill 12676
+ls
+cls
+ls
+make
+./dbfm
+vim dbfm.log
+make
+./dbfm
+ls
+vim dbfm.log
+ls
+ls
+ls
+ls
+ls
+ls
+cd ..
+ls
+cd .config/doubanFM
+ls
+cp ../dbfm/heartno.text ../dbfm/heart.text .
+ls
+cls
+cls
+ls
+make
+./dbfm
+ls
+make clean
+make
+./dbfm
+cls
+ls
+make clean
+ls
+ls
+ls
+chmod a-x channels dbfm.err dbfm.log dbfm.rc heartno.text heart.text session 
+ls
+make
+./dbfm
+make clean
+make
+./dbfm
+cd $Music/
+ls
+cd DoubanFM
+ls
+ls
+cls
+ls
+reset
+cd doubanFM
+ls
+make
+./dbfm
+cd .config/doubanFM
+ls
+vim dbfm.log
+cls
+ls
+make
+make
+make
+./dbfm
+ls
+cd .config
+ls
+cd doubanFM
+ls
+vim dbfm.log
+echo > dbfm.log
+ls
+cls
+make
+make
+./dbfm
+ls
+cat dbfm.log
+cat dbfm.log
+cat dbfm.log
+cat dbfm.log
+cat dbfm.log
+cat dbfm.log
+cat dbfm.log
+cat dbfm.log
+cat dbfm.log
+cat dbfm.log
+ls
+ls
+cat dbfm.log
+ls
+ls
+cp ../dbfm/heartno.text ../dbfm/heart.text .
+ls
+cat heart.text
+make
+./dbfm
+ls
+ls
+rm -rf dkms-8192cu
+ls
+ls
+ls
+rm dbfm-master.zip
+ls
+ls
+cd doubanFM
+ls
+cd src
+ls
+mv back.tar.gz ../../dbfm-master/
+ls
+rm test
+ls
+cd ..
+ls
+make clean
+ls
+ls
+ls src
+ls
+ls
 cd ,,
 cd ..
 ls
-cd å®ƒ¨æƒª¤è€ƒ¥èƒ´çƒ»Ÿ.Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS
+git clone https://github.com/tnrazy/dbfm.git
 ls
-mplayer Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS.mkv -sub Rise.of.the.Guardians.ssa
-enca -x 
-enca --help
-enca -x utf-8 Rise.of.the.Guardians.ssa
+cd dbfm
 ls
-enca -x utf-8 Rise.of.the.Guardians.ssa
-enca -x utf88 Rise.of.the.Guardians.ssa
-enca -x utf8 Rise.of.the.Guardians.ssa
-enca -x utf-8 Rise.of.the.Guardians.ssa
-ls /usr/share/locale/
-ls -s /usr/share/X11/locale/locale.alias /usr/share/locale/locale.alias
-enca -x utf-8 Rise.of.the.Guardians.ssa
-vim /usr/share/locale/locale.alias
-vim /usr/share/X11/locale/locale.alias
-ls -s /usr/share/X11/locale/locale.alias /usr/share/locale/locale.alias
-s ls -s /usr/share/X11/locale/locale.alias /usr/share/locale/locale.alias
-enca -x utf-8 Rise.of.the.Guardians.ssa
-s ls -s /usr/share/X11/locale/locale.alias /usr/share/locale/locale.alias
-ls
-ln -s /usr/share/X11/locale/locale.alias aa
-ls
-rm aa
-sudo ln -s /usr/share/X11/locale/locale.alias /usr/share/locale/locale.alias
-enca -x utf-8 Rise.of.the.Guardians.ssa
-vim Rise.of.the.Guardians.
-vim Rise.of.the.Guardians.ssa
-mplayer Rise.of.the.Guardians.2012.720p.BluRay.x264-SPARKS.mkv -sub Rise.of.the.Guardians.ssa
-ls
-cd ..
-ls
-cd æƒ·ƒ€æƒµƒ¬çƒ€´åƒ½ƒ¯çƒ®ƒ«.Wreck.It.Ralph.2012
-ls
-mplayer Wreck.It.Ralph.2012.720p.BluRay.x264.DTS-WiKi.mkv -sub Wreck-It.Ralph.2012.BluRay.chs.srt
 ls
 ls
 cd ..
 ls
-pacman -Q
-pacman -Qi Grimrock
-whereis Grimrock
-sudo pacman -S Grimrock
-sudo pacman -Q Grimrock
-sudo pacman -Qb Grimrock
-sudo pacman -Qd Grimrock
-sudo pacman -Qe Grimrock
-sudo pacman -Qg Grimrock
-sudo pacman -Qh Grimrock
-sudo pacman -Qii Grimrock
-sudo pacman -Qv Grimrock
-sudo pacman -Qo Grimrock
-sudo pacman -Qn Grimrock
-sudo pacman -Rnvs Grimrock
-sudo pacman -Rnvs Grimrock
-sudo pacman -S Grimrock
 ls
-cd èƒ£ƒ¬æ°´ä¸€æƒ¨ƒ¸.The.Last.Stand.2013
+rm conf
+git rm conf/
+git rm -r conf/
+git rm -rf src/
 ls
-mplayer The.Last.Stand.2013.720p.BluRay.x264-MARKED.mkv -sub The.Last.Stand.2013.srt
+mv ../doubanFM .
+ls
+mv doubanFM/Makefile doubanFM/src .
+ls
+rm doubanFM
+ls
+vim README.md
+git add .
+git commit -a
+ls
+cd dbfm
+ls
+git rm preview.png
+git add .
+git commit -a
+git push
+vim README.md
+git add .
+git commit -a "mod config.* log.* daemon.*"
+git commit -a -m "mod config.* log.* daemon.*"
+git commit
+git push
+vim README.md
+ls
+ls
+git commit -a
+git push
+ls
 cd ..
 ls
-cd é»ƒ±æƒºƒ·å¤©éƒ¹ƒ¥.Dark.Skies.2013.720p
 ls
-mplayer Dark.Skies.2013.720p.BluRay.DTS.x264-HDWinG.mkv -sub sparks-ds2013-xvid.
-mplayer Dark.Skies.2013.720p.BluRay.DTS.x264-HDWinG.mkv -sub sparks-ds2013-xvid.chs.srt
+pwd
+ls
+rm ~/.config/doubanFM
+ls
+git clone https://github.com/Fs3Kuu/dbfm.git
+vim README.md
+ls
+rm dbfm
+rm -rf dbfm
+ls
+git clone https://github.com/Fs3Kuu/dbfm.git
+cd dbfm
+ls
+vim README.md
+git add .
+git commit
+git push
 ls
 cd ..
 ls
-cd æ¬¢è¿ƒ®æƒ½¥åƒ¨°åºžå¥ƒ§.Welcome.To.The.Punch.2013
 ls
-mplayer Welcome.To.The.Punch.2013.720p.BluRay.DTS.x264-PuTao.mkv -sub Welcome.To.Th.Punch.2013.BlURay.720p.DTS.x264-CHD.chseng.srt
+rm -rf dbfm
 ls
-cd ..
-ls
-df
+make
+./dbfm
 ls
 ls
+mv dbfm doubanFM
 ls
-pacman -Qtdq
-pacman -Qt
-du -sh /var
-df -sh
-df
-du -sh /usr
-cd $D
+cd doubanFM
 ls
-rm found.000
-rm QQMusicCache
-vim /boot/grub/grub.cfg
+mv Makefile
+vim Makefile
+ls
+make clean
+ls
+vim Makefile
+ls
+make clean
+ls
+rm dbfm
+ls
+find
+find -name "*.o" -type f
+ls
+find 
+ls
+make
+vim Makefile
+ls
+find -name "*.o" -type f
+find -name "*.o" -type f -exec rm {} \;
+ls
+find -name "*.o"
+ls
+find
+vim Makefile
+make
+make clean
+ls
+vim Makefile
+make
+make clean
+ls
+vim Makefile
+make
+make clean
+make clean
+vim Makefile
+make clean
+make
+make clean
+make clean
+vim Makefile
+make
+make clean
+make
+vim Makefile
+make clean 
+make
+make
+make
+make
+vim Makefile
+ls
+make clean
+vim Makefile
+make clean
+make
+make clean
+ls
+ls
+make
+./doubanFM
+ls
+make clean
+ls
+git add .
+git commit
+git push
+sudo reboot
+startx
+startx
+cls
+sudo pacman -S mysql
+mysql
+su
+su
+ls
+ls
+echo 2 >/sys/module/hid_apple/parameters/fnmode 
+vim /etc/pacman.conf
+sudo pacman -S mysql
+mysql
+mysqld
+mysql
+mysql
+mysqld
+ls
+rm audioPlayer.h
+rm -rf dbfm-master
+rm -rf fmd
+ls
+tar -xzvf mysql.tar.gz
+cd mysql
+ls
+sudo pacman -Rnvs mysql
+sudo pacman -Rnvs mariadb
+cls
+ls
+mysqld
+mysql
+ls
+makepkg
+sudo pacman -S cmake
+sudo pacman -Syy
+cls
+ls
+sudo pacman -S cmake
+makepkg
+ls
+sudo pacman -U mysql-5.6.14-1-x86_64.pkg.tar.xz
+mysqld
+ls
+sudo pacman -Rnvs mysql
+sudo pacman -S mysql
+sudo mysqld
+mysqld
+ls /var/lib/mysql
+sudo chmod a+x /var/lib/mysql
+ls /var/lib/mysql
+sudo pacman -Rnvs mariadb
+ls /var/lib/mysql
+sudo rm -rf /var/lib/mysql
+ls
+ls
+vim mysql.install
+mysql
+ls
+sh mysql.install
+sudo sh mysql.install
+ls
+mysqld
+ls
+sudo pacman -U libmysqlclient-5.6.14-1-x86_64.pkg.tar.xz mysql-5.6.14-1-x86_64.pkg.tar.xz mysql-clients-5.6.14-1-x86_64.pkg.tar.xz 
+mysqld
+sudo systemctl enable mysqld.service
+sudo systemctl start mysqld.service
+sudo systemctl status mysqld.service
+mysql
+sudo pacman -Q 
+sudo pacman -Q | wc -l
+sudo pacman -Rnvs yajl
+vim /etc/systemd/ntp-units.d
+sudo rm -rf /etc/systemd/ntp-units.d
+vim /etc/systemd/
+sensors
+sudo systemctl status lm_sensors.service
+sudo pacman -Rnvs lm_sensors
+cls
+ls
+sudo systemctl disable mysqld.service
+mysql
 dbfm
-vim /etc/rc.local
-vim /etc/modprobe.d/hid_apple.conf
-vim /etc/rc.local
-sudo reboot
-startx
-sudo hciconfig x up
-sudo hciconfig x reset
-vim /etc/rc.local
-vim /etc/rc.local
-sudo systemctl restart rc.local.service
-ifconfig
+mysqladmin -uroot -p123
+mysqladmin -uroot password 123
+mysql -h 127.1 -uroot -p123
+mysql -h 127.1 -uroot -p1234
+mysql -h 127.1 -uroot -p123
+mysql -h 127.1 -uroot -p123
+mysql -u root -p123
+mysql -utest -p123
+mysql -h localhost -utest -p123
+mysql -utest -p 123
+mysql -utest -p123
+mysql -utest -p"123"
+mysql -u test -p123
+dbfm
+create table dept
+(\
+deptno int primary key,\
+dname nvarchar(30),\
+loc nvarchar(30)\
+\
+\
+\
+\
+'
+cls
+sudo timedatectl set-time "20:23:20"
+sudo timedatectl set-time "20:23:20"
+sudo timedatectl set-time "20:23:20"
+sudo timedatectl set-time "20:23:33"
+git clone https://github.com/tnrazy/dbfm.git
 ls
+cd dbfm
+ls
+ls -al
+make
+./doubanFM
+ls
+cd .config/dunst
+cd ..
+ls
+cd doubanFM
+ls
+cat heartno.text
+cp ../dbfm/heartno.text ../dbfm/heart.text .
+./doubanFM
+ls
+cd ..
+ls
+ls dbfm
+ls doubanFM
+cd doubanFM
+ls
+rm dbfm.rc
+ls
+cd ..
+ls
+ls -al
+rm .gstreamer-0.10
+rm .gem
+rm -rm .neocomplcache
+rm -rf .neocomplcache
+rm .macromedia
+ls .fmd
+rm .fmd
+ls
+ls -al
+rm .zcompdump
+rm .viminfo
+tm .gnupg
+rm -rf .gnupg
+rm .adobe
+ls
+rm mysql mysql.tar.gz 
+ls
+ls
+pacman -Q | wc -l
+./doubanFM
+cd $Video
+ls
+cd Pacific.Rim.2013.720p.çƒ®¯å¤ªå¹³æ´ƒ«
+ls
+mplayer Pacific.Rim.2013.720p.BluRay.x264-SPARKS.mkv -sub Pacific.Rim.2013.BluRay.720p.DTS.x264-CHD.chs.srt
+ls
+cd..
+ls
+mplayer 12.Angry.Men.1957.åƒ­äºƒ¬æ€ƒ²æ±ƒ©.åƒ¯ƒ¬è¯­å­ƒ·å¹ƒµ.HR-HDTV.AC3.1024X576.x264-äººäººå½±è§ƒ¦åƒ¨¶ä½ƒ¼.mkv
+ls
+cd éƒ²¢éƒ³ä¹ƒ«èº¯.man.of.steel.2013.720p
+ls
+mplayer man.of.steel.2013.720p.bluray.x264-felony.mkv -sub man.of.steel.2013.720p.bluray.x264-felony.chs.srt
+enca man.of.steel.2013.720p.bluray.x264-felony.chs.srt
+enca --help
+enca -x utf-8 man.of.steel.2013.720p.bluray.x264-felony.chs.srt
+enca -x utf-8 man.of.steel.2013.720p.bluray.x264-felony.cht.srt
+mplayer man.of.steel.2013.720p.bluray.x264-felony.mkv -sub man.of.steel.2013.720p.bluray.x264-felony.chs.srt
+sudo pacman -Su
 ping www.baidu.com
-sudo reboot
-startx
-sudo hciconfig x reset
-ls
-ls
-vim /etc/rc.local
-vim /etc/systemd/system/rc.local.service
-vim /etc/systemd/system/rc.local.service
-vim /etc/rc.local
 sudo systemctl restart rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl restart rc.local.service
-ifconfig
-sudo systemctl stop rc.local.service
-vim /etc/rc.local
-vim /etc/systemd/system/rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl stop rc.local.service
-vim /etc/rc.local
-sudo systemctl stop rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl stop rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl stop rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl stop rc.local.service
-sudo systemctl start rc.local.service
-ifconfig
-vim /etc/rc.local
-ifconfig
-sudo /etc/rc.local
-ifconfig
-sudo systemctl stop rc.local.service
-ifconfig
-sudo systemctl --system daemon-reload
-sudo systemctl stop rc.local.service
-ifconfig
-sudo systemctl status rc.local.service
-sudo systemctl status rc.local.service
-vim /etc/systemd/system/rc.local.service
-sudo systemctl stop rc.local.service
-sudo systemctl --system
-sudo systemctl --system reload
-sudo systemctl --system reload
-sudo systemctl --system show
-sudo systemctl restart rc.local.service
-sudo reboot
-ifconfig
+sudo pacman -Su
 startx
-ifconfig
-sudo systemctl sys
-sudo hciconfig x up && hciconfig x reset
-sudo
-sudo hciconfig x up && sudo hciconfig x reset
-sudo hciconfig x reset
-sudo systemctl status rc.local.service
-sudo systemctl status rc.local.service
-sudo systemctl stop rc.local.service
-sudo systemctl start rc.local.service
-ifconfig
-sudo /etc/rc.local
-ifconfig
-htop
-kill 1225
-kill 1255
-vim /etc/systemd/system/dbus-org.bluez.service
-vim /etc/systemd/system/rc.local.service
-sudo systemctl start rc.lo
-sudo systemctl stop rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl stop rc.local.service
-sudo systemctl status rc.local.service
-sudo systemctl status rc.local.service
-sudo systemctl start rc.local.service
-ifconfig
-ifconfig
-sudo systemctl --system daemon-reload
-sudo systemctl stop rc.local.service
-sudo systemctl status rc.local.service
-sudo systemctl start rc.local.service
-ls
-ifconfig
-sudo systemctl --system daemon-reload
-sudo systemctl stop rc.local.service
-ifconfig
-sudo dhcpcd -x
-ifconfig
-htop
-sudo dhcpcd -x
-sudo dhcpcd --help
-sudo dhcpcd -x wlan0
-ifconfig
-ps axu | grep wpa
-sudo kill 1791
-ps axu | grep wpa
-ps axu | grep wpa
-sudo systemctl status rc.local.service
-sudo systemctl stop rc.local.service
-sudo systemctl status rc.local.service
-/bin/echo
-sudo systemctl stop rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl status rc.local.service
-sudo systemctl stop rc.local.service
-sudo systemctl status rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl status rc.local.service
-sudo systemctl stop rc.local.service
-sudo systemctl start rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl start rc.local.service
-sudo systemctl stop rc.local.service
+sudo pacman -Ss gael
 sudo reboot
-sudo hciconfig x up
-sudo hciconfig x reset
-sudo hciconfig x reset
-startx
-ifconfig
-sudo systemctl status rc.local.service
-vim /etc/rc.local
-vim /etc/systemd/system/rc.local.service
-sudo systemctl status rc.local.service
-sudo systemctl --system daemon-reload
-sudo systemctl status rc.local.service
-sudo systemctl stop rc.local.service
-ifconfig
-sudo systemctl start rc.local.service
-ifconfig
-sudo systemctl status rc.local.service
-sudo systemctl status rc.local.service
-sudo systemctl status rc.local.service
-ifconfig
-ifconfig
-ifconfig
-man 1 systemd
-ifconfig
-ls
-ls
-ifconfig
-vim /etc/rc.local
-sudo reboot
-startx
-sudo systemctl status rc.local.service
-sudo systemctl restart rc.local.service
-ifconfig
-ifconfig
-sudo hciconfig x up
-sudo hciconfig x reset
-sudo hciconfig x reset
-ls /sys/module/hid_apple/
-sudo systemctl status rc.local.service
-sh /etc/rc.local
-s sh /etc/rc.local
-htop
-kill 1237
-ls
-P\
-
-P\
-
-Q\
-
-ls
-mv dotfile Dots
-ls
-ls doc
-rm -rf do
-rm -rf doc
-ls
-cd Dots
-ls
-vim rc.local
-vim rc.local.service
-mv rc.local.service /etc/systemd/system/
-s mv rc.local.service /etc/systemd/system/
-ls
-cp /etc/systemd/system/rc.local.service .
-ls
-cp -r rc.local /etc/rc.local
-s cp -r rc.local /etc/rc.local
-vim /etc/rc.local
-sleep
-sleep 100
-sleep 3
-sudo systemctl restart rc.local.service 
-sudo systemctl --system daemon-reload
-sudo systemctl restart rc.local.service 
-ifconfig
-sudo systemctl status rc.local.service
-sudo reboot
-ifconfig
-vim /etc/rc.local 
-startx
-sudo systemctl stop rc.local.service
-sudo systemctl status rc.local.service
-sudo systemctl start rc.local.service
-ifconfig
-ifconfig
-ifconfig
-ifconfig
-ifconfig
-ifconfig
-ifconfig
-ifconfig
-cat /sys/module/hid_apple/parameters/fnmode
-vim /etc/rc.local
-vim /etc/systemd/system/rc.local.service
-sudo reboot
-cat /sys/module/hid_apple/parameters/fnmode
-tnrazy
-cl
 cls
 startx
-ifconfig
-ifconfig
-vim /etc/rc.local
-sudo systemctl restart rc.local.service
-vim /etc/systemd/system/rc.local.service
-sudo reboot
 startx
-sudo hciconfig x reset
-vim /etc/systemd/system/sys
-vim /etc/systemd/system/rc.local.service
-vim /etc/systemd/system/rc.local.service
-vim /etc/systemd/system/rc.local.service
-vim /etc/rc.local
-sudo reboot
-startx
-feh --help
-ls -al
-ls -al .icons
-ls -al .icons/default/index.theme
-rm -rf .icons
-rm -rf .spf13-vim-3
-rm .esd_auth
-ls
-rm -rf supertab
-cd $Wallpaper
-ls
-find -name "jingxuan101.jpg"
-feh -b Beautiful/jingxuan101.jpg
-feh -bg Beautiful/jingxuan101.jpg
-man feh
-feh -bg-fill Beautiful/jingxuan101.jpg
-feh --bg-fill Beautiful/jingxuan101.jpg
-feh --bg-fill Beautiful/jingxuan002a.jpg
-vim .xinitrc
-startx
-cat /sys/module/hid_apple/parameters/fnmode
-sensors
-sudo shutdown
-startx
-su 
-echo 2 > /sys/module/hid_apple/parameters/fnmode 
-ls
-cd Xtable.js
-ls
-git pull
 ncmpcpp
 ncmpcpp
 mpdcoverart
-vim
-vim
-vim
+ncmpcpp
+cls
+df
+sudo rm /var/cache/pacman/pkg/*
+df
+mv anwser.sql test.sql $Workspace
+mv anwser.sql test.sql  $D/Workspace
 ls
-vim Xtable.js/Xtable.js
-vim
-vim Xtable.js/Xtable.js
-vim Xtable.js/Xtable.js
-vim Xtable.js/Xtable.js
-vim Xtable.js/Xtable.js
-vim Xtable.js/Xtable.js
-vim Xtable.js/Xtable.js
+ncmpcpp
+cls
+git clone https://github.com/tnrazy/dotfile.git
+ncmpcpp 
 ls
+cd do
+cd dotfile
 ls
+cd dotfile
 ls
-ls -al
-ls
-ls
-ls
-cd Xtable.js
-ls
-git add .
-git commit
-ls
-cd ..
-ls
-cd .vim
-ls
-git add .
-git commit
-ls
-git clean
-ls
-cd ,.
-ls
-ls
-pwd
-cd ,,
-ls
-cd ..
-ls
-git clone 
-ls
-git clone https://github.com/tnrazy/.vim.git vim-config
-cp .vim/vimrc vim-config
-cd vim-config
-s
-vim vimrc
-cd vim-config
-s
-ls
-git add .
-git commit
-git push
-ls
-cd Dots
-ls
-git pull
-cp /etc/rc.local .
-cp /etc/systemd/system/rc.local.service .
-ls
-cp ~/.xinitrc .
-vim .xinitrc
-ls
-cp ~/.config/xresources .config
-ls .config/xresources
-ls
-ls
-rm .config
-cp ~/.config 
+git rm -rf .config/
 cp ~/.config .
